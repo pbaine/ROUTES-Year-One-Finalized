@@ -1,0 +1,774 @@
+ID,Date ,Database,Seizure Country,Seizure City,Origin Country1,Origin City1,Origin Country2,Origin City2,Origin Country3,Origin City3,Transit Country1,Transit City1,Transit Country2,Transit City2,Transit Country3,Transit City3,Transit Country4,Transit City4,Destination Country1,Destination City1,Destination Country2,Destination City2,Destination Country3,Destination City 3,Unique
+1,18-Jan-09,Birds,USA,New York,Guyana,,,,,,,,,,,,,,USA,New York,,,,,USA
+2,3-Feb-09,Birds,Australia,Melbourne,,,,,,,United Arab Emirates,Dubai,,,,,,,Australia,Melbourne,,,,,Australia
+3,12-Feb-09,Birds,Taiwan,Taipei,Indonesia,,,,,,,,,,,,,,,,,,,,Taiwan
+4,1-Mar-09,Birds,USA,Los Angeles,Vietnam,,,,,,,,,,,,,,USA,Los Angeles,,,,,Indonesia
+5,13-Mar-09,Birds,Indonesia,Jakarta,Indonesia,Jakarta,,,,,,,,,,,,,Saudi Arabia,Riyadh,,,,,India
+6,6-Sep-09,Birds,Australia,Perth,Indonesia,Denpasar,,,,,,,,,,,,,Australia,,,,,,Russia
+7,14-Sep-09,Birds,USA,New York,Guyana,Georgetown,,,,,,,,,,,,,USA,New York,,,,,Malta
+8,2-Oct-09,Birds,Taiwan,Kaohsiung,China,,,,,,,,,,,,,,,,,,,,Cameroon
+9,20-Oct-09,Birds,India,Bangalore,India,Bangalore,,,,,,,,,,,,,India,Delhi,,,,,Bulgaria
+10,31-Oct-09,Birds,Russia,Moscow,Russia,Moscow,,,,,,,,,,,,,Qatar,Doha,,,,,UK
+11,20-Nov-09,Birds,Taiwan,Taipei,China,,,,,,,,,,,,,,,,,,,,French Guiana
+12,21-Nov-09,Birds,Malta,Luqa,Malta,Luqa,,,,,,,,,,,,,Libya,Tripoli,,,,,Bangladesh
+13,28-Nov-09,Birds,Cameroon,Douala,Cameroon,Douala,,,,,,,,,,,,,Bahamas,,,,,,Switzerland
+14,2-Dec-09,Birds,Russia,Petropavlovsk Kamchatskiy,Russia,Petropavlovsk Kamchatskiy,,,,,,,,,,,,,Russia,Vladivostok,,,,,Serbia
+15,1-Feb-10,Birds,Cameroon,Douala,Cameroon,Douala,,,,,Ethiopia,Addis Ababa,,,,,,,Kuwait,Kuwait City,Bahrain,Manama,,,Democratic Republic of the Congo
+16,27-Apr-10,Birds,Bulgaria,Sofia,Lebanon,Beirut,,,,,,,,,,,,,Bulgaria,Sofia,,,,,Pakistan
+17,3-May-10,Birds,UK,Birmingham,UK,Birmingham,,,,,,,,,,,,,United Arab Emirates,Dubai,,,,,Brazil
+18,9-May-10,Birds,French Guiana,Cayenne,French Guiana,Cayenne,,,,,,,,,,,,,,,,,,,Nepal
+19,7-Jun-10,Birds,USA,Miami,Cuba,,,,,,,,,,,,,,USA,Miami,,,,,United Arab Emirates
+20,2-Jul-10,Birds,Bangladesh,Dhaka,India,,,,,,Bangladesh,Dhaka,,,,,,,Pakistan,,,,,,Israel
+21,20-Aug-10,Birds,Australia,Perth,,,,,,,,,,,,,,,Australia,Perth,,,,,Thailand
+22,11-Aug-10,Birds,Switzerland,Zurich,Brazil,Sao Paulo,,,,,,,,,,,,,Switzerland,Zurich,,,,,Austria
+23,22-Sep-10,Birds,Serbia,Belgrade,,,,,,,United Arab Emirates,,,,,,,,,,,,,,Guyana
+24,28-Sep-10,Birds,Democratic Republic of the Congo,Bukavu,Democratic Republic of the Congo,Bukavu,,,,,,,,,,,,,Singapore,,,,,,Kyrgyzstan
+25,28-Sep-10,Birds,Pakistan,Karachi,Pakistan,Karachi,,,,,,,,,,,,,Oman,Muscat,,,,,France
+26,5-Oct-10,Birds,Russia,Moscow,Russia,Moscow,,,,,,,,,,,,,United Arab Emirates,Dubai,,,,,Mexico
+27,6-Nov-10,Birds,Brazil,Brasilia,Brazil,Brasilia,,,,,,,,,,,,,Brazil,Fortaleza,,,,,Belgium
+28,22-Nov-10,Birds,Russia,Moscow,,,,,,,Russia,Moscow,,,,,,,Syria,Damascus,,,,,Spain
+29,3-Dec-10,Birds,Russia,Petropavlovsk Kamchatskiy,Russia,Petropavlovsk Kamchatskiy,,,,,,,,,,,,,Russia,Moscow,,,,,Egypt
+30,7-Dec-10,Birds,Nepal,Kathmandu,Nepal,Kathmandu,,,,,,,,,,,,,Qatar,Doha,,,,,Spain
+31,1-Jan-11,Birds,United Arab Emirates,Dubai,Kazakhstan,,,,,,,,,,,,,,United Arab Emirates,Dubai,,,,,Netherlands
+32,1-Jan-11,Birds,United Arab Emirates,Dubai,Kuwait,,,,,,,,,,,,,,United Arab Emirates,Dubai,,,,,Italy
+33,3-Jan-11,Birds,Brazil,Belem,Brazil,Rio de Janeiro,,,,,,,,,,,,,Brazil,Belem,,,,,Cuba
+34,1-Jan-11,Birds,Indonesia,Jakarta,Indonesia,Jakarta,,,,,,,,,,,,,Bahrain,,,,,,Venezuela
+35,7-Jan-11,Birds,Indonesia,Jakarta,Indonesia,Jakarta,,,,,,,,,,,,,Netherlands,,,,,,Singapore
+36,13-Jan-11,Birds,Indonesia,Jakarta,Indonesia,Jakarta,,,,,,,,,,,,,Saudi Arabia,,,,,,China
+37,19-Jan-11,Birds,Israel,Tel Aviv,Belgium,Brussels,,,,,,,,,,,,,Israel,Tel Aviv,,,,,Vietnam
+38,31-Jan-11,Birds,Indonesia,Jakarta,Indonesia,Jakarta,,,,,,,,,,,,,,,,,,,Canada
+39,11-Feb-11,Birds,Thailand,Bangkok,Thailand,Bangkok,,,,,,,,,,,,,,,,,,,Germany
+40,1-Apr-11,Birds,Austria,Vienna,Jamaica,,,,,,Austria,Vienna,,,,,,,Slovakia,,,,,,Peru
+41,17-Apr-11,Birds,Brazil,Recife,Brazil,Brasilia,,,,,,,,,,,,,Brazil,Recife,,,,,Kazakhstan
+42,1-Jun-11,Birds,United Arab Emirates,Dubai,Jordan,,,,,,,,,,,,,,United Arab Emirates,Dubai,,,,,Philippines
+43,24-Jun-11,Birds,Brazil,Manaus,Venezuela,,,,,,Brazil,Boa Vista,Brazil,Sao Paulo,,,,,Brazil,Manaus,,,,,Maldives
+44,1-Aug-11,Birds,United Arab Emirates,Dubai,Belgium,,,,,,,,,,,,,,United Arab Emirates,Dubai,,,,,Argentina
+45,1-Aug-11,Birds,United Arab Emirates,Dubai,Belgium,,,,,,,,,,,,,,United Arab Emirates,Dubai,,,,,Lebanon
+46,22-Aug-11,Birds,Brazil,Fortaleza,Brazil,Manaus,,,,,,,,,,,,,Brazil,Fortaleza,,,,,Kuwait
+47,24-Aug-11,Birds,USA,Los Angeles,USA,Los Angeles,,,,,,,,,,,,,China,Guangzhou,,,,,Jamaica
+48,1-Sep-11,Birds,Guyana,Georgetown,Guyana,Georgetown,,,,,,,,,,,,,,,,,,,Jordan
+49,28-Sep-11,Birds,Brazil,Brasilia,Brazil,,,,,,,,,,,,,,,,,,,,Qatar
+50,2-Oct-11,Birds,French Guiana,Cayenne,French Guiana,Cayenne,,,,,,,,,,,,,,,,,,,Morocco
+51,1-Nov-11,Birds,United Arab Emirates,Dubai,,,,,,,,,,,,,,,United Arab Emirates,Dubai,,,,,Bahrain
+52,21-Nov-11,Birds,Kyrgyzstan,Bishkek,Kyrgyzstan,Bishkek,,,,,,,,,,,,,United Arab Emirates,Dubai,,,,,Mali
+53,1-Dec-11,Birds,United Arab Emirates,Dubai,,,,,,,,,,,,,,,United Arab Emirates,Dubai,,,,,Czech Republic
+54,8-Dec-11,Birds,UK,Manchester,Pakistan,,,,,,,,,,,,,,UK,Manchester,,,,,South Africa
+55,13-Dec-11,Birds,France,Paris,Mexico,,,,,,,,,,,,,,France,Paris,,,,,Suriname
+56,1-Jan-12,Birds,United Arab Emirates,Abu Dhabi,Qatar,,,,,,,,,,,,,,United Arab Emirates,Abu Dhabi,,,,,Kenya
+57,1-Jan-12,Birds,United Arab Emirates,Abu Dhabi,Qatar,,,,,,,,,,,,,,United Arab Emirates,Abu Dhabi,,,,,Turkey
+58,15-Jan-12,Birds,Mexico,Tijuana,,,,,,,,,,,,,,,Mexico,Tijuana,,,,,Portugal
+59,17-Jan-12,Birds,Belgium,Brussels,Morocco,,,,,,,,,,,,,,Belgium,Brussels,,,,,Chile
+60,23-Jan-12,Birds,Spain,Santa Cruz de Tenerife,Spain,Santa Cruz de Tenerife,,,,,,,,,,,,,Spain,Madrid,,,,,Ethiopia
+61,28-Feb-12,Birds,Malta,Luqa,Malta,Luqa,,,,,,,,,,,,,Libya,,,,,,Saudi Arabia
+62,28-Feb-12,Birds,Belgium,Brussels,Belgium,Brussels,,,,,,,,,,,,,Morocco,,,,,,Libya
+63,1-Mar-12,Birds,Brazil,Belem,Brazil,Fortaleza,,,,,,,,,,,,,Brazil,Belem,,,,,Bahamas
+64,22-Mar-12,Birds,Taiwan,Taoyuan City,Vietnam,,,,,,,,,,,,,,Taiwan,Taoyuan City,,,,,Oman
+65,7-Apr-12,Birds,Guyana,Georgetown,Guyana,Georgetown,,,,,,,,,,,,,,,,,,,Syria
+66,1-May-12,Birds,United Arab Emirates,Dubai,Russia,,,,,,,,,,,,,,United Arab Emirates,Dubai,,,,,Slovakia
+67,1-May-12,Birds,United Arab Emirates,Dubai,Bahrain,,,,,,,,,,,,,,United Arab Emirates,Dubai,,,,,Armenia
+68,1-Jun-12,Birds,USA,New York,Guyana,,,,,,,,,,,,,,USA,New York,,,,,Japan
+69,3-Jun-12,Birds,USA,Los Angeles,Taiwan,Taipei,,,,,,,,,,,,,USA,Los Angeles,,,,,Iraq
+70,7-Jul-12,Birds,Taiwan,Taoyuan City,China,Guangzhou,,,,,,,,,,,,,Taiwan,Taoyuan City,,,,,
+71,1-Jul-12,Birds,United Arab Emirates,Dubai,Mali,,,,,,,,,,,,,,United Arab Emirates,Dubai,,,,,
+72,1-Jul-12,Birds,United Arab Emirates,Dubai,Czech Republic,,,,,,,,,,,,,,United Arab Emirates,Dubai,,,,,
+73,1-Jul-12,Birds,United Arab Emirates,Dubai,Italy,,,,,,,,,,,,,,United Arab Emirates,Dubai,,,,,
+74,29-Aug-12,Birds,India,Mumbai,Thailand,Bangkok,,,,,,,,,,,,,,,,,,,
+75,1-Sep-12,Birds,Egypt,Cairo,,,,,,,,,,,,,,,,,,,,,
+76,1-Sep-12,Birds,United Arab Emirates,Dubai,Bahrain,,,,,,,,,,,,,,United Arab Emirates,Dubai,,,,,
+77,1-Sep-12,Birds,United Arab Emirates,Dubai,Bahrain,,,,,,,,,,,,,,United Arab Emirates,Dubai,,,,,
+78,3-Sep-12,Birds,Guyana,Georgetown,Guyana,Georgetown,,,,,,,,,,,,,USA,New York,,,,,
+79,16-Oct-12,Birds,Russia,Anadyr,Russia,Anadyr,,,,,,,,,,,,,Russia,Moscow,,,,,
+80,17-Oct-12,Birds,Spain,Madrid,Venezuela,Caracas,,,,,,,,,,,,,Spain,Madrid,,,,,
+81,20-Oct-12,Birds,USA,Miami,Cuba,,,,,,,,,,,,,,USA,Miami,,,,,
+82,4-Nov-12,Birds,Pakistan,Faisalabad,Pakistan,Faisalabad,,,,,,,,,,,,,,,,,,,
+83,25-Nov-12,Birds,Pakistan,Karachi,Pakistan,Karachi,,,,,,,,,,,,,Bahrain,,,,,,
+84,26-Nov-12,Birds,Netherlands,Amsterdam,Mexico,,,,,,,,,,,,,,,,,,,,
+85,1-Dec-12,Birds,United Arab Emirates,Abu Dhabi,Qatar,,,,,,,,,,,,,,United Arab Emirates,Abu Dhabi,,,,,
+86,1-Dec-12,Birds,United Arab Emirates,Abu Dhabi,Qatar,,,,,,,,,,,,,,United Arab Emirates,Abu Dhabi,,,,,
+87,1-Dec-12,Birds,Russia,Vladivostok,Russia,Petropavlovsk Kamchatskiy,,,,,,,,,,,,,Russia,Vladivostok,,,,,
+88,1-Dec-12,Birds,Russia,Vladivostok,Russia,Novosibirsk,,,,,,,,,,,,,Russia,Vladivostok,,,,,
+89,3-Jan-13,Birds,Indonesia,Jakarta,Indonesia,Jakarta,,,,,,,,,,,,,China,Hong Kong,,,,,
+90,3-Jan-13,Birds,Bangladesh,Dhaka,South Africa,,,,,,,,,,,,,,Bangladesh,Dhaka,,,,,
+91,27-Feb-13,Birds,France,Paris,Mexico,Mexico City,,,,,France,Paris,,,,,,,Germany,Munich,,,,,
+92,19-Mar-13,Birds,Thailand,Bangkok,,,,,,,Thailand,Bangkok,,,,,,,,,,,,,
+93,1-Apr-13,Birds,UK,Manchester,Pakistan,,,,,,,,,,,,,,UK,Manchester,,,,,
+94,4-May-13,Birds,UK,Leeds,Pakistan,Islamabad,,,,,,,,,,,,,UK,Leeds,,,,,
+95,11-May-13,Birds,UK,Leeds,Pakistan,Islamabad,,,,,,,,,,,,,UK,Leeds,,,,,
+96,11-Jun-13,Birds,Austria,Vienna,Indonesia,Denpasar,,,,,,,,,,,,,Austria,Vienna,,,,,
+97,14-Jun-13,Birds,Italy,Milan,Argentina,,,,,,Italy,Milan,,,,,,,Malta,,,,,,
+98,24-Nov-13,Birds,Israel,Tel Aviv,Netherlands,,,,,,,,,,,,,,Israel,Tel Aviv,,,,,
+99,28-Nov-13,Birds,Australia,Darwin,Australia,Darwin,,,,,,,,,,,,,Indonesia,,,,,,
+100,10-Dec-13,Birds,Netherlands,Amsterdam,Suriname,,,,,,,,,,,,,,Netherlands,Amsterdam,,,,,
+101,8-Jan-14,Birds,Democratic Republic of the Congo,Kindu,Democratic Republic of the Congo,Kindu,,,,,,,,,,,,,Democratic Republic of the Congo,Bukavu,,,,,
+102,20-Jan-14,Birds,Guyana,Georgetown,Guyana,Georgetown,,,,,,,,,,,,,,,,,,,
+103,27-Jan-14,Birds,USA,Phoenix,Kenya,Nairobi,,,,,UK,London,,,,,,,USA,Phoenix,,,,,
+104,28-Jan-14,Birds,Brazil,Brasilia,Brazil,Brasilia,,,,,,,,,,,,,Brazil,Joao Pessoa,,,,,
+105,1-Feb-14,Birds,Brazil,Sao Paulo,Peru,,,,,,,,,,,,,,Brazil,Sao Paulo,,,,,
+106,24-Feb-14,Birds,Israel,Tel Aviv,Belgium,,,,,,,,,,,,,,Israel,Tel Aviv,,,,,
+107,27-Apr-14,Birds,Cuba,Camaguey,Cuba,Camaguey,,,,,,,,,,,,,USA,,,,,,
+108,2-May-14,Birds,Venezuela,Caracas,Venezuela,Caracas,,,,,,,,,,,,,France,,,,,,
+109,10-Apr-14,Birds,Singapore,,Vietnam,Ho Chi Minh City,,,,,,,,,,,,,Singapore,,,,,,
+110,15-May-14,Birds,Pakistan,Peshawar,Pakistan,Karachi,,,,,,,,,,,,,Pakistan,Peshawar,,,,,
+111,16-May-14,Birds,Cuba,Camaguey,Cuba,Camaguey,,,,,,,,,,,,,USA,,,,,,
+112,20-May-14,Birds,Australia,Sydney,,,,,,,United Arab Emirates,Dubai,,,,,,,Australia,Sydney,,,,,
+113,2-Jun-14,Birds,Venezuela,Caracas,,,,,,,,,,,,,,,Germany,Munich,,,,,
+114,9-Jun-14,Birds,Indonesia,Jakarta,Indonesia,Jakarta,,,,,,,,,,,,,France,Paris,,,,,
+115,10-Jun-14,Birds,China,Guangzhou,China,Guangzhou,,,,,,,,,,,,,Singapore,,,,,,
+116,1-Jul-14,Birds,UK,London,Turkey,,,,,,,,,,,,,,UK,London,,,,,
+117,13-Jul-14,Birds,Brazil,Sao Paulo,Portugal,,,,,,,,,,,,,,Brazil,Sao Paulo,,,,,
+118,8-Sep-14,Birds,Vietnam,Ho Chi Minh City,Vietnam,Ho Chi Minh City,,,,,,,,,,,,,Vietnam,Hanoi,,,,,
+119,1-Oct-14,Birds,Russia,Moscow,Russia,Moscow,,,,,,,,,,,,,Armenia,,,,,,
+120,10-Oct-14,Birds,Canada,Toronto,,,,,,,,,,,,,,,Canada,Toronto,,,,,
+121,13-Oct-14,Birds,Mexico,Hermosillo,Mexico,Toluca,,,,,,,,,,,,,Mexico,Hermosillo,,,,,
+122,12-Nov-14,Birds,Singapore,,Vietnam,Ho Chi Minh City,,,,,,,,,,,,,Singapore,,,,,,
+123,12-Nov-14,Birds,Pakistan,Karachi,Pakistan,Karachi,,,,,,,,,,,,,United Arab Emirates,Dubai,,,,,
+124,15-Dec-14,Birds,Spain,Santa Cruz de Tenerife,Spain,Santa Cruz de Tenerife,,,,,,,,,,,,,Italy,Milan,,,,,
+125,14-Jan-15,Birds,Germany,Bremen,Germany,Bremen,,,,,,,,,,,,,,,,,,,
+126,1-Mar-15,Birds,Peru,Lima,Peru,Lima,,,,,,,,,,,,,,,,,,,
+127,20-Apr-15,Birds,USA,Los Angeles,,,,,,,,,,,,,,,USA,Los Angeles,,,,,
+128,19-Jun-15,Birds,USA,Miami,Brazil,,,,,,,,,,,,,,USA,Miami,,,,,
+129,2-Jul-15,Birds,USA,Miami,Cuba,,,,,,,,,,,,,,USA,Miami,,,,,
+130,10-Sep-15,Birds,Venezuela,Maiquetia,Venezuela,Maiquetia,,,,,Spain,Madrid,,,,,,,Italy,Rome,,,,,
+131,14-Sep-15,Birds,Kazakhstan,Shymkent,Kazakhstan,Shymkent,,,,,,,,,,,,,United Arab Emirates,Dubai,,,,,
+132,28-Sep-15,Birds,Mexico,Reynosa,Mexico,Reynosa,,,,,,,,,,,,,Mexico,Mexico City,,,,,
+133,22-Oct-15,Birds,Brazil,Sao Paulo,Chile,,,,,,Brazil,Sao Paulo,,,,,,,United Arab Emirates,Dubai,,,,,
+134,31-Oct-15,Birds,Guyana,Georgetown,Guyana,Georgetown,,,,,,,,,,,,,USA,New York,,,,,
+135,28-Nov-15,Birds,Brazil,Sao Paulo,Italy,,,,,,,,,,,,,,Brazil,Sao Paulo,,,,,
+136,1-Nov-15,Birds,Brazil,Sao Paulo,Brazil,Sao Paulo,,,,,,,,,,,,,,,,,,,
+137,9-Jan-16,Birds,USA,Miami,Cuba,Havana,,,,,,,,,,,,,USA,Miami,,,,,
+138,17-Jan-16,Birds,Pakistan,Karachi,United Arab Emirates,Dubai,,,,,,,,,,,,,Pakistan,Karachi,,,,,
+139,28-Jan-16,Birds,Philippines,Manila,Philippines,Manila,,,,,,,,,,,,,Japan,,,,,,
+140,18-Feb-16,Birds,Netherlands,Beek,,,,,,,,,,,,,,,Iraq,,,,,,
+141,25-Feb-16,Birds,USA,Dallas,Vietnam,,,,,,,,,,,,,,USA,Dallas,,,,,
+142,12-Apr-16,Birds,Vietnam,Ho Chi Minh City,Vietnam,Ho Chi Minh City,,,,,,,,,,,,,Taiwan,,,,,,
+143,27-Apr-16,Birds,Maldives,Maldives,Thailand,Bangkok,,,,,,,,,,,,,Maldives,Maldives,,,,,
+144,27-Apr-16,Birds,Guyana,Georgetown,Guyana,Georgetown,,,,,,,,,,,,,USA,New York,,,,,
+145,28-Apr-16,Birds,Guyana,Georgetown,Guyana,Georgetown,,,,,,,,,,,,,Canada,Toronto,,,,,
+146,5-Jun-16,Birds,Argentina,Buenos Aires,Argentina,Buenos Aires,,,,,,,,,,,,,Spain,Madrid,,,,,
+147,9-Feb-09,Reptiles,China,Hong Kong,Thailand,,,,,,,,,,,,,,China,Hong Kong,,,,,China
+148,20-Feb-09,Reptiles,Australia,Sydney,Australia,Sydney,,,,,,,,,,,,,Thailand,Bangkok,,,,,UK
+149,1-Mar-09,Reptiles,UK,,USA,,,,,,,,,,,,,,,,,,,,Taiwan
+150,9-Jul-09,Reptiles,Taiwan,Kaohsiung,China,,,,,,,,,,,,,,Taiwan,Kaohsiung,,,,,France
+151,1-May-09,Reptiles,Madagascar,Antananarivo,Madagascar,Antananarivo,,,,,,,,,,,,,,,,,,,New Zealand
+152,10-Sep-09,Reptiles,France,Paris,Niger,Niamey,,,,,France,Paris,,,,,,,USA,Miami,,,,,Indonesia
+153,29-Aug-09,Reptiles,Taiwan,Kaohsiung,Taiwan,Kaohsiung,,,,,,,,,,,,,China,Hong Kong,,,,,French Guiana
+154,10-Sep-09,Reptiles,France,Paris,Niger,,,,,,France,Paris,,,,,,,USA,Florida,,,,,Canada
+155,11-Nov-09,Reptiles,Taiwan,Taipei,China,,,,,,,,,,,,,,Taiwan,Taipei,,,,,Bangladesh
+156,17-Nov-09,Reptiles,USA,Los Angeles,Australia,,,,,,,,,,,,,,USA,Los Angeles,,,,,United Arab Emirates
+157,20-Nov-09,Reptiles,Taiwan,Taipei,China,,,,,,,,,,,,,,,,,,,,Germany
+158,6-Dec-09,Reptiles,New Zealand,Christchurch,New Zealand,Christchurch,,,,,,,,,,,,,Germany,Frankfurt,,,,,Estonia
+159,2-Mar-10,Reptiles,Indonesia,Jakarta,Indonesia,Jakarta,,,,,,,,,,,,,China,Hong Kong,,,,,Italy
+160,3-Apr-10,Reptiles,French Guiana,Cayenne,,,,,,,,,,,,,,,,,,,,,Philippines
+161,14-May-10,Reptiles,Canada,Edmonton,UK,,,,,,,,,,,,,,Canada,Edmonton,,,,,Belgium
+162,23-May-10,Reptiles,Bangladesh,Dhaka,India,Chennai,,,,,Bangladesh,Dhaka,,,,,,,Malaysia,,,,,,Kenya
+163,1-Jun-10,Reptiles,Malaysia,Kuala Lumpur,Madagascar,,,,,,,,,,,,,,Malaysia,Kuala Lumpur,,,,,Malta
+164,1-Jul-10,Reptiles,Malaysia,Kuala Lumpur,Madagascar,,,,,,,,,,,,,,,,,,,,Netherlands
+165,1-Aug-10,Reptiles,USA,Honolulu,Japan,Osaka,,,,,,,,,,,,,USA,Honolulu,,,,,Ecuador
+166,26-Aug-10,Reptiles,Malaysia,Kuala Lumpur,Malaysia,Penang,,,,,Malaysia,Kuala Lumpur,,,,,,,Indonesia,Jakarta,,,,,Brazil
+167,28-Sep-10,Reptiles,Thailand,Bangkok,India,,,,,,Bangladesh,,,,,,,,Thailand,Bangkok,,,,,Singapore
+168,11-Oct-10,Reptiles,Thailand,Bangkok,Madagascar,,,,,,Kenya,Nairobi,,,,,,,Thailand,Bangkok,,,,,Spain
+169,2-Dec-10,Reptiles,United Arab Emirates,Abu Dhabi,Indonesia,,,,,,United Arab Emirates,Abu Dhabi,,,,,,,United Arab Emirates,Abu Dhabi,,,,,Sweden
+170,7-Jan-11,Reptiles,USA,Los Angeles,Japan,,,,,,,,,,,,,,USA,Los Angeles,,,,,Israel
+171,31-Jan-11,Reptiles,Indonesia,Jakarta,Indonesia,Jakarta,,,,,,,,,,,,,,,,,,,Comoros
+172,1-Feb-11,Reptiles,Germany,Munich,Indonesia,,,,,,,,,,,,,,Germany,Munich,,,,,Spain
+173,9-Feb-11,Reptiles,Thailand,Bangkok,Thailand,Bangkok,,,,,,,,,,,,,,,,,,,Czech Republic
+174,11-Feb-11,Reptiles,Thailand,Bangkok,Thailand,Bangkok,,,,,,,,,,,,,,,,,,,Costa Rica
+175,22-Feb-11,Reptiles,Estonia,Tallinn,,,,,,,,,,,,,,,Estonia,Tallinn,,,,,Tanzania
+176,25-Mar-11,Reptiles,Indonesia,Jakarta,Indonesia,Jakarta,,,,,,,,,,,,,United Arab Emirates,Dubai,,,,,Kuwait
+177,1-May-11,Reptiles,Italy,,Indonesia,,,,,,,,,,,,,,Italy,,,,,,Philippines
+178,1-May-11,Reptiles,UK,,Turkey,,,,,,,,,,,,,,UK,,,,,,Sri Lanka
+179,16-May-11,Reptiles,Madagascar,Antananarivo,Madagascar,Antananarivo,,,,,,,,,,,,,China,,,,,,Tanzania
+180,26-May-11,Reptiles,France,Paris,,,,,,,,,,,,,,,,,,,,,South Africa
+181,2-Jun-11,Reptiles,Bangladesh,Dhaka,India,,,,,,Bangladesh,Dhaka,,,,,,,Malaysia,,,,,,Colombia
+182,10-Jun-11,Reptiles,Thailand,Bangkok,Bangladesh,Dhaka,,,,,Japan,,,,,,,,Thailand,Bangkok,,,,,Sudan
+183,1-Jul-11,Reptiles,,,Indonesia,,,,,,,,,,,,,,Netherlands,,,,,,Iran
+184,12-Jul-11,Reptiles,Thailand,Bangkok,,,,,,,,,,,,,,,China,Hong Kong,,,,,Ukraine
+185,17-Jul-11,Reptiles,Thailand,Bangkok,Thailand,Bangkok,,,,,,,,,,,,,Iran,,,,,,Austria
+186,25-Jul-11,Reptiles,Madagascar,Antananarivo,Madagascar,Antananarivo,,,,,,,,,,,,,Kenya,Nairobi,,,,,Laos
+187,16-Aug-11,Reptiles,Malaysia,Kuala Lumpur,Bangladesh,Dhaka,,,,,,,,,,,,,,,,,,,Nepal
+188,25-Aug-11,Reptiles,USA,Miami,USA,Miami,,,,,,,,,,,,,Brazil,,,,,,Thailand
+189,26-Aug-11,Reptiles,Malaysia,Kuala Lumpur,Malaysia,Penang,,,,,Malaysia,Kuala Lumpur,,,,,,,Indonesia,Jakarta,,,,,Australia
+190,29-Aug-11,Reptiles,Germany,Munich,Australia,Sydney,,,,,,,,,,,,,Germany,Munich,,,,,USA
+191,3-Sep-11,Reptiles,Madagascar,Mahajanga,Madagascar,Mahajanga,,,,,,,,,,,,,Thailand,Bangkok,,,,,Madagascar
+192,20-Oct-11,Reptiles,USA,Houston,El Salvador,,,,,,,,,,,,,,USA,Houston,,,,,Niger
+193,7-Nov-11,Reptiles,Indonesia,Jakarta,India,,,,,,Thailand,Bangkok,,,,,,,Indonesia,Jakarta,,,,,India
+194,1-Dec-11,Reptiles,UK,,Ghana,,,,,,UK,,,,,,,,Japan,,,,,,Japan
+195,7-Dec-11,Reptiles,Argentina,Buenos Aires,Argentina,Buenos Aires,,,,,Spain,,,,,,,,Czech Republic,Prague,,,,,Malaysia
+196,11-Dec-11,Reptiles,USA,Houston,El Salvador,,,,,,,,,,,,,,USA,Houston,,,,,Turkey
+197,3-Jan-12,Reptiles,Philippines,Puerto Princesa,,,,,,,,,,,,,,,Philippines,Puerto Princesa,,,,,El Salvador
+198,4-Jan-12,Reptiles,Belgium,Brussels,Uganda,Entebbe,,,,,Belgium,Brussels,,,,,,,Germany,,,,,,Ghana
+199,22-Jan-12,Reptiles,Kenya,Nairobi,Madagascar,Antananarivo,,,,,Kenya,Nairobi,,,,,,,Vietnam,Hanoi,,,,,Argentina
+200,22-Jan-12,Reptiles,Malta,Luqa,,,,,,,,,,,,,,,,,,,,,Uganda
+201,25-Jan-12,Reptiles,Indonesia,Merauke,,,,,,,,,,,,,,,Indonesia,Jakarta,,,,,Syria
+202,8-Feb-12,Reptiles,Indonesia,Merauke,,,,,,,,,,,,,,,,,,,,,Burundi
+203,1-Apr-12,Reptiles,United Arab Emirates,Dubai,Australia,,,,,,,,,,,,,,United Arab Emirates,Dubai,,,,,Ivory Coast
+204,1-Apr-12,Reptiles,United Arab Emirates,Dubai,Syria,,,,,,,,,,,,,,United Arab Emirates,Dubai,,,,,Oman
+205,1-Apr-12,Reptiles,United Arab Emirates,Dubai,USA,,,,,,,,,,,,,,United Arab Emirates,Dubai,,,,,Egypt
+206,17-Apr-12,Reptiles,Bangladesh,Dhaka,India,,,,,,Bangladesh,Dhaka,,,,,,,Thailand,Bangkok,,,,,Morocco
+207,23-Apr-12,Reptiles,Netherlands,Brussels,Burundi,,,,,,Netherlands,Brussels,,,,,,,Czech Republic,,,,,,Russia
+208,1-May-12,Reptiles,United Arab Emirates,Dubai,Ivory Coast,,,,,,,,,,,,,,United Arab Emirates,Dubai,,,,,Senegal
+209,1-May-12,Reptiles,United Arab Emirates,Dubai,Ivory Coast,,,,,,,,,,,,,,United Arab Emirates,Dubai,,,,,Pakistan
+210,1-May-12,Reptiles,United Arab Emirates,Dubai,Ivory Coast,,,,,,,,,,,,,,United Arab Emirates,Dubai,,,,,Mexico
+211,1-May-12,Reptiles,United Arab Emirates,Dubai,Sudan,,,,,,,,,,,,,,United Arab Emirates,Dubai,,,,,Togo
+212,7-May-12,Reptiles,India,Bangalore,India,Bangalore,,,,,,,,,,,,,Thailand,Bangkok,,,,,Nicaragua
+213,9-May-12,Reptiles,Germany,Munich,Oman,,,,,,,,,,,,,,,,,,,,Guyana
+214,28-Jun-12,Reptiles,India,Chennai,India,Chennai,,,,,Sri Lanka,Colombo,,,,,,,Malaysia,Kuala Lumpur,,,,,Qatar
+215,1-Jul-12,Reptiles,United Arab Emirates,Dubai,Egypt,,,,,,,,,,,,,,United Arab Emirates,Dubai,,,,,Cameroon
+216,1-Jul-12,Reptiles,United Arab Emirates,Dubai,Morocco,,,,,,,,,,,,,,United Arab Emirates,Abu Dhabi,,,,,Bahamas
+217,1-Jul-12,Reptiles,United Arab Emirates,Dubai,Sudan,,,,,,,,,,,,,,United Arab Emirates,Abu Dhabi,,,,,Lebanon
+218,1-Jul-12,Reptiles,United Arab Emirates,Dubai,Sudan,,,,,,,,,,,,,,United Arab Emirates,Abu Dhabi,,,,,Mauritius
+219,8-Jul-12,Reptiles,Ecuador,Galapagos,,,,,,,,,,,,,,,,,,,,,Guinea
+220,11-Jul-12,Reptiles,Thailand,Bangkok,,,,,,,,,,,,,,,Kuwait,,,,,,Panama
+221,1-Aug-12,Reptiles,United Arab Emirates,Dubai,Russia,,,,,,,,,,,,,,United Arab Emirates,Dubai,,,,,Vietnam
+222,1-Aug-12,Reptiles,United Arab Emirates,Dubai,Senegal,,,,,,,,,,,,,,United Arab Emirates,Dubai,,,,,Tunisia
+223,7-Aug-12,Reptiles,Bangladesh,Dhaka,Bangladesh,Dhaka,,,,,,,,,,,,,Thailand,Bangkok,,,,,
+224,19-Aug-12,Reptiles,USA,Orlando,USA,Orlando,,,,,,,,,,,,,Brazil,,,,,,
+225,27-Aug-12,Reptiles,Thailand,Bangkok,India,Kolkata,,,,,,,,,,,,,Thailand,Bangkok,,,,,
+226,29-Aug-12,Reptiles,India,Mumbai,Thailand,Bangkok,,,,,,,,,,,,,India,Mumbai,,,,,
+227,1-Oct-12,Reptiles,United Arab Emirates,Dubai,Sudan,,,,,,,,,,,,,,United Arab Emirates,Dubai,,,,,
+228,9-Oct-12,Reptiles,India,New Delhi,Thailand,Bangkok,,,,,India,New Delhi,,,,,,,United Arab Emirates,Dubai,,,,,
+229,10-Oct-12,Reptiles,Madagascar,Antananarivo,Madagascar,Antananarivo,,,,,Thailand,Bangkok,,,,,,,China,Guangzhou,,,,,
+230,22-Oct-12,Reptiles,France,Paris,,,,,,,,,,,,,,,France,Paris,,,,,
+231,30-Oct-12,Reptiles,India,Mumbai,India,Chennai,,,,,India,Mumbai,,,,,,,Thailand,Bangkok,,,,,
+232,1-Nov-12,Reptiles,United Arab Emirates,Dubai,Sudan,,,,,,,,,,,,,,United Arab Emirates,Dubai,,,,,
+233,1-Nov-12,Reptiles,United Arab Emirates,Dubai,Sudan,,,,,,,,,,,,,,United Arab Emirates,Dubai,,,,,
+234,1-Nov-12,Reptiles,United Arab Emirates,Dubai,Sudan,,,,,,,,,,,,,,United Arab Emirates,Dubai,,,,,
+235,19-Nov-12,Reptiles,Brazil,Belem,,,,,,,,,,,,,,,Brazil,Belem,,,,,
+236,5-Nov-12,Reptiles,Bangladesh,Dhaka,Bangladesh,Dhaka,,,,,,,,,,,,,,,,,,,
+237,1-Dec-12,Reptiles,United Arab Emirates,Dubai,Sudan,,,,,,,,,,,,,,United Arab Emirates,Dubai,,,,,
+238,1-Dec-12,Reptiles,United Arab Emirates,Dubai,Sudan,,,,,,,,,,,,,,United Arab Emirates,Dubai,,,,,
+239,1-Dec-12,Reptiles,United Arab Emirates,Dubai,Sudan,,,,,,,,,,,,,,United Arab Emirates,Dubai,,,,,
+240,11-Dec-12,Reptiles,Uganda,Entebbe,,,,,,,,,,,,,,,,,,,,,
+241,7-Feb-13,Reptiles,Thailand,Bangkok,Thailand,Bangkok,,,,,China,Hong Kong,,,,,,,China,,,,,,
+242,7-Feb-13,Reptiles,Thailand,Bangkok,,,,,,,,,,,,,,,,,,,,,
+243,10-Feb-13,Reptiles,India,Chennai,India,Chennai,,,,,,,,,,,,,Thailand,Bangkok,,,,,
+244,1-Mar-13,Reptiles,Netherlands,,Indonesia,,,,,,,,,,,,,,Netherlands,,,,,,
+245,1-Mar-13,Reptiles,Singapore,,,,,,,,,,,,,,,,Singapore,,,,,,
+246,1-Mar-13,Reptiles,Spain,,Argentina,,,,,,,,,,,,,,Spain,,,,,,
+247,9-Mar-13,Reptiles,India,Mumbai,India,Mumbai,,,,,,,,,,,,,Thailand,Bangkok,,,,,
+248,15-Mar-13,Reptiles,Thailand,Bangkok,Madagascar,,,,,,Kenya,Nairobi,,,,,,,Thailand,Bangkok,,,,,
+249,15-Mar-13,Reptiles,Thailand,Bangkok,,,,,,,,,,,,,,,Thailand,Bangkok,,,,,
+250,15-Mar-13,Reptiles,Indonesia,Jakarta,Indonesia,Papua,,,,,Indonesia,Jakarta,,,,,,,,,,,,,
+251,26-Mar-13,Reptiles,India,Chennai,China,,,,,,Malaysia,Kuala Lumpur,,,,,,,India,Chennai,,,,,
+252,17-Apr-13,Reptiles,India,Chennai,Thailand,Bangkok,,,,,,,,,,,,,India,Chennai,,,,,
+253,23-Apr-13,Reptiles,Pakistan,Islamabad,Pakistan,Islamabad,,,,,,,,,,,,,Thailand,Bangkok,,,,,
+254,27-Apr-13,Reptiles,India,Mumbai,India,Mumbai,,,,,,,,,,,,,China,Hong Kong,,,,,
+255,30-Apr-13,Reptiles,India,Kolkata,India,Kolkata,,,,,,,,,,,,,India,Chennai,,,,,
+256,17-May-13,Reptiles,Madagascar,Antananarivo,Madagascar,Antananarivo,,,,,,,,,,,,,Thailand,Bangkok,,,,,
+257,23-May-13,Reptiles,Mexico,Mexico City,Mexico,Mexico City,,,,,,,,,,,,,Japan,,,,,,
+258,18-Jul-13,Reptiles,India,Kolkata,China,Guangzhou,,,,,Singapore,,,,,,,,India,Kolkata,,,,,
+259,19-Aug-13,Reptiles,Belgium,Brussels,Togo,,,,,,,,,,,,,,Belgium,Brussels,,,,,
+260,1-Aug-13,Reptiles,Mexico,Merida,Mexico,Villahermosa,,,,,,,,,,,,,Mexico,Merida,,,,,
+261,1-Sep-13,Reptiles,Netherlands,,Nicaragua,,,,,,,,,,,,,,Netherlands,,,,,,
+262,1-Sep-13,Reptiles,Sweden,Gothenberg,,,,,,,,,,,,,,,,,,,,,
+263,22-Sep-13,Reptiles,Thailand,Bangkok,,,,,,,,,,,,,,,Thailand,Bangkok,,,,,
+264,1-Oct-13,Reptiles,China,Hong Kong,Thailand,,,,,,,,,,,,,,China,Hong Kong,,,,,
+265,3-Nov-13,Reptiles,Thailand,Bangkok,,,,,,,Bangladesh,,,,,,,,Thailand,Bangkok,,,,,
+266,5-Nov-13,Reptiles,Thailand,Bangkok,Bangladesh,Dhaka,,,,,,,,,,,,,Thailand,Bangkok,,,,,
+267,6-Nov-13,Reptiles,China,Shanghai,China,Hong Kong,,,,,,,,,,,,,China,Shanghai,,,,,
+268,8-Nov-13,Reptiles,Thailand,Bangkok,Pakistan,Lahore,,,,,,,,,,,,,Thailand,Bangkok,,,,,
+269,1-Nov-13,Reptiles,UK,,Indonesia,,,,,,,,,,,,,,UK,,,,,,
+270,1-Nov-13,Reptiles,Netherlands,Amsterdam,Guyana,,,,,,Turkey,Canada,,,,,,,Netherlands,Amsterdam,,,,,
+271,1-Dec-13,Reptiles,Netherlands,Amsterdam,Guyana,,,,,,Netherlands,Amsterdam,,,,,,,Ukraine,,,,,,
+272,4-Dec-13,Reptiles,Madagascar,Antsiranana,Madagascar,Antsiranana,,,,,,,,,,,,,,,,,,,
+273,10-Dec-13,Reptiles,Thailand,Bangkok,Madagascar,,,,,,,,,,,,,,Thailand,Bangkok,,,,,
+274,1-Dec-13,Reptiles,China,Xiamen,,,,,,,,,,,,,,,China,Xiamen,,,,,
+275,1-Jan-14,Reptiles,China,Hong Kong,Qatar,,,,,,,,,,,,,,China,Hong Kong,,,,,
+276,1-Jan-14,Reptiles,Belgium,,Cameroon,,,,,,Belgium,,,,,,,,Austria,,,,,,
+277,7-Jan-14,Reptiles,Indonesia,Manokwari,Indonesia,Manokwari,,,,,,,,,,,,,,,,,,,
+278,22-Jan-14,Reptiles,Israel,Tel Aviv,,,,,,,USA,New York,,,,,,,Israel,Tel Aviv,,,,,
+279,31-Jan-14,Reptiles,Thailand,Bangkok,India,Chennai,,,,,,,,,,,,,Thailand,Bangkok,,,,,
+280,3-Feb-14,Reptiles,UK,London,Bahamas,,,,,,UK,London,,,,,,,Germany,Dusseldorf,,,,,
+281,5-Feb-14,Reptiles,India,Mumbai,India,Mumbai,,,,,,,,,,,,,Thailand,Bangkok,,,,,
+282,11-Feb-14,Reptiles,China,Hong Kong,Madagascar,,,,,,Thailand,Bangkok,,,,,,,China,Hong Kong,,,,,
+283,12-Feb-14,Reptiles,India,Chennai,India,Chennai,,,,,,,,,,,,,Thailand,Bangkok,,,,,
+284,1-Mar-14,Reptiles,India,Chennai,Malaysia,Kuala Lumpur,,,,,,,,,,,,,India,Chennai,,,,,
+285,4-Mar-14,Reptiles,Madagascar,Antananarivo,Madagascar,Antananarivo,,,,,South Africa,Johannesburg,United Arab Emirates,Abu Dhabi,,,,,Russia,Moscow,,,,,
+286,11-Mar-14,Reptiles,Madagascar,Antananarivo,Madagascar,Antananarivo,,,,,,,,,,,,,Russia,,,,,,
+287,12-Mar-14,Reptiles,Thailand,Bangkok,India,,,,,,Thailand,Bangkok,,,,,,,China,Hong Kong,,,,,
+288,1-Apr-14,Reptiles,UK,,Ghana,,,,,,,,,,,,,,UK,,,,,,
+289,11-Apr-11,Reptiles,United Arab Emirates,Abu Dhabi,,,,,,,,,,,,,,,United Arab Emirates,Abu Dhabi,,,,,
+290,28-Apr-14,Reptiles,India,Kerala,India,Kerala,,,,,Sri Lanka,Colombo,,,,,,,Thailand,Bangkok,,,,,
+291,1-May-14,Reptiles,Mexico,Merida,,,,,,,,,,,,,,,,,,,,,
+292,10-May-14,Reptiles,Madagascar,Antananarivo,Madagascar,Antananarivo,,,,,,,,,,,,,,,,,,,
+293,14-May-14,Reptiles,Thailand,Bangkok,India,Kolkata,,,,,,,,,,,,,Thailand,Bangkok,,,,,
+294,16-May-14,Reptiles,Germany,Frankfurt,Mexico,,,,,,Germany,Frankfurt,,,,,,,Spain,Barcelona,,,,,
+295,31-May-14,Reptiles,Comoros,Grande Comore,Comoros,Grande Comore,,,,,Tanzania,,,,,,,,,,,,,,
+296,1-Jun-14,Reptiles,Netherlands,,Guyana,,,,,,,,,,,,,,Netherlands,,,,,,
+297,1-Jun-14,Reptiles,Germany,Weeze,,,,,,,,,,,,,,,Germany,Weeze,,,,,
+298,1-Jun-14,Reptiles,Russia,St. Petersburg,Germany,,,,,,,,,,,,,,Russia,St. Petersburg,,,,,
+299,1-Jun-14,Reptiles,Spain,Gran Canaria,Spain,Gran Canaria,,,,,,,,,,,,,Spain,Madrid,,,,,
+300,6-Jun-14,Reptiles,Czech Republic,Prague,,,,,,,,,,,,,,,Czech Republic,Prague,,,,,
+301,1-Jul-14,Reptiles,Qatar,Doha,,,,,,,,,,,,,,,Qatar,Doha,,,,,
+302,8-Jul-14,Reptiles,Indonesia,Jakarta,Indonesia,Jakarta,,,,,,,,,,,,,France,Paris,,,,,
+303,14-Jul-14,Reptiles,India,Chennai,India,Chennai,,,,,,,,,,,,,Thailand,Bangkok,,,,,
+304,23-Jul-14,Reptiles,Mexico,San Luis Potosi,Mexico,Mexico City,,,,,Mexico,San Luis Potosi,,,,,,,Mexico,Guanajuato,Mexico,Guadalajara,Mexico,Mexicali,
+305,1-Aug-14,Reptiles,Mexico,Guadalajara,Mexico,Guadalajara,,,,,,,,,,,,,China,,,,,,
+306,1-Aug-14,Reptiles,India,Chennai,India,Chennai,,,,,,,,,,,,,Thailand,Bangkok,,,,,
+307,10-Aug-14,Reptiles,India,Chennai,India,Chennai,,,,,,,,,,,,,Thailand,Bangkok,,,,,
+308,11-Aug-14,Reptiles,Germany,Frankfurt,Lebanon,,,,,,,,,,,,,,Germany,Frankfurt,,,,,
+309,25-Aug-14,Reptiles,Germany,Munich,China,,,,,,,,,,,,,,Germany,Munich,,,,,
+310,26-Aug-14,Reptiles,China,Hong Kong,,,,,,,,,,,,,,,China,Hong Kong,,,,,
+311,26-Aug-14,Reptiles,Mexico,Guadalajara,Mexico,Guadalajara,,,,,,,,,,,,,China,Hong Kong,,,,,
+312,9-Sep-14,Reptiles,Costa Rica,San Jose,Costa Rica,San Jose,,,,,Panama,,,,,,,,Germany,Dusseldorf,,,,,
+313,11-Sep-14,Reptiles,Thailand,Bangkok,,,,,,,,,,,,,,,,,,,,,
+314,20-Sep-14,Reptiles,Pakistan,Karachi,Pakistan,Lahore,,,,,Pakistan,Karachi,,,,,,,Thailand,Bangkok,,,,,
+315,24-Sep-14,Reptiles,USA,Detroit,USA,Detroit,,,,,,,,,,,,,China,,,,,,
+316,24-Sep-14,Reptiles,Costa Rica,San Jose,Costa Rica,San Jose,,,,,Panama,,,,,,,,Germany,,,,,,
+317,27-Sep-14,Reptiles,China,Guangzhou,Madagascar,,,,,,Thailand,Bangkok,,,,,,,China,Guangzhou,,,,,
+318,5-Nov-14,Reptiles,Thailand,Bangkok,Bangladesh,Dhaka,,,,,,,,,,,,,Thailand,Bangkok,,,,,
+319,14-Dec-14,Reptiles,France,Paris,Madagascar,,,,,,France,Paris,,,,,,,Laos,,,,,,
+320,15-Dec-14,Reptiles,Bangladesh,Dhaka,Bangladesh,Dhaka,,,,,,,,,,,,,Malaysia,,,,,,
+321,19-Dec-14,Reptiles,China,Shanghai,,,,,,,,,,,,,,,China,Shanghai,,,,,
+322,1-Jan-15,Reptiles,Indonesia,Jakarta,,,,,,,,,,,,,,,Indonesia,Jakarta,,,,,
+323,1-Jan-15,Reptiles,Indonesia,Denpasar,Indonesia,Timika,,,,,,,,,,,,,Indonesia,Denpasar,,,,,
+324,7-Jan-15,Reptiles,Singapore,,Bangladesh,Dhaka,,,,,Singapore,,,,,,,,Indonesia,Surabaya,,,,,
+325,8-Jan-15,Reptiles,Tanzania,Dar es Salaam,Tanzania,Dar es Salaam,,,,,,,,,,,,,,,,,,,
+326,17-Jan-15,Reptiles,Indonesia,Jakarta,Indonesia,Jakarta,,,,,Singapore,,,,,,,,China,Shanghai,,,,,
+327,22-Jan-15,Reptiles,Indonesia,Denpasar,Indonesia,Timika,,,,,Indonesia,Denpasar,,,,,,,,,,,,,
+328,1-Feb-15,Reptiles,UK,London,,,,,,,,,,,,,,,UK,London,,,,,
+329,6-Feb-15,Reptiles,Australia,Perth,Australia,Perth,,,,,,,,,,,,,,,,,,,
+330,11-Feb-15,Reptiles,Belgium,Brussels,,,,,,,,,,,,,,,,,,,,,
+331,20-Feb-15,Reptiles,Thailand,Bangkok,Thailand,Bangkok,,,,,,,,,,,,,Japan,,,,,,
+332,1-Mar-15,Reptiles,Kuwait,Kuwait City,,,,,,,,,,,,,,,,,,,,,
+333,24-Mar-15,Reptiles,India,Tiruchirappalli,India,Tiruchirappalli,,,,,Malaysia,Kuala Lumpur,,,,,,,Thailand,Bangkok,,,,,
+334,24-Mar-15,Reptiles,Bangladesh,Dhaka,,,,,,,,,,,,,,,India,,,,,,
+335,25-Mar-15,Reptiles,UK,London,Tanzania,,,,,,,,,,,,,,UK,London,,,,,
+336,1-Apr-15,Reptiles,Japan,Nagoya,Japan,Nagoya,,,,,,,,,,,,,,,,,,,
+337,1-Apr-15,Reptiles,China,Yantai,,,,,,,,,,,,,,,,,,,,,
+338,1-Apr-15,Reptiles,Germany,Dusseldorf,Mauritius,,,,,,Russia,St. Petersburg,,,,,,,Germany,Dusseldorf,,,,,
+339,1-Apr-15,Reptiles,Russia,Moscow,Indonesia,Jakarta,,,,,Qatar,,,,,,,,Russia,Moscow,,,,,
+340,4-Apr-15,Reptiles,Madagascar,Antananarivo,Madagascar,Antananarivo,,,,,,,,,,,,,Taiwan,,,,,,
+341,10-Apr-15,Reptiles,India,Mumbai,India,Mumbai,,,,,,,,,,,,,Malaysia,Kuala Lumpur,,,,,
+342,21-Apr-15,Reptiles,Pakistan,Lahore,Pakistan,Lahore,,,,,,,,,,,,,Thailand,Bangkok,,,,,
+343,24-Apr-15,Reptiles,India,Kerala,India,Kerala,,,,,,,,,,,,,Malaysia,Kuala Lumpur,,,,,
+344,26-Apr-15,Reptiles,India,Mumbai,India,Mumbai,,,,,,,,,,,,,Malaysia,Kuala Lumpur,,,,,
+345,25-Apr-15,Reptiles,,,,,,,,,,,,,,,,,Bangladesh,,,,,,
+346,25-May-15,Reptiles,Japan,Nagoya,Japan,Nagoya,,,,,,,,,,,,,,,,,,,
+347,29-May-15,Reptiles,Bangladesh,Dhaka,,,,,,,,,,,,,,,Malaysia,Kuala Lumpur,,,,,
+348,1-Jun-15,Reptiles,Madagascar,Antananarivo,Madagascar,Antananarivo,,,,,Kenya,Nairobi,Sudan,Khartoum,,,,,China,,,,,,
+349,1-Jun-15,Reptiles,India,Kerala,India,Kerala,,,,,,,,,,,,,,,,,,,
+350,20-Jun-15,Reptiles,Madagascar,Antananarivo,Madagascar,Antananarivo,,,,,Kenya,Nairobi,,,,,,,Sudan,Khartoum,,,,,
+351,28-Jun-15,Reptiles,India,Bangalore,India,Bangalore,,,,,Malaysia,Kuala Lumpur,,,,,,,Thailand,Phuket,,,,,
+352,28-Jun-15,Reptiles,India,Chennai,India,Chennai,,,,,,,,,,,,,Malaysia,Kuala Lumpur,,,,,
+353,1-Jul-15,Reptiles,Philippines,Davao,Philippines,Davao,,,,,,,,,,,,,Philippines,Caloocan,,,,,
+354,2-Jul-15,Reptiles,India,Chennai,India,Chennai,,,,,,,,,,,,,Malaysia,Kuala Lumpur,,,,,
+355,3-Jul-15,Reptiles,Sri Lanka,Colombo,Sri Lanka,Colombo,,,,,,,,,,,,,Malaysia,,,,,,
+356,5-Jul-15,Reptiles,Bangladesh,Dhaka,Bangladesh,Dhaka,,,,,,,,,,,,,,,,,,,
+357,8-Jul-15,Reptiles,India,Chennai,India,Chennai,,,,,,,,,,,,,Malaysia,Kuala Lumpur,,,,,
+358,9-Jul-15,Reptiles,Singapore,,Bangladesh,,,,,,Singapore,,,,,,,,Indonesia,Surabaya,,,,,
+359,9-Jul-15,Reptiles,India,Chennai,,,,,,,,,,,,,,,Malaysia,Kuala Lumpur,,,,,
+360,12-Jul-15,Reptiles,Bangladesh,Dhaka,Bangladesh,Dhaka,,,,,,,,,,,,,Vietnam,,,,,,
+361,25-Jul-15,Reptiles,India,Chennai,India,Chennai,,,,,,,,,,,,,Malaysia,,,,,,
+362,1-Aug-15,Reptiles,India,Chennai,India,Chennai,,,,,,,,,,,,,Malaysia,Kuala Lumpur,,,,,
+363,1-Aug-15,Reptiles,India,Kerala,India,Kerala,,,,,,,,,,,,,Malaysia,,,,,,
+364,1-Aug-15,Reptiles,India,Bangalore,India,Bangalore,,,,,,,,,,,,,Malaysia,,,,,,
+365,4-Aug-15,Reptiles,China,Guangzhou,Madagascar,,,,,,,,,,,,,,China,Guangzhou,,,,,
+366,9-Aug-15,Reptiles,India,Bangalore,India,Bangalore,,,,,India,,,,,,,,Malaysia,,,,,,
+367,10-Aug-15,Reptiles,India,Kerala,India,Kerala,,,,,,,,,,,,,,,,,,,
+368,14-Aug-15,Reptiles,China,Xiamen,China,Xiamen,,,,,,,,,,,,,,,,,,,
+369,25-Aug-15,Reptiles,China,Qingdao,,,,,,,,,,,,,,,China,,,,,,
+370,1-Sep-15,Reptiles,India,Chennai,,,,,,,,,,,,,,,,,,,,,
+371,8-Sep-15,Reptiles,Pakistan,Lahore,Pakistan,Lahore,,,,,,,,,,,,,Thailand,Bangkok,,,,,
+372,28-Sep-15,Reptiles,Madagascar,Antananarivo,Madagascar,Antananarivo,,,,,Mauritius,,,,,,,,Malaysia,Kuala Lumpur,,,,,
+373,29-Sep-15,Reptiles,India,Madurai,India,Madurai,,,,,Sri Lanka,,,,,,,,Malaysia,,,,,,
+374,8-Oct-15,Reptiles,China,Hong Kong,India,New Delhi,,,,,,,,,,,,,China,Hong Kong,,,,,
+375,8-Oct-15,Reptiles,India,Chennai,India,Chennai,,,,,Malaysia,Kuala Lumpur,,,,,,,Indonesia,Jakarta,,,,,
+376,8-Oct-15,Reptiles,India,Chennai,India,Chennai,,,,,,,,,,,,,Malaysia,Kuala Lumpur,,,,,
+377,11-Oct-15,Reptiles,Indonesia,Jakarta,,,,,,,,,,,,,,,,,,,,,
+378,15-Oct-15,Reptiles,Mexico,Tijuana,Mexico,Guadalajara,,,,,,,,,,,,,Mexico,Tijuana,,,,,
+379,23-Oct-15,Reptiles,Madagascar,Antananarivo,Madagascar,Antananarivo,,,,,,,,,,,,,China,Guangzhou,,,,,
+380,16-Nov-15,Reptiles,Tanzania,Dar es Salaam,Tanzania,Dar es Salaam,,,,,United Arab Emirates,Dubai,,,,,,,Malaysia,,,,,,
+381,19-Nov-15,Reptiles,China,Shanghai,Indonesia,,,,,,,,,,,,,,China,Shanghai,,,,,
+382,25-Dec-15,Reptiles,Madagascar,Antananarivo,Madagascar,Antananarivo,,,,,,,,,,,,,Thailand,Bangkok,,,,,
+383,1-Feb-16,Reptiles,Pakistan,Lahore,,,,,,,,,,,,,,,,,,,,,
+384,19-Jan-16,Reptiles,Thailand,Bangkok,China,Guangzhou,,,,,Thailand,Bangkok,,,,,,,India,Chennai,,,,,
+385,28-Jan-16,Reptiles,South Africa,Johannesburg,South Africa,Johannesburg,,,,,Vietnam,,,,,,,,China,,,,,,
+386,29-Jan-16,Reptiles,Philippines,Manila,Philippines,Manila,,,,,,,,,,,,,Japan,,,,,,
+387,31-Jan-16,Reptiles,China,Shanghai,Indonesia,,,,,,,,,,,,,,,,,,,,
+388,3-Feb-16,Reptiles,Indonesia,Jakarta,Indonesia,Jakarta,,,,,,,,,,,,,China,Hong Kong,,,,,
+389,6-Feb-16,Reptiles,Pakistan,Lahore,Pakistan,Lahore,,,,,,,,,,,,,Sri Lanka,Colombo,,,,,
+390,12-Feb-16,Reptiles,Bangladesh,Dhaka,,,,,,,,,,,,,,,,,,,,,
+391,15-Feb-16,Reptiles,Indonesia,Timika,Indonesia,Timika,,,,,Indonesia,Jayapura,,,,,,,Indonesia,Jakarta,,,,,
+392,21-Feb-16,Reptiles,Indonesia,Jakarta,Indonesia,Jakarta,,,,,,,,,,,,,China,Hong Kong,,,,,
+393,23-Feb-16,Reptiles,Italy,Bologna,Guinea,,,,,,Morocco,,,,,,,,Italy,Bologna,,,,,
+394,25-Feb-16,Reptiles,Colombia,Leticia,Colombia,Leticia,,,,,,,,,,,,,USA,,,,,,
+395,8-Mar-16,Reptiles,Madagascar,Antananarivo,Madagascar,Antananarivo,,,,,Turkey,,,,,,,,Russia,,,,,,
+396,9-Mar-16,Reptiles,Indonesia,Jakarta,Indonesia,Jakarta,,,,,,,,,,,,,Malaysia,Kuala Lumpur,,,,,
+397,11-Mar-16,Reptiles,Pakistan,Faisalabad,Pakistan,Faisalabad,,,,,Qatar,Doha,,,,,,,Malaysia,,,,,,
+398,18-Mar-16,Reptiles,France,Lyon,Ivory Coast,,,,,,Tunisia,,,,,,,,France,Lyon,,,,,
+399,20-Mar-16,Reptiles,India,Mumbai,Madagascar,,,,,,India,Mumbai,,,,,,,Nepal,Kathmandu,,,,,
+400,1-Apr-16,Reptiles,Egypt,Cairo,Egypt,Cairo,,,,,,,,,,,,,,,,,,,
+401,27-Apr-16,Reptiles,Mexico,Nuevo Laredo,Mexico,Mexico City,,,,,,,,,,,,,Mexico,Nuevo Laredo,,,,,
+402,9-May-16,Reptiles,Mauritius,Port Louis,Madagascar,,,,,,Mauritius,Port Louis,,,,,,,Singapore,,,,,,
+403,4-Jul-16,Reptiles,Madagascar,Antananarivo,Madagascar,Antananarivo,,,,,Singapore,,,,,,,,China,Shanghai,,,,,
+404,18-Jul-16,Reptiles,Madagascar,Antananarivo,Madagascar,Antananarivo,,,,,Kenya,Nairobi,,,,,,,Thailand,Bangkok,China,Hong Kong,,,
+405,29-Aug-16,Reptiles,India,Chennai,China,,,,,,Malaysia,Kuala Lumpur,,,,,,,India,Chennai,,,,,
+406,30-Jun-09,Rhino Horn,UK,Manchester,UK,Manchester,,,,,Netherlands,Amsterdam,,,,,,,China,,,,,,Kenya
+407,14-Jul-09,Rhino Horn,Kenya,Nairobi,Mozambique,,,,,,Kenya,Nairobi,,,,,,,Laos,,,,,,South Africa
+408,14-Jul-09,Rhino Horn,Kenya,Nairobi,Mozambique,,,,,,Thailand,,Kenya,Nairobi,,,,,Laos,,,,,,China
+409,1-Nov-09,Rhino Horn,South Africa,Johannesburg,,,,,,,,,,,,,,,,,,,,,Taiwan
+410,18-Nov-09,Rhino Horn,China,Guangzhou,,,,,,,,,,,,,,,,,,,,,Ireland
+411,19-Dec-09,Rhino Horn,Taiwan,Taipei,,,,,,,Myanmar,,,,,,,,Taiwan,Taipei,,,,,Belgium
+412,13-Jan-10,Rhino Horn,Ireland,Shannon,Portugal,Faro,,,,,,,,,,,,,Ireland,Shannon,,,,,Thailand
+413,9-Jan-10,Rhino Horn,China,Beijing,France,Paris,,,,,,,,,,,,,China,Beijing,,,,,Mozambique
+414,27-Jan-10,Rhino Horn,China,Beijing,Nigeria,,,,,,,,,,,,,,China,Beijing,,,,,Malawi
+415,28-Apr-10,Rhino Horn,China,Beijing,United Arab Emirates,Dubai,,,,,,,,,,,,,China,Beijing,,,,,Uganda
+416,17-May-10,Rhino Horn,Belgium,Brussels,,,,,,,,,,,,,,,,,,,,,Singapore
+417,20-May-10,Rhino Horn,China,Beijing,Ethiopia,Addis Ababa,,,,,,,,,,,,,China,Beijing,,,,,Namibia
+418,1-Jun-10,Rhino Horn,South Africa,Johannesburg,,,,,,,,,,,,,,,,,,,,,Qatar
+419,1-Jun-10,Rhino Horn,South Africa,Johannesburg,,,,,,,,,,,,,,,,,,,,,Italy
+420,1-Jun-10,Rhino Horn,South Africa,Johannesburg,,,,,,,,,,,,,,,,,,,,,South Sudan
+421,9-Jun-10,Rhino Horn,South Africa,Johannesburg,,,,,,,,,,,,,,,,,,,,,Democratic Republic of the Congo
+422,11-Jun-10,Rhino Horn,South Africa,Johannesburg,,,,,,,,,,,,,,,,,,,,,Indonesia
+423,30-Jun-10,Rhino Horn,South Africa,Johannesburg,South Africa,Johannesburg,,,,,,,,,,,,,Vietnam,,,,,,
+424,22-Aug-10,Rhino Horn,Kenya,Nairobi,Kenya,Nairobi,,,,,United Arab Emirates,Dubai,,,,,,,Malaysia,,,,,,Laos
+425,24-Aug-10,Rhino Horn,Kenya,Nairobi,,,,,,,,,,,,,,,,,,,,,Malaysia
+426,23-Feb-11,Rhino Horn,Thailand,Bangkok,Nigeria,Lagos,,,,,Qatar,Doha,Malaysia,Kuala Lumpur,,,,,Thailand,Bangkok,,,,,Cambodia
+427,10-Dec-11,Rhino Horn,South Africa,Johannesburg,South Africa,Johannesburg,,,,,,,,,,,,,,,,,,,Netherlands
+428,1-Mar-12,Rhino Horn,Czech Republic,Prague,,,,,,,,,,,,,,,,,,,,,Myanmar
+429,1-May-12,Rhino Horn,Mozambique,Maputo,Mozambique,Maputo,,,,,,,,,,,,,,,,,,,United Arab Emirates
+430,17-Jun-12,Rhino Horn,China,Beijing,,,,,,,Qatar,Doha,,,,,,,China,Beijing,,,,,France
+431,16-Sep-12,Rhino Horn,Belgium,Brussels,,,,,,,Belgium,Brussels,,,,,,,China,Urumqi,,,,,Nigeria
+432,1-Jan-13,Rhino Horn,China,Shanghai,France,Paris,,,,,,,,,,,,,China,Shanghai,,,,,Ethiopia
+433,6-Jan-13,Rhino Horn,Vietnam,Ho Chi Minh City,Mozambique,Maputo,,,,,Qatar,Doha,,,,,,,Vietnam,Ho Chi Minh City,,,,,South Korea
+434,6-Jan-13,Rhino Horn,Thailand,Bangkok,Mozambique,,,,,,Thailand,Bangkok,,,,,,,Vietnam,Hanoi,,,,,Portugal
+435,8-Jan-13,Rhino Horn,Vietnam,Ho Chi Minh City,Mozambique,,,,,,Qatar,Doha,Thailand,Bangkok,,,,,Vietnam,Ho Chi Minh City,,,,,Egypt
+436,23-Jan-13,Rhino Horn,China,Shanghai,,,,,,,France,Paris,,,,,,,China,Shanghai,,,,,Zambia
+437,11-Feb-13,Rhino Horn,Malawi,Lilongwe,,,,,,,,,,,,,,,,,,,,,
+438,24-Feb-13,Rhino Horn,Mozambique,Maputo,Mozambique,Maputo,,,,,,,,,,,,,,,,,,,
+439,20-Mar-13,Rhino Horn,China,Shanghai,France,Paris,,,,,,,,,,,,,China,,,,,,
+440,1-Apr-13,Rhino Horn,Mozambique,Maputo,Mozambique,Maputo,,,,,,,,,,,,,Cambodia,,,,,,
+441,19-Apr-13,Rhino Horn,China,Shanghai,,,,,,,United Arab Emirates,Dubai,,,,,,,China,,,,,,
+442,4-May-13,Rhino Horn,Vietnam,Ho Chi Minh City,,,,,,,Qatar,Doha,,,,,,,Vietnam,Ho Chi Minh City,,,,,
+443,6-May-13,Rhino Horn,Vietnam,Hanoi,,,,,,,,,,,,,,,,,,,,,
+444,13-May-13,Rhino Horn,Malawi,Lilongwe,,,,,,,Malawi,,,,,,,,China,,,,,,
+445,15-May-13,Rhino Horn,China,Beijing,,,,,,,,,,,,,,,,,,,,,
+446,20-May-13,Rhino Horn,Vietnam,Ho Chi Minh City,,,,,,,,,,,,,,,,,,,,,
+447,30-May-13,Rhino Horn,Vietnam,Hanoi,,,,,,,,,,,,,,,,,,,,,
+448,24-Jun-13,Rhino Horn,Thailand,Bangkok,,,,,,,,,,,,,,,,,,,,,
+449,15-Jul-13,Rhino Horn,China,Beijing,Egypt,Cairo,,,,,,,,,,,,,China,Beijing,,,,,
+450,17-Sep-13,Rhino Horn,Kenya,Nairobi,Mozambique,Maputo,,,,,Kenya,Nairobi,Qatar,Doha,,,,,China,Hong Kong,,,,,
+451,1-Dec-13,Rhino Horn,Mozambique,Maputo,Mozambique,Maputo,,,,,,,,,,,,,Vietnam,,,,,,
+452,1-Dec-13,Rhino Horn,Uganda,Entebbe,,,,,,,,,,,,,,,,,,,,,
+453,20-Dec-13,Rhino Horn,Uganda,Entebbe,,,,,,,Nigeria,Lagos,,,,,,,Malaysia,,,,,,
+454,10-Jan-14,Rhino Horn,Singapore,Singapore,Mozambique,Maputo,,,,,Uganda,,United Arab Emirates,Dubai,Singapore,Singapore,Laos,,Vietnam,,,,,,
+455,19-Jan-14,Rhino Horn,Thailand,Bangkok,,,,,,,Kenya,Nairobi,Thailand,Bangkok,,,,,Vietnam,Hanoi,,,,,
+456,1-Feb-14,Rhino Horn,China,Shanghai,South Africa,,,,,,,,,,,,,,China,Shanghai,,,,,
+457,10-Mar-14,Rhino Horn,Vietnam,Ho Chi Minh City,,,,,,,,,,,,,,,,,,,,,
+458,23-Mar-14,Rhino Horn,Namibia,Windhoek,Namibia,Windhoek,,,,,South Africa,Johannesburg,,,,,,,China,Hong Kong,,,,,
+459,1-May-14,Rhino Horn,Qatar,Doha,Mozambique,,,,,,Qatar,Doha,,,,,,,Vietnam,,,,,,
+460,1-May-14,Rhino Horn,China,Guangzhou,Nigeria,Lagos,,,,,Qatar,Doha,,,,,,,China,Guangzhou,,,,,
+461,27-Oct-14,Rhino Horn,Vietnam,Hanoi,Thailand,Bangkok,,,,,,,,,,,,,Vietnam,Hanoi,,,,,
+462,31-Oct-14,Rhino Horn,South Africa,Johannesburg,Mozambique,Maputo,,,,,South Africa,Johannesburg,Qatar,Doha,,,,,Vietnam,Hanoi,,,,,
+463,1-Nov-14,Rhino Horn,Vietnam,Hanoi,Thailand,Bangkok,,,,,,,,,,,,,Vietnam,Hanoi,,,,,
+464,26-Jan-15,Rhino Horn,South Africa,Cape Town,South Africa,Cape Town,,,,,,,,,,,,,China,,,,,,
+465,10-Mar-15,Rhino Horn,Italy,Milan,Italy,Milan,,,,,,,,,,,,,China,,,,,,
+466,17-Mar-15,Rhino Horn,Vietnam,Ho Chi Minh City,,,,,,,,,,,,,,,,,,,,,
+467,24-Mar-15,Rhino Horn,South Africa,Cape Town,,,,,,,,,,,,,,,,,,,,,
+468,30-Mar-15,Rhino Horn,Italy,Milan,Italy,Milan,,,,,,,,,,,,,China,Shanghai,,,,,
+469,1-Apr-15,Rhino Horn,Mozambique,Maputo,,,,,,,Mozambique,Maputo,,,,,,,,,,,,,
+470,16-Apr-15,Rhino Horn,Vietnam,Hanoi,France,,,,,,,,,,,,,,Vietnam,Hanoi,,,,,
+471,28-Apr-15,Rhino Horn,Mozambique,Maputo,,,,,,,,,,,,,,,Qatar,,,,,,
+472,1-May-15,Rhino Horn,Mozambique,Maputo,,,,,,,,,,,,,,,,,,,,,
+473,15-May-15,Rhino Horn,Kenya,Nairobi,Mozambique,Maputo,,,,,Kenya,Nairobi,,,,,,,Vietnam,Hanoi,,,,,
+474,8-Jun-15,Rhino Horn,South Sudan,Juba,,,,,,,,,,,,,,,,,,,,,
+475,25-Jul-15,Rhino Horn,Thailand,Bangkok,Uganda,Entebbe,,,,,Ethiopia,Addis Ababa,,,,,,,Thailand,Bangkok,,,,,
+476,25-Jul-15,Rhino Horn,Thailand,Bangkok,Ethiopia,,,,,,,,,,,,,,Thailand,Bangkok,,,,,
+477,25-Jul-15,Rhino Horn,China,Hong Kong,Mozambique,Pemba,,,,,South Africa,Johannesburg,,,,,,,China,Hong Kong,,,,,
+478,12-Aug-15,Rhino Horn,Vietnam,Hanoi,,,,,,,South Korea,,,,,,,,Vietnam,Hanoi,,,,,
+479,21-Sep-15,Rhino Horn,China,Hong Kong,South Africa,Johannesburg,,,,,,,,,,,,,China,Hong Kong,,,,,
+480,18-Oct-15,Rhino Horn,Democratic Republic of the Congo,Kinshasa,Democratic Republic of the Congo,Kinshasa,,,,,France,Paris,,,,,,,Vietnam,Hanoi,,,,,
+481,10-Nov-15,Rhino Horn,Mozambique,Maputo,Mozambique,Maputo,,,,,,,,,,,,,,,,,,,
+482,30-Nov-15,Rhino Horn,Uganda,Entebbe,Uganda,Entebbe,,,,,,,,,,,,,Vietnam,,,,,,
+483,23-Dec-15,Rhino Horn,South Africa,Johannesburg,South Africa,Johannesburg,,,,,,,,,,,,,,,,,,,
+484,25-Jan-16,Rhino Horn,Kenya,Nairobi,Democratic Republic of the Congo,,,,,,Kenya,Nairobi,,,,,,,China,,,,,,
+485,16-Feb-16,Rhino Horn,Indonesia,Jakarta,Zambia,,,,,,United Arab Emirates,Abu Dhabi,,,,,,,Indonesia,Jakarta,,,,,
+486,11-Mar-16,Rhino Horn,Mozambique,Maputo,Mozambique,Maputo,,,,,Kenya,,,,,,,,,,,,,,
+487,2-May-16,Rhino Horn,Mozambique,Maputo,Mozambique,Maputo,,,,,Kenya,Nairobi,,,,,,,,,,,,,
+488,16-May-16,Rhino Horn,China,Hong Kong,South Africa,,,,,,,,,,,,,,China,Hong Kong,,,,,
+489,31-Jul-16,Rhino Horn,Vietnam,Ho Chi Minh City,,,,,,,,,,,,,,,Vietnam,Ho Chi Minh City,,,,,
+490,18-Aug-16,Rhino Horn,South Africa,Johannesburg,South Africa,Johannesburg,,,,,,,,,,,,,China,Hong Kong,,,,,
+491,23-Sep-16,Rhino Horn,South Africa,Johannesburg,,,,,,,,,,,,,,,,,,,,,
+492,24-Mar-09,Ivory,Thailand,Bangkok,Uganda,Entebbe,,,,,,,,,,,,,Thailand,Bangkok,,,,,Thailand
+493,1-May-09,Ivory,Belgium,,Guinea,,,,,,Belgium,,,,,,,,China,,,,,,Belgium
+494,1-Jun-09,Ivory,China,Beijing,Zimbabwe,,,,,,,,,,,,,,China,Beijing,,,,,China
+495,11-Jun-09,Ivory,China,Chengdu,USA,,,,,,China,Hong Kong,,,,,,,China,Chengdu,,,,,Ethiopia
+496,21-Aug-09,Ivory,Thailand,Bangkok,Uganda,,Kenya,,,,Qatar,,,,,,,,Thailand,Bangkok,,,,,Kenya
+497,27-Sep-09,Ivory,Ethiopia,Addis Ababa,Ethiopia,Addis Ababa,,,,,Kenya,Nairobi,,,,,,,Thailand,Bangkok,,,,,Malawi
+498,29-Sep-09,Ivory,Kenya,Nairobi,Ethiopia,Addis Ababa,,,,,Kenya,Nairobi,,,,,,,Thailand,Bangkok,,,,,Republic of Congo
+499,24-Feb-10,Ivory,Thailand,Bangkok,Kenya,Nairobi,,,,,United Arab Emirates,Dubai,Thailand,Bangkok,,,,,Laos,,,,,,Nigeria
+500,16-Apr-10,Ivory,China,Wenzhou,,,,,,,Portugal,,,,,,,,China,Wenzhou,,,,,United Arab Emirates
+501,17-Apr-10,Ivory,Thailand,Bangkok,Kenya,,,,,,Qatar,Doha,Thailand,Bangkok,,,,,Laos,,,,,,UK
+502,14-Jul-10,Ivory,Thailand,Bangkok,Kenya,,,,,,,,,,,,,,Thailand,Bangkok,,,,,Egypt
+503,23-Aug-10,Ivory,Kenya,Nairobi,Uganda,Kampala,,,,,Kenya,Nairobi,,,,,,,China,Hong Kong,,,,,Vietnam
+504,26-Aug-10,Ivory,Kenya,Nairobi,,,,,,,,,,,,,,,,,,,,,Malaysia
+505,28-Aug-10,Ivory,Thailand,Bangkok,Ethiopia,Addis Ababa,,,,,,,,,,,,,Thailand,Bangkok,,,,,Singapore
+506,11-Dec-10,Ivory,Kenya,Nairobi,Malawi,,,,,,Kenya,Nairobi,,,,,,,Thailand,Bangkok,,,,,Cambodia
+507,25-Dec-10,Ivory,Kenya,Nairobi,Mozambique,Maputo,,,,,Kenya,Nairobi,,,,,,,Thailand,Bangkok,,,,,Gabon
+508,17-Jan-11,Ivory,Kenya,Nairobi,Democratic Republic of the Congo,Kinshasa,,,,,Kenya,Nairobi,,,,,,,China,Guangzhou,,,,,Rwanda
+509,9-Jan-11,Ivory,Malawi,Lilongwe,Malawi,Lilongwe,,,,,,,,,,,,,China,,,,,,Cameroon
+510,22-Jan-11,Ivory,Republic of Congo,Brazzaville,Republic of Congo,Brazzaville,,,,,,,,,,,,,China,Beijing,,,,,Saudi Arabia
+511,1-Feb-11,Ivory,Malawi,Lilongwe,Malawi,Lilongwe,,,,,,,,,,,,,China,,,,,,Australia
+512,17-Mar-11,Ivory,Malawi,Lilongwe,Malawi,Lilongwe,,,,,,,,,,,,,China,,,,,,Taiwan
+513,11-Apr-11,Ivory,Malawi,Lilongwe,,,,,,,,,,,,,,,China,,,,,,Switzerland
+514,14-Apr-11,Ivory,Malawi,Lilongwe,,,,,,,,,,,,,,,,,,,,,Qatar
+515,15-Apr-11,Ivory,Malawi,Lilongwe,,,,,,,,,,,,,,,,,,,,,Portugal
+516,28-Apr-11,Ivory,Kenya,Nairobi,Democratic Republic of the Congo,,,,,,Kenya,Nairobi,,,,,,,China,,,,,,Netherlands
+517,2-May-11,Ivory,Malawi,Lilongwe,Malawi,Lilongwe,,,,,,,,,,,,,China,,,,,,Benin
+518,5-May-11,Ivory,Kenya,Nairobi,Tanzania,,Mozambique,,,,Kenya,Nairobi,,,,,,,Nigeria,Lagos,,,,,South Korea
+519,21-May-11,Ivory,Malawi,Lilongwe,Malawi,Lilongwe,,,,,,,,,,,,,China,,,,,,UK
+520,1-Jun-11,Ivory,Malawi,Lilongwe,,,,,,,,,,,,,,,,,,,,,Netherlands
+521,18-Jun-11,Ivory,Malawi,Lilongwe,,,,,,,,,,,,,,,,,,,,,Iran
+522,12-Aug-11,Ivory,Malawi,Lilongwe,,,,,,,,,,,,,,,,,,,,,Uganda
+523,29-Aug-11,Ivory,Nigeria,Lagos,,,,,,,,,,,,,,,,,,,,,Guinea
+524,18-Sep-11,Ivory,United Arab Emirates,Dubai,,,,,,,United Arab Emirates,Dubai,,,,,,,,,,,,,Zimbabwe
+525,4-Oct-11,Ivory,Malawi,Lilongwe,,,,,,,,,,,,,,,,,,,,,USA
+526,15-Nov-11,Ivory,China,Hong Kong,South Africa,Cape Town,,,,,,,,,,,,,,,,,,,Mozambique
+527,26-Nov-11,Ivory,Kenya,Nairobi,Kenya,Nairobi,,,,,,,,,,,,,China,Hong Kong,,,,,Democratic Republic of the Congo
+528,19-Dec-11,Ivory,Malawi,Lilongwe,,,,,,,,,,,,,,,,,,,,,Tanzania
+529,6-Jan-12,Ivory,Malawi,Lilongwe,,,,,,,,,,,,,,,,,,,,,South Africa
+530,9-Jan-12,Ivory,Kenya,Nairobi,Kenya,Nairobi,,,,,Democratic Republic of the Congo,Lubumbashi,,,,,,,China,,,,,,Zambia
+531,12-Jan-12,Ivory,Kenya,Nairobi,,,,,,,Sudan,Juba,,,,,,,,,,,,,Angola
+532,14-Jan-12,Ivory,UK,Cardiff,Zambia,,,,,,Netherlands,Amsterdam,,,,,,,UK,Cardiff,,,,,South Sudan
+533,1-Feb-12,Ivory,Uganda,Entebbe,,,,,,,,,,,,,,,,,,,,,Sudan
+534,29-Feb-12,Ivory,South Africa,Cape Town,South Africa,Johannesburg,,,,,,,,,,,,,South Africa,Cape Town,,,,,France
+535,4-Mar-12,Ivory,Nigeria,Lagos,Nigeria,Lagos,,,,,Qatar,,,,,,,,China,,,,,,Burundi
+536,1-Apr-12,Ivory,Uganda,Entebbe,,,,,,,,,,,,,,,,,,,,,Japan
+537,25-Apr-12,Ivory,Thailand,Bangkok,Nigeria,,,,,,,,,,,,,,Thailand,Bangkok,,,,,Botswana
+538,20-May-12,Ivory,Malawi,Lilongwe,,,,,,,Malawi,Lilongwe,,,,,,,China,,,,,,Ivory Coast
+539,1-Jun-12,Ivory,Uganda,Entebbe,,,,,,,,,,,,,,,,,,,,,Indonesia
+540,1-Jun-12,Ivory,Uganda,Entebbe,Democratic Republic of the Congo,,,,,,Uganda,Entebbe,,,,,,,,,,,,,Libia
+541,6-Jun-12,Ivory,Mozambique,Maputo,Kenya,Nairobi,,,,,Mozambique,Maputo,,,,,,,,,,,,,Namibia
+542,22-Jun-12,Ivory,Kenya,Nairobi,Kenya,Nairobi,,,,,,,,,,,,,Nigeria,Lagos,,,,,Laos
+543,5-Jul-12,Ivory,Egypt,Cairo,Egypt,Cairo,,,,,France,,,,,,,,,,,,,,Togo
+544,8-Jul-12,Ivory,Uganda,Entebbe,Uganda,Entebbe,,,,,,,,,,,,,Malaysia,,,,,,Pakistan
+545,10-Jul-12,Ivory,South Africa,Cape Town,South Africa,Cape Town,,,,,,,,,,,,,China,Hong Kong,,,,,Somalia
+546,11-Jul-12,Ivory,South Africa,Cape Town,South Africa,Johannesburg,,,,,South Africa,Cape Town,,,,,,,China,Hong Kong,,,,,Germany
+547,13-Jul-12,Ivory,Thailand,Bangkok,,,,,,,Kenya,Nairobi,,,,,,,Thailand,Bangkok,,,,,Turkey
+548,14-Jul-12,Ivory,Malawi,Lilongwe,,,,,,,Malawi,Lilongwe,,,,,,,China,,,,,,
+549,18-Jul-12,Ivory,Vietnam,Ho Chi Minh City,Thailand,,,,,,,,,,,,,,Vietnam,Ho Chi Minh City,,,,,
+550,1-Aug-12,Ivory,Uganda,Entebbe,,,,,,,,,,,,,,,,,,,,,
+551,1-Aug-12,Ivory,Uganda,Entebbe,,,,,,,,,,,,,,,,,,,,,
+552,1-Sep-12,Ivory,Uganda,Entebbe,,,,,,,,,,,,,,,,,,,,,
+553,1-Sep-12,Ivory,Uganda,Entebbe,,,,,,,,,,,,,,,,,,,,,
+554,14-Sep-12,Ivory,Kenya,Nairobi,Kenya,Nairobi,,,,,Qatar,Doha,,,,,,,Malaysia,Kuala Lumpur,,,,,
+555,17-Sep-12,Ivory,Malawi,Lilongwe,,,,,,,Malawi,Lilongwe,,,,,,,China,,,,,,
+556,19-Sep-12,Ivory,Vietnam,Hanoi,Angola,,,,,,,,,,,,,,Vietnam,Hanoi,,,,,
+557,22-Sep-12,Ivory,Kenya,Nairobi,Angola,Luanda,,,,,Kenya,Nairobi,,,,,,,Thailand,Bangkok,,,,,
+558,24-Sep-12,Ivory,Malawi,Lilongwe,Malawi,Lilongwe,,,,,South Africa,,,,,,,,China,Hong Kong,,,,,
+559,22-Oct-12,Ivory,Malawi,Lilongwe,,,,,,,,,,,,,,,,,,,,,
+560,23-Oct-12,Ivory,Kenya,Nairobi,Kenya,Nairobi,,,,,Democratic Republic of the Congo,,Thailand,Bangkok,,,,,China,,,,,,
+561,26-Oct-12,Ivory,China,Beijing,,,,,,,,,,,,,,,China,Beijing,,,,,
+562,1-Nov-12,Ivory,Uganda,Entebbe,,,,,,,,,,,,,,,,,,,,,
+563,1-Nov-12,Ivory,Kenya,Nairobi,Kenya,Nairobi,,,,,Cameroon,,,,,,,,China,Hong Kong,,,,,
+564,12-Nov-12,Ivory,Uganda,Entebbe,Uganda,Entebbe,,,,,,,,,,,,,Togo,Lome,,,,,
+565,20-Nov-12,Ivory,Kenya,Nairobi,Angola,Luanda,,,,,Kenya,Nairobi,,,,,,,Thailand,,,,,,
+566,24-Nov-12,Ivory,Egypt,Cairo,South Sudan,,,,,,,,,,,,,,,,,,,,
+567,28-Nov-12,Ivory,Nigeria,Lagos,,,,,,,,,,,,,,,,,,,,,
+568,1-Dec-12,Ivory,Egypt,Cairo,Sudan,,,,,,,,,,,,,,,,,,,,
+569,3-Dec-12,Ivory,Vietnam,Da Nang,Singapore,,,,,,,,,,,,,,Vietnam,Da Nang,,,,,
+570,15-Dec-12,Ivory,Thailand,Bangkok,Ethiopia,,,,,,Thailand,Bangkok,,,,,,,Cambodia,Phnom Penh,,,,,
+571,21-Dec-12,Ivory,Malawi,Lilongwe,,,,,,,,,,,,,,,,,,,,,
+572,1-Jan-13,Ivory,China,Shanghai,France,Paris,,,,,,,,,,,,,China,Shanghai,,,,,
+573,7-Jan-13,Ivory,Malawi,Lilongwe,,,,,,,,,,,,,,,,,,,,,
+574,9-Jan-13,Ivory,Malawi,Lilongwe,Malawi,Lilongwe,,,,,Ethiopia,Addis Ababa,,,,,,,China,,,,,,
+575,17-Jan-13,Ivory,Kenya,Nairobi,Burundi,Bujumbura,,,,,Kenya,Nairobi,,,,,,,Thailand,,,,,,
+576,21-Jan-13,Ivory,Malawi,Lilongwe,,,,,,,Malawi,Lilongwe,,,,,,,Pakistan,,,,,,
+577,22-Jan-13,Ivory,Kenya,Nairobi,Kenya,Nairobi,,,,,Angola,Luanda,Thailand,Bangkok,,,,,Vietnam,,,,,,
+578,26-Jan-13,Ivory,Malawi,Lilongwe,,,,,,,,,,,,,,,,,,,,,
+579,27-Jan-13,Ivory,Kenya,Nairobi,Kenya,Nairobi,,,,,Democratic Republic of the Congo,Lubumbashi,,,,,,,China,Guangzhou,,,,,
+580,30-Jan-13,Ivory,Kenya,Nairobi,Kenya,Nairobi,,,,,Cameroon,Yaounde,,,,,,,China,Guangzhou,,,,,
+581,11-Feb-13,Ivory,Malawi,Lilongwe,,,,,,,,,,,,,,,,,,,,,
+582,17-Feb-13,Ivory,Kenya,Nairobi,Kenya,Nairobi,,,,,,,,,,,,,China,Guangzhou,,,,,
+583,18-Feb-13,Ivory,Kenya,Nairobi,Kenya,Nairobi,,,,,Mozambique,Maputo,,,,,,,China,Guangzhou,,,,,
+584,20-Feb-13,Ivory,Malaysia,Kuala Lumpur,Uganda,Entebbe,,,,,,,,,,,,,Malaysia,Kuala Lumpur,,,,,
+585,27-Feb-13,Ivory,Malawi,Lilongwe,,,,,,,,,,,,,,,,,,,,,
+586,28-Feb-13,Ivory,Egypt,Cairo,South Sudan,,,,,,Egypt,Cairo,,,,,,,,,,,,,
+587,1-Mar-13,Ivory,Uganda,Entebbe,,,,,,,,,,,,,,,,,,,,,
+588,2-Mar-13,Ivory,China,Shanghai,South Africa,,,,,,United Arab Emirates,Dubai,,,,,,,China,Shanghai,,,,,
+589,10-Mar-13,Ivory,Kenya,Nairobi,Kenya,Nairobi,,,,,Benin,,,,,,,,China,Guangzhou,,,,,
+590,19-Mar-13,Ivory,Kenya,Nairobi,Democratic Republic of the Congo,Kinshasa,,,,,Kenya,Nairobi,,,,,,,China,Hong Kong,,,,,
+591,1-Apr-13,Ivory,China,Dalian,Japan,Nagoya,,,,,,,,,,,,,China,Dalian,,,,,
+592,2-Apr-13,Ivory,Malawi,Lilongwe,,,,,,,,,,,,,,,,,,,,,
+593,4-Apr-13,Ivory,Kenya,Nairobi,Mozambique,,South Africa,,Democratic Republic of the Congo,,Kenya,Nairobi,,,,,,,China,Hong Kong,,,,,
+594,7-Apr-13,Ivory,Kenya,Nairobi,Kenya,Nairobi,,,,,,,,,,,,,Thailand,Bangkok,,,,,
+595,17-Apr-13,Ivory,China,Fuzhou,,,,,,,,,,,,,,,China,Fuzhou,,,,,
+596,8-May-13,Ivory,Nigeria,Lagos,,,,,,,,,,,,,,,,,,,,,
+597,13-May-13,Ivory,Malawi,Lilongwe,,,,,,,Malawi,Lilongwe,,,,,,,China,,,,,,
+598,17-May-13,Ivory,Malawi,Lilongwe,,,,,,,Malawi,Lilongwe,,,,,,,China,,,,,,
+599,29-May-13,Ivory,Egypt,Cairo,Nigeria,,,,,,Egypt,Cairo,,,,,,,,,,,,,
+600,29-May-13,Ivory,Zambia,Lusaka,Zambia,Lusaka,,,,,,,,,,,,,China,,,,,,
+601,29-May-13,Ivory,Egypt,Cairo,Nigeria,,,,,,Egypt,Cairo,,,,,,,,,,,,,
+602,10-Jun-13,Ivory,Nigeria,Lagos,Nigeria,Lagos,,,,,,,,,,,,,,,,,,,
+603,10-Jun-13,Ivory,Nigeria,Lagos,Nigeria,Lagos,,,,,,,,,,,,,,,,,,,
+604,20-Jun-13,Ivory,Nigeria,Lagos,Nigeria,Lagos,,,,,,,,,,,,,,,,,,,
+605,26-Jun-13,Ivory,Egypt,Cairo,Uganda,,,,,,Egypt,Cairo,,,,,,,,,,,,,
+606,28-Jun-13,Ivory,Nigeria,Lagos,Nigeria,Lagos,,,,,,,,,,,,,,,,,,,
+607,28-Jun-13,Ivory,Nigeria,Lagos,Nigeria,Lagos,,,,,,,,,,,,,,,,,,,
+608,28-Jun-13,Ivory,Malawi,Lilongwe,Malawi,Lilongwe,,,,,,,,,,,,,China,,,,,,
+609,30-Jun-13,Ivory,Kenya,Nairobi,Kenya,Nairobi,,,,,,,,,,,,,South Sudan,Juba,,,,,
+610,30-Jun-13,Ivory,Vietnam,Ho Chi Minh City,,,,,,,France,,,,,,,,Vietnam,Ho Chi Minh City,,,,,
+611,1-Jul-13,Ivory,Uganda,Entebbe,,,,,,,,,,,,,,,,,,,,,
+612,29-Jun-13,Ivory,Kenya,Nairobi,Kenya,Nairobi,,,,,Netherlands,Amsterdam,,,,,,,USA,,,,,,
+613,22-Jul-13,Ivory,China,Jinan,Kenya,,,,,,,,,,,,,,China,Jinan,,,,,
+614,1-Aug-13,Ivory,Uganda,Entebbe,,,,,,,,,,,,,,,,,,,,,
+615,1-Aug-13,Ivory,Uganda,Entebbe,,,,,,,,,,,,,,,,,,,,,
+616,3-Aug-13,Ivory,Nigeria,Lagos,,,,,,,,,,,,,,,,,,,,,
+617,12-Aug-13,Ivory,China,Hangzhou,,,,,,,Ethiopia,,,,,,,,China,Hangzhou,,,,,
+618,14-Aug-13,Ivory,Kenya,Nairobi,Kenya,Nairobi,,,,,,,,,,,,,China,Hong Kong,,,,,
+619,16-Aug-13,Ivory,Tanzania,Dar es Salaam,Tanzania,Dar es Salaam,,,,,,,,,,,,,,,,,,,
+620,29-Aug-13,Ivory,Thailand,Bangkok,Angola,,,,,,Thailand,Bangkok,,,,,,,Cambodia,Siem Reap,,,,,
+621,1-Sep-13,Ivory,Uganda,Entebbe,,,,,,,,,,,,,,,,,,,,,
+622,1-Sep-13,Ivory,Uganda,Entebbe,,,,,,,,,,,,,,,,,,,,,
+623,29-Aug-13,Ivory,Thailand,Bangkok,Angola,,,,,,Thailand,Bangkok,,,,,,,Cambodia,Siem Reap,,,,,
+624,1-Sep-13,Ivory,Uganda,Entebbe,,,,,,,,,,,,,,,,,,,,,
+625,1-Sep-13,Ivory,Uganda,Entebbe,,,,,,,,,,,,,,,,,,,,,
+626,6-Sep-13,Ivory,United Arab Emirates,Dubai,Zimbabwe,Harare,,,,,United Arab Emirates,Dubai,,,,,,,Malaysia,Kuala Lumpur,,,,,
+627,7-Sep-13,Ivory,Malawi,Lilongwe,,,,,,,,,,,,,,,China,,,,,,
+628,1-Oct-13,Ivory,Uganda,Entebbe,,,,,,,,,,,,,,,,,,,,,
+629,1-Oct-13,Ivory,China,Changsha,South Africa,,,,,,,,,,,,,,China,Changsha,,,,,
+630,1-Oct-13,Ivory,Uganda,Entebbe,,,,,,,,,,,,,,,,,,,,,
+631,1-Oct-13,Ivory,Uganda,Entebbe,,,,,,,,,,,,,,,,,,,,,
+632,1-Oct-13,Ivory,Uganda,Entebbe,,,,,,,,,,,,,,,,,,,,,
+633,21-Oct-13,Ivory,Zimbabwe,Harare,Zimbabwe,Harare,,,,,,,,,,,,,China,,,,,,
+634,23-Oct-13,Ivory,Uganda,Entebbe,Uganda,Entebbe,,,,,,,,,,,,,China,,Malaysia,,,,
+635,1-Nov-13,Ivory,Zimbabwe,Harare,,,,,,,,,,,,,,,,,,,,,
+636,8-Nov-13,Ivory,Malawi,Lilongwe,Malawi,Lilongwe,,,,,,,,,,,,,China,,,,,,
+637,20-Nov-13,Ivory,China,Fuzhou,Botswana,,,,,,China,Hong Kong,,,,,,,China,Fuzhou,,,,,
+638,27-Nov-13,Ivory,China,Shenyang,Kenya,,,,,,South Korea,Seoul,,,,,,,China,Shenyang,,,,,
+639,1-Dec-13,Ivory,Uganda,Entebbe,,,,,,,,,,,,,,,,,,,,,
+640,1-Dec-13,Ivory,China,Beijing,Ivory Coast,,,,,,United Arab Emirates,,,,,,,,China,Beijing,,,,,
+641,16-Dec-13,Ivory,Mozambique,Tete,Mozambique,Tete,,,,,South Africa,Johannesburg,,,,,,,Thailand,Bangkok,,,,,
+642,17-Dec-13,Ivory,Ethiopia,Addis Ababa,Angola,,,,,,Ethiopia,Addis Ababa,,,,,,,China,,,,,,
+643,20-Dec-13,Ivory,Uganda,Entebbe,Uganda,Entebbe,,,,,Nigeria,Lagos,,,,,,,Malaysia,,,,,,
+644,1-Jan-14,Ivory,Ethiopia,Addis Ababa,USA,Miami,,,,,Ethiopia,Addis Ababa,Zambia,,,,,,China,Beijing,,,,,
+645,4-Jan-14,Ivory,Ethiopia,Addis Ababa,,,,,,,,,,,,,,,,,,,,,
+646,5-Jan-14,Ivory,Ethiopia,Addis Ababa,,,,,,,,,,,,,,,,,,,,,
+647,7-Jan-14,Ivory,Malawi,Lilongwe,Malawi,Lilongwe,,,,,Ethiopia,,,,,,,,China,,,,,,
+648,8-Jan-14,Ivory,Mozambique,Maputo,,,,,,,,,,,,,,,,,,,,,
+649,9-Jan-14,Ivory,Malawi,Lilongwe,Malawi,Lilongwe,,,,,,,,,,,,,Singapore,,,,,,
+650,9-Jan-14,Ivory,Ethiopia,Addis Ababa,,,,,,,,,,,,,,,,,,,,,
+651,13-Jan-14,Ivory,China,Hangzhou,,,,,,,,,,,,,,,,,,,,,
+652,14-Jan-14,Ivory,Singapore,,Angola,,,,,,United Arab Emirates,Dubai,Singapore,,,,,,Laos,,,,,,
+653,19-Jan-14,Ivory,Ethiopia,Addis Ababa,,,,,,,,,,,,,,,,,,,,,
+654,28-Jan-14,Ivory,Kenya,Nairobi,Democratic Republic of the Congo,Lubumbashi,,,,,Kenya,Nairobi,,,,,,,China,Guangzhou,,,,,
+655,28-Jan-14,Ivory,China,Shanghai,,,,,,,,,,,,,,,China,Shanghai,,,,,
+656,16-Feb-14,Ivory,Cambodia,Siem Reap,Angola,,,,,,South Korea,,Cambodia,Siem Reap,,,,,Vietnam,Hanoi,,,,,
+657,21-Mar-14,Ivory,China,Jinan,Indonesia,,,,,,China,Hong Kong,,,,,,,China,Jinan,,,,,
+658,23-Mar-14,Ivory,Malawi,Lilongwe,Malawi,Lilongwe,,,,,Ethiopia,,,,,,,,Nigeria,,,,,,
+659,4-Apr-14,Ivory,Gabon,Franceville,,,,,,,,,,,,,,,,,,,,,
+660,7-Apr-14,Ivory,Malawi,Lilongwe,Malawi,Lilongwe,,,,,,,,,,,,,China,,,,,,
+661,15-Apr-14,Ivory,Thailand,Bangkok,,,,,,,Thailand,Bangkok,,,,,,,Vietnam,Hanoi,,,,,
+662,20-Apr-14,Ivory,China,Beijing,Guinea,,,,,,,,,,,,,,China,Beijing,,,,,
+663,1-May-14,Ivory,China,Guangzhou,Nigeria,Lagos,,,,,Qatar,Doha,,,,,,,China,Guangzhou,,,,,
+664,9-May-14,Ivory,UK,London,,,,,,,,,,,,,,,,,,,,,
+665,12-May-14,Ivory,Rwanda,Kigali,Democratic Republic of the Congo,,,,,,Rwanda,Kigali,,,,,,,China,,,,,,
+666,13-May-14,Ivory,Malawi,Lilongwe,,,,,,,,,,,,,,,,,,,,,
+667,14-May-14,Ivory,Kenya,Nairobi,,,,,,,,,,,,,,,,,,,,,
+668,1-Jun-14,Ivory,Malawi,Blantyre,,,,,,,,,,,,,,,,,,,,,
+669,4-Jun-14,Ivory,China,Qingdao,Japan,Nagoya,,,,,,,,,,,,,China,Qingdao,,,,,
+670,10-Jun-14,Ivory,China,Hong Kong,Angola,,,,,,Ethiopia,,China,Hong Kong,South Korea,,,,Cambodia,,,,,,
+671,10-Jun-14,Ivory,Vietnam,Ho Chi Minh City,Nigeria,,,,,,Qatar,Doha,,,,,,,Vietnam,Ho Chi Minh City,,,,,
+672,10-Jun-14,Ivory,Nigeria,Lagos,,,,,,,,,,,,,,,,,,,,,
+673,22-Jun-14,Ivory,Vietnam,Ho Chi Minh City,Nigeria,,,,,,Qatar,Doha,,,,,,,Vietnam,Ho Chi Minh City,,,,,
+674,3-Jul-14,Ivory,China,Urumqi,,,,,,,,,,,,,,,,,,,,,
+675,9-Jul-14,Ivory,China,Shanghai,Ethiopia,Addis Ababa,,,,,,,,,,,,,China,Shanghai,,,,,
+676,28-Jul-14,Ivory,Thailand,Bangkok,Ivory Coast,Abidjan,,,,,Ethiopia,Addis Ababa,Thailand,Bangkok,,,,,Cambodia,Siem Reap,,,,,
+677,2-Sep-14,Ivory,Cameroon,Yaounde,,,,,,,,,,,,,,,,,,,,,
+678,6-Sep-14,Ivory,Nigeria,Lagos,,,,,,,,,,,,,,,,,,,,,
+679,16-Sep-14,Ivory,Malawi,Lilongwe,Malawi,Lilongwe,,,,,Ethiopia,,,,,,,,China,,,,,,
+680,28-Sep-14,Ivory,Vietnam,Ho Chi Minh City,,,,,,,,,,,,,,,Vietnam,Ho Chi Minh City,,,,,
+681,8-Oct-14,Ivory,United Arab Emirates,Dubai,,,,,,,,,,,,,,,United Arab Emirates,Dubai,,,,,
+682,18-Oct-14,Ivory,Malawi,Lilongwe,,,,,,,,,,,,,,,,,,,,,
+683,18-Oct-14,Ivory,Saudi Arabia,Riyadh,Ethiopia,,,,,,Saudi Arabia,Riyadh,,,,,,,,,,,,,
+684,19-Oct-14,Ivory,Malawi,Lilongwe,,,,,,,,,,,,,,,,,,,,,
+685,20-Oct-14,Ivory,Malawi,Lilongwe,,,,,,,,,,,,,,,,,,,,,
+686,26-Oct-14,Ivory,Burundi,Bujumbura,,,,,,,,,,,,,,,,,,,,,
+687,11-Nov-14,Ivory,Kenya,Mombasa,Kenya,Mombasa,,,,,United Arab Emirates,Dubai,,,,,,,Thailand,Bangkok,,,,,
+688,20-Nov-14,Ivory,China,Shenyang,,,,,,,,,,,,,,,,,,,,,
+689,8-Dec-14,Ivory,Mozambique,Maputo,Mozambique,Maputo,,,,,South Africa,Johannesburg,,,,,,,Thailand,,,,,,
+690,13-Dec-14,Ivory,Mozambique,Maputo,,,,,,,,,,,,,,,,,,,,,
+691,17-Dec-14,Ivory,South Africa,Durban,,,,,,,,,,,,,,,,,,,,,
+692,25-Jan-15,Ivory,Uganda,Entebbe,Uganda,Entebbe,,,,,,,,,,,,,Netherlands,Amsterdam,,,,,
+693,8-Feb-15,Ivory,Kenya,Nairobi,Kenya,Nairobi,,,,,United Arab Emirates,Dubai,,,,,,,China,Hong Kong,,,,,
+694,11-Feb-15,Ivory,Kenya,Nairobi,Kenya,Nairobi,,,,,United Arab Emirates,Dubai,,,,,,,China,Hong Kong,,,,,
+695,14-Feb-15,Ivory,Kenya,Nairobi,Democratic Republic of the Congo,,,,,,Kenya,Nairobi,,,,,,,Somalia,Mogadishu,,,,,
+696,19-Feb-15,Ivory,China,Hong Kong,Nigeria,,,,,,,,,,,,,,China,Hong Kong,,,,,
+697,13-Mar-15,Ivory,Vietnam,Ho Chi Minh City,United Arab Emirates,Dubai,,,,,,,,,,,,,Vietnam,Ho Chi Minh City,,,,,
+698,16-Mar-15,Ivory,Kenya,Nairobi,Burundi,Bujumbura,,,,,Kenya,Nairobi,,,,,,,Thailand,Bangkok,,,,,
+699,16-Mar-15,Ivory,China,Xiamen,China,Hong Kong,,,,,,,,,,,,,China,Xiamen,,,,,
+700,16-Mar-15,Ivory,United Arab Emirates,Dubai,,,,,,,United Arab Emirates,Dubai,,,,,,,,,,,,,
+701,17-Mar-15,Ivory,Uganda,Entebbe,Uganda,Entebbe,,,,,,,,,,,,,Singapore,,,,,,
+702,25-Mar-15,Ivory,China,Hangzhou,,,,,,,Qatar,Doha,,,,,,,China,Hangzhou,,,,,
+703,5-Apr-15,Ivory,Australia,Perth,Malawi,Lilongwe,,,,,South Africa,Johannesburg,Australia,Perth,,,,,Malaysia,Kuala Lumpur,,,,,
+704,14-Apr-15,Ivory,Thailand,Bangkok,Angola,Luanda,,,,,Thailand,Bangkok,,,,,,,Cambodia,,,,,,
+705,15-Apr-15,Ivory,China,Hohhot,Belgium,,,,,,,,,,,,,,China,Hohhot,,,,,
+706,16-Apr-15,Ivory,Vietnam,Hanoi,France,,,,,,,,,,,,,,Vietnam,Hanoi,,,,,
+707,22-Apr-15,Ivory,United Arab Emirates,Dubai,Ivory Coast,,,,,,United Arab Emirates,Dubai,,,,,,,Vietnam,,,,,,
+708,8-May-15,Ivory,Egypt,Alexandria,Libia,Tobruk,,,,,,,,,,,,,Egypt,Alexandria,,,,,
+709,12-May-15,Ivory,China,Shanghai,,,,,,,,,,,,,,,,,,,,,
+710,31-May-15,Ivory,Uganda,Entebbe,Uganda,Entebbe,,,,,UK,London,Turkey,Istanbul,,,,,Singapore,,,,,,
+711,11-Jun-15,Ivory,France,Paris,Democratic Republic of the Congo,,,,,,France,Paris,,,,,,,Vietnam,,,,,,
+712,24-Jun-15,Ivory,Mozambique,Maputo,Mozambique,Maputo,,,,,Ethiopia,Addis Ababa,,,,,,,China,,,,,,
+713,25-Jun-15,Ivory,Taiwan,Taipei,Japan,Tokyo,,,,,,,,,,,,,Taiwan,Taipei,,,,,
+714,30-Jun-15,Ivory,Vietnam,Ho Chi Minh City,France,,,,,,,,,,,,,,Vietnam,Ho Chi Minh City,,,,,
+715,2-Jul-15,Ivory,South Africa,Johannesburg,Zimbabwe,,,,,,South Africa,Johannesburg,,,,,,,Vietnam,,,,,,
+716,3-Jul-15,Ivory,Thailand,Bangkok,Republic of Congo,Brazzaville,,,,,Ethiopia,Addis Ababa,Thailand,Bangkok,,,,,Laos,Vientiane,,,,,
+717,4-Jul-15,Ivory,South Sudan,Juba,South Sudan,Juba,,,,,,,,,,,,,Thailand,,,,,,
+718,4-Jul-15,Ivory,Uganda,Entebbe,Uganda,Entebbe,,,,,,,,,,,,,Singapore,,,,,,
+719,6-Jul-15,Ivory,Switzerland,Zurich,Tanzania,Dar es Salaam,,,,,Switzerland,Zurich,,,,,,,China,Beijing,,,,,
+720,13-Jul-15,Ivory,Taiwan,Taipei,China,Hong Kong,,,,,,,,,,,,,Taiwan,Taipei,,,,,
+721,12-Aug-15,Ivory,Vietnam,Hanoi,,,,,,,South Korea,,,,,,,,Vietnam,Hanoi,,,,,
+722,12-Aug-15,Ivory,Kenya,Nairobi,Mozambique,Maputo,,,,,Kenya,Nairobi,,,,,,,UK,London,,,,,
+723,24-Aug-15,Ivory,China,Hong Kong,Nigeria,Abuja,,,,,United Arab Emirates,Dubai,,,,,,,China,Hong Kong,,,,,
+724,29-Aug-15,Ivory,Malawi,Lilongwe,Malawi,Lilongwe,,,,,Ethiopia,Addis Ababa,,,,,,,China,Beijing,,,,,
+725,2-Sep-15,Ivory,China,Hong Kong,Zimbabwe,,,,,,Netherlands,Amsterdam,,,,,,,China,Hong Kong,,,,,
+726,6-Sep-15,Ivory,China,Hong Kong,Zimbabwe,,,,,,Netherlands,Amsterdam,,,,,,,China,Hong Kong,,,,,
+727,25-Sep-15,Ivory,China,Hong Kong,Zimbabwe,Harare,,,,,United Arab Emirates,Dubai,,,,,,,China,Hong Kong,,,,,
+728,29-Sep-15,Ivory,China,Hong Kong,Nigeria,Abuja,,,,,United Arab Emirates,Dubai,,,,,,,China,Hong Kong,,,,,
+729,4-Oct-15,Ivory,Cambodia,Siem Reap,Angola,,,,,,,,,,,,,,Cambodia,Siem Reap,,,,,
+730,6-Oct-15,Ivory,Zimbabwe,Harare,,,,,,,,,,,,,,,,,,,,,
+731,14-Oct-15,Ivory,UK,London,Angola,,,,,,UK,London,,,,,,,Germany,Hannover,,,,,
+732,18-Oct-15,Ivory,Democratic Republic of the Congo,Kinshasa,Democratic Republic of the Congo,Kinshasa,,,,,France,Paris,,,,,,,Vietnam,Hanoi,,,,,
+733,24-Oct-15,Ivory,Zimbabwe,Harare,Zimbabwe,Harare,,,,,,,,,,,,,Singapore,,,,,,
+734,2-Nov-15,Ivory,Democratic Republic of the Congo,Kinshasa,Democratic Republic of the Congo,Kinshasa,,,,,Ethiopia,Addis Ababa,,,,,,,China,Beijing,,,,,
+735,2-Nov-15,Ivory,China,Hong Kong,Zimbabwe,Harare,,,,,United Arab Emirates,Dubai,,,,,,,China,Hong Kong,,,,,
+736,2-Nov-15,Ivory,China,Hong Kong,Malaysia,,,,,,,,,,,,,,China,Hong Kong,,,,,
+737,6-Nov-15,Ivory,China,Hong Kong,Nigeria,Abuja,,,,,United Arab Emirates,Dubai,,,,,,,China,Hong Kong,,,,,
+738,7-Dec-15,Ivory,France,Paris,Ethiopia,,,,,,France,Paris,,,,,,,Vietnam,Hanoi,,,,,
+739,19-Dec-15,Ivory,China,Hong Kong,Namibia,,,,,,South Africa,,China,Hong Kong,,,,,Malaysia,,,,,,
+740,30-Dec-15,Ivory,China,Wuhan,,,,,,,,,,,,,,,,,,,,,
+741,3-Jan-16,Ivory,China,Hong Kong,Zimbabwe,Harare,,,,,United Arab Emirates,Dubai,,,,,,,China,Hong Kong,,,,,
+742,9-Jan-16,Ivory,Kenya,Nairobi,,,,,,,,,,,,,,,,,,,,,
+743,11-Jan-16,Ivory,Kenya,Nairobi,,,,,,,,,,,,,,,,,,,,,
+744,11-Jan-16,Ivory,Kenya,Nairobi,,,,,,,,,,,,,,,,,,,,,
+745,12-Jan-16,Ivory,Nigeria,Lagos,,,,,,,,,,,,,,,,,,,,,
+746,15-Jan-16,Ivory,Kenya,Nairobi,,,,,,,,,,,,,,,,,,,,,
+747,16-Jan-16,Ivory,Kenya,Nairobi,Mozambique,Nampula,,,,,Kenya,Nairobi,,,,,,,China,Guangzhou,,,,,
+748,23-Jan-16,Ivory,Malawi,Blantyre,Malawi,Blantyre,,,,,,,,,,,,,China,,,,,,
+749,25-Jan-16,Ivory,United Arab Emirates,Dubai,,,,,,,,,,,,,,,,,,,,,
+750,25-Jan-16,Ivory,China,Dalian,,,,,,,,,,,,,,,,,,,,,
+751,30-Jan-16,Ivory,Vietnam,Hanoi,Angola,,,,,,Malaysia,,,,,,,,Vietnam,Hanoi,,,,,
+752,16-Feb-16,Ivory,Indonesia,Jakarta,Zambia,,,,,,United Arab Emirates,Abu Dhabi,,,,,,,Indonesia,Jakarta,,,,,
+753,26-Feb-16,Ivory,Malaysia,Kuala Lumpur,Angola,,,,,,Malaysia,Kuala Lumpur,,,,,,,,,,,,,
+754,26-Feb-16,Ivory,Malaysia,Kuala Lumpur,,,,,,,Malaysia,Kuala Lumpur,,,,,,,Vietnam,Hanoi,,,,,
+755,12-Mar-16,Ivory,China,Guangzhou,,,,,,,,,,,,,,,,,,,,,
+756,14-Mar-16,Ivory,China,Hong Kong,Ivory Coast,Abidjan,,,,,United Arab Emirates,Dubai,,,,,,,China,Hong Kong,,,,,
+757,15-Mar-16,Ivory,China,Guangzhou,,,,,,,,,,,,,,,,,,,,,
+758,18-Mar-16,Ivory,China,Guangzhou,,,,,,,,,,,,,,,,,,,,,
+759,27-Mar-16,Ivory,Thailand,Bangkok,Mozambique,Maputo,,,,,Kenya,Nairobi,,,,,,,Thailand,Bangkok,,,,,
+760,27-Mar-16,Ivory,Kenya,Nairobi,Mozambique,Maputo,,,,,Kenya,Nairobi,,,,,,,Thailand,Bangkok,,,,,
+761,29-Mar-16,Ivory,Kenya,Nairobi,Mozambique,Maputo,,,,,Kenya,Nairobi,,,,,,,Thailand,Bangkok,,,,,
+762,1-Apr-16,Ivory,Kenya,Nairobi,Democratic Republic of the Congo,,,,,,Kenya,Nairobi,,,,,,,China,,,,,,
+763,4-Apr-16,Ivory,Kenya,Nairobi,Nigeria,Lagos,,,,,Kenya,Nairobi,,,,,,,China,Guangzhou,,,,,
+764,11-Apr-16,Ivory,Kenya,Nairobi,Cameroon,,,,,,Kenya,Nairobi,,,,,,,China,Guangzhou,,,,,
+765,18-Apr-16,Ivory,Kenya,Nairobi,Democratic Republic of the Congo,,,,,,Kenya,Nairobi,,,,,,,China,,,,,,
+766,22-Apr-16,Ivory,Vietnam,Hanoi,,,,,,,Iran,Tehran,,,,,,,Vietnam,Hanoi,,,,,
+767,27-May-16,Ivory,South Sudan,Juba,,,,,,,,,,,,,,,,,,,,,
+768,1-Jun-16,Ivory,France,Paris,Angola,,,,,,France,Paris,,,,,,,Vietnam,,,,,,
+769,14-Jul-16,Ivory,China,Hong Kong,Zimbabwe,Harare,,,,,United Arab Emirates,Dubai,,,,,,,China,Hong Kong,,,,,
+770,21-Jul-16,Ivory,Malaysia,Kuala Lumpur,Democratic Republic of the Congo,Kinshasa,,,,,Turkey,Istanbul,,,,,,,Malaysia,Kuala Lumpur,,,,,
+771,27-Jul-16,Ivory,China,Hong Kong,Nigeria,Lagos,,,,,Ethiopia,Addis Ababa,,,,,,,China,Hong Kong,,,,,
+772,4-Aug-16,Ivory,Malaysia,Kuala Lumpur,Uganda,Entebbe,,,,,Turkey,Istanbul,,,,,,,Malaysia,Kuala Lumpur,,,,,
+773,1-May-16,Ivory,Germany,Berlin,,,,,,,,,,,,,,,,,,,,,

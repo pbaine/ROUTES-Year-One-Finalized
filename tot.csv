@@ -1,0 +1,774 @@
+ID,Year,Date ,Database,Location ,"City, Country",Origin,Transit,Destination,Weight (kg) ,Number,Airline ,Mode of Transport,Method of Detection,Obfuscation Method,Species
+1,2009,18-Jan-09,Birds,JFK Airport,"New York, USA",Guyana,,"New York, USA",,3,Delta Airlines,Luggage,,,Finches
+2,2009,3-Feb-09,Birds,Melbourne Airport,"Melbourne, Australia",,"Dubai, UAE","Melbourne, Australia",,4,,Passenger Clothing/Items; luggage,,in vitamin bottles and in tights under his pants,Pigeons; Bird eggs
+3,2009,12-Feb-09,Birds,Taiwan Taoyuan Airport,"Taipei, Taiwan",Indonesia,,,,8,,Luggage,,,Parrots
+4,2009,1-Mar-09,Birds,Los Angeles Airport,"Los Angeles, USA",Vietnam,,"Los Angeles, USA",,14,,Passenger Clothing/Items,,,red-whiskered bulbuls; magpie robins; shama thrushes
+5,2009,13-Mar-09,Birds,Soekarno-Hatta Airport,"Jakarta, Indonesia","Jakarta, Indonesia",,"Riyadh, Saudi Arabia",,30,,Luggage,,,Birds
+6,2009,6-Sep-09,Birds,Perth Airport,"Perth, Australia","Denpasar, Indonesia",,"Perth, Australia",,38,,Passenger Clothing/Items,,,Parrot eggs
+7,2009,14-Sep-09,Birds,JFK Airport,"New York, USA","Georgetown, Guyana",,"New York, USA",,31,Carribean Airlines,Luggage,,Wrapped in toiled paper rolls and concealed in lining of the suitcase,Finches
+8,2009,2-Oct-09,Birds,Kaohsiung Airport,"Kaohsiung, Taiwan",China,,,,6,,Luggage,Detector Dog,,Chinese Hwameis
+9,2009,20-Oct-09,Birds,Bengaluru Airport,"Bangalore, India","Bangalore, India",,"Delhi, India",,2,,Airfreight,,,Macaws
+10,2009,31-Oct-09,Birds,Domodedovo Airport,"Moscow, Russia","Moscow, Russia",,"Doha, Qatar",,14,,Luggage,,,Gyrfalcons
+11,2009,20-Nov-09,Birds,Taiwan Taoyuan Airport,"Taipei, Taiwan",China,,,,116,,Luggage,,,Birds
+12,2009,21-Nov-09,Birds,Malta Airport,"Luqa, Malta","Luqa, Malta",,"Tripoli, Libya",,200,,Passenger Clothing/Items; Luggage,,,Canaries
+13,2009,28-Nov-09,Birds,Douala Airport,"Douala, Cameroon","Douala, Cameroon",,Bahamas,,300,,Luggage,,"""Practically fastened"" in ten cases",Grey Parrots
+14,2009,2-Dec-09,Birds,Petropavlovsk Kamchatskiy Airport,"Petropavlovsk Kamchatskiy, Russia","Petropavlovsk Kamchatskiy, Russia",,"Vladivostok, Russia",,9,,Luggage,,,Gyrfalcons
+15,2010,1-Feb-10,Birds,Douala Airport,"Douala, Cameroon","Douala, Cameroon","Addis Ababa, Ethiopia","Kuwait City, Kuwait; Manama, Bahrain",,1000,Ethiopian Airlines,Airfreight,,,Grey Parrots
+16,2010,27-Apr-10,Birds,Sofia Airport,"Sofia, Bulgaria","Beirut, Lebanon",,"Sofia, Bulgaria",,108,,Airfreight,,,Grey Parrots
+17,2010,3-May-10,Birds,Birmingham Airport,"Birmingham, United Kingdom","Birmingham, United Kingdom",,"Dubai, UAE",,14,,Passenger Clothing/Items,,,Peregrine Falcon eggs
+18,2010,9-May-10,Birds,Cayenne – Felix Eboue Airport,"Cayenne, French Guiana","Cayenne, French Guiana",,,,16,,Passenger Clothing/Items,,,Hummingbirds
+19,2010,7-Jun-10,Birds,Miami Airport,"Miami, USA",Cuba,,"Miami, USA",,72,,Luggage,,,Pigeon eggs
+20,2010,2-Jul-10,Birds,Shahjalal Airport,"Dhaka, Bangladesh",India,"Dhaka, Bangladesh",Pakistan,,1000,Pakistani Airlines,Luggage,,,Birds
+21,2010,20-Aug-10,Birds,Perth Airport,"Perth, Australia",,,"Perth, Australia",,7,,Airfreight,,,Bobwhite Quail
+22,2010,11-Aug-10,Birds,Zurich Airport,"Zurich, Switzerland","Sao Paulo, Brazil",,"Zurich, Switzerland",,25,,Passenger Clothing/Items,,,Parrot eggs
+23,2010,22-Sep-10,Birds,Belgrade Airport,"Belgrade, Serbia",,UAE,,,22,,Unknown,,,Toucans
+24,2010,28-Sep-10,Birds,Kavumu Airport,"Bukavu, Congo","Bukavu, Congo",,Singapore,,523,,Airfreight,,,Grey Parrots
+25,2010,28-Sep-10,Birds,Jinnah Airport,"Karachi, Pakistan","Karachi, Pakistan",,"Muscat, Oman",,139,,Airfreight,,Fake paperwork,Flamingos; Cranes; Rose-ringed parrots
+26,2010,5-Oct-10,Birds,Domodedovo Airport,"Moscow, Russia","Moscow, Russia",,"Dubai, UAE",,6,,Luggage,,,Gyrfalcons; Merlins
+27,2010,6-Nov-10,Birds,Brasilia Airport,"Brasilia, Brazil","Brasilia, Brazil",,"Fortaleza, Brazil",,232,Gol Transportes Aereos,Luggage,,,Saffron Finches; Double-collared seedeaters
+28,2010,22-Nov-10,Birds,Sheremetyevo Airport,"Moscow, Russia",,"Moscow, Russia","Damascus, Syria",,8,,Luggage,,Boxes embeddded in luggage,Gyrfalcons
+29,2010,3-Dec-10,Birds,Petropavlovsk Kamchatskiy Airport,"Petropavlovsk Kamchatskiy, Russia","Petropavlovsk Kamchatskiy, Russia",,"Moscow, Russia",,8,Transaero,Luggage,,,Merlins
+30,2010,7-Dec-10,Birds,Tribhuvan Airport,"Kathmandu, Nepal","Kathmandu, Nepal",,"Doha, Qatar",,10,Qatar Airways,Luggage,,,Falcons
+31,2011,1-Jan-11,Birds,Dubai Airport,"Dubai, UAE",Kazakhstan,,"Dubai, UAE",,2,,Unknown,,,Gyrfalcons
+32,2011,1-Jan-11,Birds,Dubai Airport,"Dubai, UAE",Kuwait,,"Dubai, UAE",,1,,Unknown,,,Falcons
+33,2011,3-Jan-11,Birds,Val de Cans Airport,"Belem, Brazil","Rio de Janeiro, Brazil",,"Belem, Brazil",,2,Gol Transportes Aereos,Airfreight,,,Parakeets
+34,2011,1-Jan-11,Birds,Soekarno-Hatta Airport,"Jakarta, Indonesia","Jakarta, Indonesia",,Bahrain,,14,,Luggage,X-ray,Boxes in luggage,Black-throated laughing thrushes
+35,2011,7-Jan-11,Birds,Soekarno-Hatta Airport,"Jakarta, Indonesia","Jakarta, Indonesia",,Netherlands,,,,Unknown,,,Helmeted hornbills
+36,2011,13-Jan-11,Birds,Soekarno-Hatta Airport,"Jakarta, Indonesia","Jakarta, Indonesia",,Saudi Arabia,,2,,Luggage,,,Birds; Hill Mynahs
+37,2011,19-Jan-11,Birds,Ben Gurion Airport,"Tel Aviv, Israel","Brussels, Belgium",,"Tel Aviv, Israel",,8,,Passenger Clothing/Items,,,Red Siskins
+38,2011,31-Jan-11,Birds,Soekarno-Hatta Airport,"Jakarta, Indonesia","Jakarta, Indonesia",,,,2,,Luggage,,,Bali Mynas
+39,2011,11-Feb-11,Birds,Suvarnabhumi Airport,"Bangkok, Thailand","Bangkok, Thailand",,,,,,Luggage,X-ray,,Grey Parrots
+40,2011,1-Apr-11,Birds,Vienna Airport,"Vienna, Austria",Jamaica,"Vienna, Austria",Slovakia,,74,,Luggage,,,Black Billed Amazon eggs; Yellow Billed Amazon Eggs
+41,2011,17-Apr-11,Birds,Recife/Guararapes–Gilberto Freyre Airport,"Recife, Brazil","Brasilia, Brazil",,"Recife, Brazil",,179,,Unknown,,,Saffron Finches
+42,2011,1-Jun-11,Birds,Dubai Airport,"Dubai, UAE",Jordan,,"Dubai, UAE",,1,,Unknown,,,Grey Parrots
+43,2011,24-Jun-11,Birds,Eduardo Gomes Airport,"Manaus, Brazil",Venezuela,"Boa Vista, Brazil; Sao Paulo, Brazil","Manaus, Brazil",,270,,Luggage,,,Saffron Finches; Great-billed Seed Finches; Hooded Siskins; Nightengales; 
+44,2011,1-Aug-11,Birds,Dubai Airport,"Dubai, UAE",Belgium,,"Dubai, UAE",,2,,Unknown,,,Galahs
+45,2011,1-Aug-11,Birds,Dubai Airport,"Dubai, UAE",Belgium,,"Dubai, UAE",,35,,Unknown,,,Java Sparrows
+46,2011,22-Aug-11,Birds,Pinto Martins – Fortaleza Airport,"Fortaleza, Brazil","Manaus, Brazil",,"Fortaleza, Brazil",,221,,Luggage,,,Canaries; Lesser Goldfinches;  Goldfinches
+47,2011,24-Aug-11,Birds,Los Angeles Airport,"Los Angeles, USA","Los Angeles, USA",,"Guangzhou, China",,2,China Southern Airlines,Passenger Clothing/Items,,,Birds
+48,2011,1-Sep-11,Birds,Cheddi Jagan Airport,"Georgetown, Guyana","Georgetown, Guyana",,,,35,,Unknown,,,Finches
+49,2011,28-Sep-11,Birds,Brasilia Airport,"Brasilia, Brazil","Brasilia, Brazil",,,,300,,Unknown,,,Saffron Finches
+50,2011,2-Oct-11,Birds,Cayenne – Felix Eboue Airport,"Cayenne, French Guiana","Cayenne, French Guiana",,,,12,,Passenger Clothing/Items,,,Hummingbirds
+51,2011,1-Nov-11,Birds,Dubai Airport,"Dubai, UAE",,,"Dubai, UAE",,1,,Unknown,,,Falcons
+52,2011,21-Nov-11,Birds,Manas Airport,"Bishkek, Kyrgyzstan","Bishkek, Kyrgyzstan",,"Dubai, UAE",,4,,Luggage,X-ray,,Saker Falcons
+53,2011,1-Dec-11,Birds,Dubai Airport,"Dubai, UAE",,,"Dubai, UAE",,1,,Unknown,,,Falcons
+54,2011,8-Dec-11,Birds,Manchester Airport,"Manchester, United Kingdom",Pakistan,,"Manchester, United Kingdom",,3,,Luggage,,,Partridges
+55,2011,13-Dec-11,Birds,Charles de Gaulle Airport,"Paris, France",Mexico,,"Paris, France",,100,,Unknown,,,Birds; Cardinals; Goldfinches
+56,2012,1-Jan-12,Birds,Abu Dhabi Airport,"Abu Dhabi, UAE",Qatar,,"Abu Dhabi, UAE",,1,,Unknown,,,Falcons
+57,2012,1-Jan-12,Birds,Abu Dhabi Airport,"Abu Dhabi, UAE",Qatar,,"Abu Dhabi, UAE",,2,,Unknown,,,Houbara Bustards
+58,2012,15-Jan-12,Birds,Tijuana Airport,"Tijuana, Mexico",,,"Tijuana, Mexico",,20,,Unknown,,,Toucans; hawks
+59,2012,17-Jan-12,Birds,Brussels Airport,"Brussels, Belgium",Morocco,,"Brussels, Belgium",,15,,Luggage,,,Senegal Parrots
+60,2012,23-Jan-12,Birds,Tenerife Sur Airport,"Tenerife, Spain","Tenerife, Spain",,"Madrid, Spain",,30,,Luggage,Scanner,,Atlantic Canaries
+61,2012,28-Feb-12,Birds,Malta Airport,"Luqa, Malta","Luqa, Malta",,Libya,,35,,Luggage,X-ray,,Chickens; Canaries; Budgerigars
+62,2012,28-Feb-12,Birds,Brussels Airport,"Brussels, Belgium","Brussels, Belgium",,Morocco,,67,undisclosed Moroccan company,Luggage,Papers were used previously,,King parrots; Green winged macaws; Birds
+63,2012,1-Mar-12,Birds,Val de Cans Airport,"Belem, Brazil","Fortaleza, Brazil",,"Belem, Brazil",,80,Gol Transportes Aereos,Airfreight,,,Budgerigarw
+64,2012,22-Mar-12,Birds,Taiwan Taoyuan Airport,"Taoyuan City, Taiwan ",Vietnam,,"Taoyuan City, Taiwan ",,67,,Passenger Clothing/Items,,,Japanese White Eyes
+65,2012,7-Apr-12,Birds,Cheddi Jagan Airport,"Georgetown, Guyana","Georgetown, Guyana",,,,35,,Luggage,,,Finches
+66,2012,1-May-12,Birds,Dubai Airport,"Dubai, UAE",Russia,,"Dubai, UAE",,1,,Unknown,,,White cockatoos
+67,2012,1-May-12,Birds,Dubai Airport,"Dubai, UAE",Bahrain,,"Dubai, UAE",,1,,Unknown,,,African Grey Parrotw
+68,2012,1-Jun-12,Birds,JFK Airport,"New York, USA",Guyana,,"New York, USA",,9,Easy Jet,Passenger Clothing/Items,,,Finches
+69,2012,3-Jun-12,Birds,Los Angeles Airport,"Los Angeles, USA","Taipei, Taiwan",,"Los Angeles, USA",,1,China Airlines,Unknown,Bird got loose in passenger cabin,,Songbirds
+70,2012,7-Jul-12,Birds,Taiwan Taoyuan Airport,"Taoyuan City, Taiwan ","Guangzhou, China",,"Taoyuan City, Taiwan ",,38,,Luggage,,,Birds
+71,2012,1-Jul-12,Birds,Dubai Airport,"Dubai, UAE",Mali,,"Dubai, UAE",,4,,Unknown,,,African Grey Parrots
+72,2012,1-Jul-12,Birds,Dubai Airport,"Dubai, UAE",Czech Republic,,"Dubai, UAE",,2,,Unknown,,,Yellow-Collared Lovebirds
+73,2012,1-Jul-12,Birds,Dubai Airport,"Dubai, UAE",Italy,,"Dubai, UAE",,41,,Unknown,,,Java Sparrows
+74,2012,29-Aug-12,Birds,Chhatrapati Shivaji Airport,"Mumbai, India","Bangkok, Thailand",,,,11,Thai Airways,Passenger Clothing/Items,Airport security,Concealed in underwear,Bird eggs
+75,2012,1-Sep-12,Birds,Cairo Airport,"Cairo, Egypt",,,,,17,,Unknown,,,Falcons
+76,2012,1-Sep-12,Birds,Dubai Airport,"Dubai, UAE",Bahrain,,"Dubai, UAE",,3,,Unknown,,,Yellow-Collared Lovebirds
+77,2012,1-Sep-12,Birds,Dubai Airport,"Dubai, UAE",Bahrain,,"Dubai, UAE",,58,,Unknown,,,Java Sparrows
+78,2012,3-Sep-12,Birds,Cheddi Jagan Airport,"Georgetown, Guyana","Georgetown, Guyana",,"New York, USA",,,,Passenger Clothing/Items,,,Chesnut-bellied Seed finches
+79,2012,16-Oct-12,Birds,Ugolny Airport,"Anadyr, Russia","Anadyr, Russia",,"Moscow, Russia",,4,,Luggage,,,Gyrfalcons; Goshawks
+80,2012,17-Oct-12,Birds,Madrid Barajas Airport,"Madrid, Spain","Caracas, Venezuela",,"Madrid, Spain",,85,Air Europa,Luggage,,,Hummingbirds; Jays; Hooded red siskins; Cardinals; Saffron Finches; Parakeets
+81,2012,20-Oct-12,Birds,Miami Airport,"Miami, USA",Cuba,,"Miami, USA",,16,,Passenger Clothing/Items,,,Cuban Bullfinches
+82,2012,4-Nov-12,Birds,Faisalabad Airport,"Faisalabad, Pakistan","Faisalabad, Pakistan",,,,300,,Unknown,,,Falcons; Birds
+83,2012,25-Nov-12,Birds,Jinnah Airport,"Karachi, Pakistan","Karachi, Pakistan",,Bahrain,,7,,Unknown,,,Falcons
+84,2012,26-Nov-12,Birds,Amsterdam Airport Schiphol,"Amsterdam, Netherlands",Mexico,,,,42,,Luggage,,in small boxes hidden in his suitcase,west bluebirds; Bullfinches
+85,2012,1-Dec-12,Birds,Abu Dhabi Airport,"Abu Dhabi, UAE",Qatar,,"Abu Dhabi, UAE",,1,,Unknown,,,Falcon
+86,2012,1-Dec-12,Birds,Abu Dhabi Airport,"Abu Dhabi, UAE",Qatar,,"Abu Dhabi, UAE",,1,,Unknown,,,Falcon
+87,2012,1-Dec-12,Birds,Vladivostok Airport,"Vladivostok, Russia","Petropavlovsk Kamchatskiy, Russia",,"Vladivostok, Russia",,8,,Luggage,,,Gyrfalcons
+88,2012,1-Dec-12,Birds,Vladivostok Airport,"Vladivostok, Russia","Novosibirsk, Russia",,"Vladivostok, Russia",,6,,Luggage,,,Gyrfalcons
+89,2013,3-Jan-13,Birds,Soekarno-Hatta Airport,"Jakarta, Indonesia","Jakarta, Indonesia",,"Hong Kong, China",,248,,Luggage,,,Hornbill beaks
+90,2013,3-Jan-13,Birds,Shahjalal Airport,"Dhaka, Bangladesh",South Africa,,"Dhaka, Bangladesh",,160,Qatar Airways,Luggage,,,Birds; African grey parrots; budgerigaries; rainbow lorikeets; golden mantled rosellas; green parakeets
+91,2013,27-Feb-13,Birds,Charles de Gaulle Airport,"Paris, France","Mexico City, Mexico","Paris, France","Munich, Germany",,62,,Luggage,,,birds
+92,2013,19-Mar-13,Birds,Suvarnabhumi Airport,"Bangkok, Thailand",,"Bangkok, Thailand",,,15,,Unknown,,,Parrots
+93,2013,1-Apr-13,Birds,Manchester Airport,"Manchester, United Kingdom",Pakistan,,"Manchester, United Kingdom",,17,,Luggage,,,Patridges
+94,2013,4-May-13,Birds,Leeds Bradford Airport,"Leeds, United Kingdom","Islamabad, Pakistan",,"Leeds, United Kingdom",,4,,Luggage,X-ray,,Grey Francolins
+95,2013,11-May-13,Birds,Leeds Bradford Airport,"Leeds, United Kingdom","Islamabad, Pakistan",,"Leeds, United Kingdom",,5,,Luggage,X-ray,,Grey Francolins
+96,2013,11-Jun-13,Birds,Vienna Airport,"Vienna, Austria","Denpasar, Indonesia",,"Vienna, Austria",,60,,Unknown,Detector Dog,,Parrots; Birds of Paradise
+97,2013,14-Jun-13,Birds,Milan Linate Airport,"Milan, Italy",Argentina,"Milan, Italy",Malta,,180,,Luggage,,,Wattled Jacanas; Silver Teals; Nacunda Nighthawks; Whistling Herons
+98,2013,24-Nov-13,Birds,Ben Gurion Airport,"Tel Aviv, Israel",Netherlands,,"Tel Aviv, Israel",,40,,Luggage,,,Zebra Finches
+99,2013,28-Nov-13,Birds,Darwin Airport,"Darwin, Australia","Darwin, Australia",,Indonesia,,7,Indonesian Army,Luggage,,,Galahs; Parrots
+100,2013,10-Dec-13,Birds,Amsterdam Airport Schiphol,"Amsterdam, Netherlands",Suriname,,"Amsterdam, Netherlands",,6,,Luggage,,,Thick-billed seed finches; Chestnut-bellied seed finches; Picolets
+101,2014,8-Jan-14,Birds,Kindu Airport,"Kindu, DR Congo","Kindu, DR Congo",,"Bukavu, DR Congo",,27,African Aviation Company (CAA); cargo plane,Airfreight,,,parrots
+102,2014,20-Jan-14,Birds,Cheddi Jagan Airport,"Georgetown, Guyana","Georgetown, Guyana",,,,,Carribean Airlines,Unknown,,,Towa Towas
+103,2014,27-Jan-14,Birds,Phoenix Sky Harbor Airport,"Phoenix, USA","Nairobi, Kenya","London, United Kingdom","Phoenix, USA",,103,,Luggage,,,Bird eggs
+104,2014,28-Jan-14,Birds,Brasilia Airport,"Brasilia, Brazil","Brasilia, Brazil",,"Joao Pessoa, Brazil",,390,,Luggage,,,Saffron Finches
+105,2014,1-Feb-14,Birds,Sao Paulo–Guarulhos Airport,"Sao Paulo, Brazil",Peru,,"Sao Paulo, Brazil",,50,,Luggage,,,Finches
+106,2014,24-Feb-14,Birds,Ben Gurion Airport,"Tel Aviv, Israel",Belgium,,"Tel Aviv, Israel",,34,,Luggage,,,Parrots
+107,2014,27-Apr-14,Birds,Ignacio Agramonte Airport,"Camaguey, Cuba","Camaguey, Cuba",,USA,,66,,Passenger Clothing/Items,"Attracted attention of customs with ""the very wide trouser legs""",,Breakfast sporophiles singers
+108,2014,2-May-14,Birds,Simon Bolivar Airport,"Caracas, Venezuela","Caracas, Venezuela",,France,,103,,Luggage,,,Tropical Birds
+109,2014,10-Apr-14,Birds,Changi Airport,Singapore,"Ho Chi Minh City, Vietnam",,Singapore,,9,,Luggage,,,Melodious Laughing Thrushes; White rumped shamas
+110,2014,15-May-14,Birds,Bacha Khan Airport,"Peshawar, Pakistan","Karachi, Pakistan",,"Peshawar, Pakistan",,32,,Unknown,,,Parrots
+111,2014,16-May-14,Birds,Ignacio Agramonte Airport,"Camaguey, Cuba","Camaguey, Cuba",,USA,,66,,Passenger Clothing/Items,Visible bulge,Pouches sewn into pants,Humming birds; Finches
+112,2014,20-May-14,Birds,Sydney Airport,"Sydney, Australia",,"Dubai, UAE","Sydney, Australia",,16,,Passenger Clothing/Items,,,Bird eggs
+113,2014,2-Jun-14,Birds,Simon Bolivar Airport,"Caracas, Venezuela",,,"Munich, Germany",,103,,Unknown,,,Birds
+114,2014,9-Jun-14,Birds,Soekarno-Hatta Airport,"Jakarta, Indonesia","Jakarta, Indonesia",,"Paris, France",,16,,Luggage,,,Birds-of-paradise
+115,2014,10-Jun-14,Birds,Guangzhou Baiyun Airport,"Guangzhou, China","Guangzhou, China",,Singapore,,2,,Passenger Clothing/Items,Visible bulge,,Birds
+116,2014,1-Jul-14,Birds,Heathrow Airport,"London, United Kingdom",Turkey,,"London, United Kingdom",,1,,Luggage,,,Parrots
+117,2014,13-Jul-14,Birds,Sao Paulo–Guarulhos Airport,"Sao Paulo, Brazil",Portugal,,"Sao Paulo, Brazil",,2,,Luggage,X-ray,,White cockatoos
+118,2014,8-Sep-14,Birds,Tan Son Nhat Airport,"Ho Chi Minh City, Vietnam","Ho Chi Minh City, Vietnam",,"Hanoi, Vietnam",,870,,Airfreight,,,Parrots; Hill Mynahs; Spotted Doves
+119,2014,1-Oct-14,Birds,Domodedovo Airport,"Moscow, Russia","Moscow, Russia",,Armenia,,5,,Luggage,,,Saker Falcons
+120,2014,10-Oct-14,Birds,Toronto Pearson Airport,"Toronto, Canada",,,"Toronto, Canada",,19,,Passenger Clothing/Items,,,Birds
+121,2014,13-Oct-14,Birds,Hermosillo Airport,"Hermosillo, Mexico","Toluca, Mexico",,"Hermosillo, Mexico",,2,,Airfreight,,,Keel-billed toucans
+122,2014,12-Nov-14,Birds,Changi Airport,Singapore,"Ho Chi Minh City, Vietnam",,Singapore,,12,,Luggage,,,White-rumped shamas; Red-whiskered Bulbus; Magpie Robins
+123,2014,12-Nov-14,Birds,Jinnah Airport,"Karachi, Pakistan","Karachi, Pakistan",,"Dubai, UAE",,5,Emirates Airlines,Airfreight,,,Saker Falcons; Peregrinne Falcons
+124,2014,15-Dec-14,Birds,Tenerife Sur Airport,"Tenerife, Spain","Tenerife, Spain",,"Milan, Italy",,21,,Luggage,,,Blue Chaffinches
+125,2015,14-Jan-15,Birds,Bremen Airport,"Bremen, Germany","Bremen, Germany",,,,33,,Luggage,,,European Goldfinches
+126,2015,1-Mar-15,Birds,Jorge Chavez Airport,"Lima, Peru","Lima, Peru",,,,6,,Luggage,,,Toucans
+127,2015,20-Apr-15,Birds,Los Angeles Airport,"Los Angeles, USA",,,"Los Angeles, USA",,27,,Luggage,,,Chinese Hwameis; Asian Songbirds
+128,2015,19-Jun-15,Birds,Miami Airport,"Miami, USA",Brazil,,"Miami, USA",,5,,Airfreight,,,Bird Eggs
+129,2015,2-Jul-15,Birds,Miami Airport,"Miami, USA",Cuba,,"Miami, USA",,3,,Luggage,,,Pigeons; Finches
+130,2015,10-Sep-15,Birds,Simon Bolivar Airport,"Maiquetia, Venezuela","Maiquetia, Venezuela","Madrid, Spain","Rome, Italy",,57,Iberian Airlines,Luggage,,,Birds
+131,2015,14-Sep-15,Birds,Shymkent Airport,"Shymkent, Kazakhstan","Shymkent, Kazakhstan",,"Dubai, UAE",,24,,Luggage,,,Saker Falcons
+132,2015,28-Sep-15,Birds,Reynosa Airport,"Reynosa, Mexico","Reynosa, Mexico",,"Mexico City, Mexico",,10,,Airfreight,,,Golden blue macaws; Yellow Crested cockatoos; White-crested cockatoos
+133,2015,22-Oct-15,Birds,Sao Paulo–Guarulhos Airport,"Sao Paulo, Brazil",Chile,"Sao Paulo, Brazil","Dubai, UAE",,4,,Unknown,,,Albino Perigrine Falcon Eggs
+134,2015,31-Oct-15,Birds,Cheddi Jagan Airport,"Georgetown, Guyana","Georgetown, Guyana",,"New York, USA",,29,Caribbean Airlines,Luggage,,,Birds
+135,2015,28-Nov-15,Birds,Sao Paulo–Guarulhos Airport,"Sao Paulo, Brazil",Italy,,"Sao Paulo, Brazil",,97,,Luggage,,,Canaries
+136,2015,1-Nov-15,Birds,Sao Paulo–Guarulhos Airport,"Sao Paulo, Brazil","Sao Paulo, Brazil",,,,200,,Unknown,,,Parrots
+137,2016,9-Jan-16,Birds,Miami Airport,"Miami, USA","Havana, Cuba",,"Miami, USA",,9,,Passenger Clothing/Items,,,Birds
+138,2016,17-Jan-16,Birds,Jinnah Airport,"Karachi, Pakistan","Dubai, UAE",,"Karachi, Pakistan",,5,,Unknown,,,Falcons
+139,2016,28-Jan-16,Birds,Ninoy Aquino Airport,"Manila, Philippines","Manila, Philippines",,Japan,,6,,Airfreight,,,"Eagle Owls, scops owls"
+140,2016,18-Feb-16,Birds,Maastricht Aachen Airport,"Beek, Netherlands",,,Iraq,,142,,Unknown,Lack of authorization,,Birds
+141,2016,25-Feb-16,Birds,Dallas/Fort Worth Airport,"Dallas, USA",Vietnam,,"Dallas, USA",,120,,Luggage,,Packed in rice hulls,Fertile Quail Eggs
+142,2016,12-Apr-16,Birds,Tan Son Nhat Airport,"Ho Chi Minh City, Vietnam","Ho Chi Minh City, Vietnam",,Taiwan,,18,,Passenger Clothing/Items,,,White-rumped shamas; Oriental Shamas; Melodious Laughing thrushes
+143,2016,27-Apr-16,Birds,Ibrahim Nasir Airport,"Maldives, Maldives","Bangkok, Thailand",,"Maldives, Maldives",,11,,Luggage,,,Green-Cheek Parakeets; Eagles; Birds
+144,2016,27-Apr-16,Birds,Cheddi Jagan Airport,"Georgetown, Guyana","Georgetown, Guyana",,"New York, USA",,,,Luggage,,,Towa Towas
+145,2016,28-Apr-16,Birds,Cheddi Jagan Airport,"Georgetown, Guyana","Georgetown, Guyana",,"Toronto, Canada",,,,Luggage,,,Towa Towas
+146,2016,5-Jun-16,Birds,Ministro Pistarini Airport,"Buenos Aires, Argentina","Buenos Aires, Argentina",,"Madrid, Spain",,126,,Luggage,,,Red Crested Cardinals; Yellow-crested cardinals; Toucans
+147,2009,9-Feb-09,Reptiles,Hong Kong Airport,"Hong Kong, China",Thailand,,"Hong Kong, China",,2,,Luggage,canine; intelligence,none; food boxes,Ploughshare Tortoises
+148,2009,20-Feb-09,Reptiles,Sydney Airport,"Sydney, Australia","Sydney, Australia",,"Bangkok, Thailand",,44,,Luggage,X-ray,socks; cloth bags,Shingleback Lizards; bluetongue lizards; three Black-headed Pythons; albino Carpet Python
+149,2009,1-Mar-09,Reptiles,,United Kingdom,USA,,,,26,,Unknown,,,Ball Pythons
+150,2009,9-Jul-09,Reptiles,Kaohsiung Airport,"Kaohsiung, Taiwan",China,,"Kaohsiung, Taiwan",,1,,Luggage,,,Ploughshare Tortoises
+151,2009,1-May-09,Reptiles,Ivato Airport,"Antananarivo, Madagascar","Antananarivo, Madagascar",,,,,,Unknown,,,Tortoises
+152,2009,10-Sep-09,Reptiles,Charles de Gaulle Airport,"Paris, France","Niamey, Niger","Paris, France","Miami, USA",155,193,,Airfreight,,,Lizards
+153,2009,29-Aug-09,Reptiles,Kaohsiung Airport,"Kaohsiung, Taiwan","Kaohsiung, Taiwan",,"Hong Kong, China",,1255,,Airfreight,,,Chinese Box Turtles
+154,2009,10-Sep-09,Reptiles,Charles de Gaulle Airport,"Paris, France",Niger,"Paris, France","Florida, USA",,188,,Airfreight,Lack of paperwork,,Uromastyz Geyris Lizards
+155,2009,11-Nov-09,Reptiles,Taiwan Taoyuan Airport,"Taipei, Taiwan",China,,"Taipei, Taiwan",,57,Air Macau,Luggage,,,Tortoises
+156,2009,17-Nov-09,Reptiles,Los Angeles Airport,"Los Angeles, USA",Australia,,"Los Angeles, USA",,15,,Passenger - Clothing/Items,,,Skinks; Geckos; Lizards
+157,2009,20-Nov-09,Reptiles,Taiwan Taoyuan Airport,"Taipei, Taiwan",China,,,,30,,Unknown,,,Tortoises
+158,2009,6-Dec-09,Reptiles,Christchurch Airport,"Christchurch, New Zealand","Christchurch, New Zealand",,"Frankfurt, Germany",,44,,Passenger - Clothing/Items,Baggage search,"Hidden in baggage and a ""purpose-built body pack concealed in Kubus's underwear""",Sticky-Toed Geckos; skinks
+159,2010,2-Mar-10,Reptiles,Soekarno-Hatta Airport,"Jakarta, Indonesia","Jakarta, Indonesia",,"Hong Kong, China",2200,4100,Cathay Pacific Flight,Airfreight,"""Two tons of fresh fruit"" alerted customs to unusual activity","Declared as ""fresh fruit"" cargo",Pig-Nosed Turtles; Indochinese Rattlesnakes
+160,2010,3-Apr-10,Reptiles,Cayenne – Felix Eboue Airport,"Cayenne, French Guiana",,,,,44,,Unknown,intelligence,,Dyeing Dart Frogs
+161,2010,14-May-10,Reptiles,Edmonton Airport,"Edmonton, Canada",United Kingdom,,"Edmonton, Canada",,3,,Luggage,canine,cardboard boxes,Spur-Thighed Tortoises
+162,2010,23-May-10,Reptiles,Shahjalal Airport,"Dhaka, Bangladesh","Chennai, India","Dhaka, Bangladesh",Malaysia,,480,Malaysia Airlines,Luggage,,,Indian Star Tortoises
+163,2010,1-Jun-10,Reptiles,Kuala Lumpur Airport,"Kuala Lumpur, Malaysia",Madagascar,,"Kuala Lumpur, Malaysia",,300,Air Mauritius,Luggage,,,Radiated Tortoises; Kapikas; ploughshare tortoises; spider tortoises
+164,2010,1-Jul-10,Reptiles,Kuala Lumpur Airport,"Kuala Lumpur, Malaysia",Madagascar,,,,415,,Luggage,,,radiated tortoises; ploughshare tortoises; tomato frogs
+165,2010,1-Aug-10,Reptiles,Honolulu Airport,"Honolulu, USA","Osaka, Japan",,"Honolulu, USA",,42,,Luggage,intelligence,,Indian Star Tortoises; Pig-Nosed Turtles; White-Front Box Turtles
+166,2010,26-Aug-10,Reptiles,Kuala Lumpur Airport,"Kuala Lumpur, Malaysia","Penang, Malaysia","Kuala Lumpur, Malaysia","Jakarta, Indonesia",,95,,Luggage,Snakes got out,,Boa Constrictors
+167,2010,28-Sep-10,Reptiles,Suvarnabhumi Airport,"Bangkok, Thailand",India,Bangladesh,"Bangkok, Thailand",,1140,,Luggage,,,Indian Star Tortoises
+168,2010,11-Oct-10,Reptiles,Suvarnabhumi Airport,"Bangkok, Thailand",Madagascar,"Nairobi, Kenya","Bangkok, Thailand",,218,Kenya Airlines,Luggage,,,Tortoises
+169,2010,2-Dec-10,Reptiles,Abu Dhabi Airport,"Abu Dhabi, UAE",Indonesia,"Abu Dhabi, UAE","Abu Dhabi, UAE",,4,Etihad Airlines,Luggage,,,Reticulated Pythons; blood pythons
+170,2011,7-Jan-11,Reptiles,Los Angeles Airport,"Los Angeles, USA",Japan,,"Los Angeles, USA",,55,,Luggage,,Snack food boxes,Pig-Nosed Turtles; Star Tortoises; Chinese Soft-Shell Turtles; Indian Flap Turtles; Chinese Big-Headed Turtles; Snail Eating Turtles
+171,2011,31-Jan-11,Reptiles,Soekarno-Hatta Airport,"Jakarta, Indonesia","Jakarta, Indonesia",,,,8,,Luggage,X-ray,,Tortoises
+172,2011,1-Feb-11,Reptiles,Munich Airport,"Munich, Germany",Indonesia,,"Munich, Germany",,152,,Airfreight,,,Reptiles
+173,2011,9-Feb-11,Reptiles,Suvarnabhumi Airport,"Bangkok, Thailand","Bangkok, Thailand",,,,257,,Luggage,X-ray,,Indian Star Tortoises; Ball Pythons; Elongated Tortoises; Bearded Dragons; Radiated Tortoises; Argentine Horned Frogs; Mata mata Turtles; Spiny Tailed Lizards; Striped Narrow-Headed Turtles; Aldabra Troiteses; Boa Constrictors; Sudan Plated Lizards; Corn Snakes; King Snakes; Ploughshare Toirtoises; Pig-nosed Turtles; milk snakes; hog-nosed snakes
+174,2011,11-Feb-11,Reptiles,Suvarnabhumi Airport,"Bangkok, Thailand","Bangkok, Thailand",,,,185,,Luggage,X-ray,,Indian Star Tortoises; Lizards; Pythons; Boa Constrictors; Ploughshare Tortoises; Yellow-headed turtles
+175,2011,22-Feb-11,Reptiles,Tallinn Airport,"Tallinn, Estonia",,,"Tallinn, Estonia",,1,,Luggage,,,Naja Naja Cobras
+176,2011,25-Mar-11,Reptiles,Soekarno-Hatta Airport,"Jakarta, Indonesia","Jakarta, Indonesia",,"Dubai, UAE",,40,Emirates Airlines,Luggage,X-ray,,Pythons
+177,2011,1-May-11,Reptiles,,Italy,Indonesia,,Italy,,200,,Luggage,,,Reticulated Pythons
+178,2011,1-May-11,Reptiles,,United Kingdom,Turkey,,United Kingdom,,15,,Unknown,,,Spur-Thighed Tortoises
+179,2011,16-May-11,Reptiles,Ivato Airport,"Antananarivo, Madagascar","Antananarivo, Madagascar",,China,,557,,Luggage,X-ray,Pockets in wicker baskets; plastic bottles with leaves inside,Chameleons; Frogs; Lizards 
+180,2011,5/17/2011 to 5/26/2011,Reptiles,Charles de Gaulle Airport,"Paris, France",,,,460,,,Unknown,,,Snakes; Crocodiles
+181,2011,2-Jun-11,Reptiles,Shahjalal Airport,"Dhaka, Bangladesh",India,"Dhaka, Bangladesh",Malaysia,,480,,Luggage,,,Indian Star Tortoises
+182,2011,10-Jun-11,Reptiles,Suvarnabhumi Airport,"Bangkok, Thailand","Dhaka, Bangladesh",Japan,"Bangkok, Thailand",,431,,Luggage,,,Indian Star Tortoises; Burmese Star Tortoises
+183,2011,1-Jul-11,Reptiles,,,Indonesia,,Netherlands,,170,,Airfreight,,,Reticulated Pythons
+184,2011,12-Jul-11,Reptiles,Suvarnabhumi Airport,"Bangkok, Thailand",,,"Hong Kong, China",,19,SriLankan Airlines,Luggage,X-ray,,Tortoises; Frogs; Bearded Dragons
+185,2011,17-Jul-11,Reptiles,Suvarnabhumi Airport,"Bangkok, Thailand","Bangkok, Thailand",,Iran,,50,Mahan Air,Luggage,,Stuffed in socks,Snakes
+186,2011,25-Jul-11,Reptiles,Ivato Airport,"Antananarivo, Madagascar","Antananarivo, Madagascar",,"Nairobi, Kenya",,196,Kenya Airways,Luggage,X-ray,In cardboard packets in suitcases,Radiated Tortoises; Spur Tortoises
+187,2011,16-Aug-11,Reptiles,Kuala Lumpur Airport,"Kuala Lumpur, Malaysia","Dhaka, Bangladesh",,,,589,,Luggage,,,Indian Star Tortoises
+188,2011,25-Aug-11,Reptiles,Miami Airport,"Miami, USA","Miami, USA",,Brazil,,10,,Passenger - Clothing/Items,Wave Screener (not x-ray),,Snakes; Turtles
+189,2011,26-Aug-11,Reptiles,Kuala Lumpur Airport,"Kuala Lumpur, Malaysia","Penang, Malaysia","Kuala Lumpur, Malaysia","Jakarta, Indonesia",,98,,Luggage,,,Snakes; Turtles
+190,2011,29-Aug-11,Reptiles,Munich Airport,"Munich, Germany","Sydney, Australia",,"Munich, Germany",,36,,Luggage,Routine check,,Snakes
+191,2011,3-Sep-11,Reptiles,Amborovy Airport,"Mahajanga, Madagascar","Mahajanga, Madagascar",,"Bangkok, Thailand",,93,,Luggage,X-ray,Wrapped in baby diapers in small plastic baskets,Angonoky Spur Turtles
+192,2011,20-Oct-11,Reptiles,George Bush Intercontinental Airport,"Houston, USA",El Salvador,,"Houston, USA",,12,,Luggage,,,Sea Turtle Eggs
+193,2011,7-Nov-11,Reptiles,Soekarno-Hatta Airport,"Jakarta, Indonesia",India,"Bangkok, Thailand","Jakarta, Indonesia",,80,,Passenger - Clothing/Items,,,Indian Star Tortoises; snakes
+194,2011,1-Dec-11,Reptiles,,United Kingdom,Ghana,United Kingdom,Japan,,95,,Unknown,,,Graceful Chameleons
+195,2011,7-Dec-11,Reptiles,Ministro Pistarini Airport,"Buenos Aires, Argentina","Buenos Aires, Argentina",Spain,"Prague, Czech Republic",,247,Iberia Airlines,Luggage,X-ray,,Lizards; snakes
+196,2011,11-Dec-11,Reptiles,George Bush Intercontinental Airport,"Houston, USA",El Salvador,,"Houston, USA",,25,,Luggage,,,Sea Turtle Eggs
+197,2012,3-Jan-12,Reptiles,Puerto Princesa Airport,"Puerto Princesa, Philippines",,,"Puerto Princesa, Philippines",91,40,,Airfreight,,,Hawksbill; Green Turtles
+198,2012,4-Jan-12,Reptiles,Brussels Airport,"Brussels, Belgium","Entebbe, Uganda","Brussels, Belgium",Germany,,204,,Unknown,,,Chameleons
+199,2012,22-Jan-12,Reptiles,Jomo Kenyatta Airport,"Nairobi, Kenya","Antananarivo, Madagascar","Nairobi, Kenya","Hanoi, Vietnam",400g each,2,,Passenger - Clothing/Items,The Kenyan Customs officers noticed that the two individuals walked funny,Pants,Turtles
+200,2012,22-Jan-12,Reptiles,Malta Airport,"Luqa, Malta",,,,,15,,Unknown,,,Spur-Thighed Tortoises
+201,2012,25-Jan-12,Reptiles,Mopah Airport,"Merauke, Indonesia",,,"Jakarta, Indonesia",,1500,,Luggage,,,Pig-Nosed Turtles
+202,2012,8-Feb-12,Reptiles,Mopah Airport,"Merauke, Indonesia",,,,,690,,Luggage,,,Pig-Nosed Turtles
+203,2012,1-Apr-12,Reptiles,Dubai Airport,"Dubai, UAE",Australia,,"Dubai, UAE",,1,,Unknown,,,Saltwater Crocodiles
+204,2012,1-Apr-12,Reptiles,Dubai Airport,"Dubai, UAE",Syria,,"Dubai, UAE",,500,,Unknown,,,Spur-Thighed Tortoises
+205,2012,1-Apr-12,Reptiles,Dubai Airport,"Dubai, UAE",USA,,"Dubai, UAE",,1,,Unknown,,,Mississippi Alligator
+206,2012,17-Apr-12,Reptiles,Shahjalal Airport,"Dhaka, Bangladesh",India,"Dhaka, Bangladesh","Bangkok, Thailand",,415,,Luggage,intelligence,,Indian Star Tortoises; Three-Keeled Turtles; Indian Roofed Turtles
+207,2012,23-Apr-12,Reptiles,Brussels Airport,"Brussels, Netherlands",Burundi,"Brussels, Netherlands",Czech Republic,,284,,Airfreight,Cases were poorly sealed,Cases,Chameleons; Frogs; Snakes
+208,2012,1-May-12,Reptiles,Dubai Airport,"Dubai, UAE",Ivory Coast,,"Dubai, UAE",,1,,Unknown,,,Nile Crocodiles
+209,2012,1-May-12,Reptiles,Dubai Airport,"Dubai, UAE",Ivory Coast,,"Dubai, UAE",,4,,Unknown,,,Nile Crocodiles
+210,2012,1-May-12,Reptiles,Dubai Airport,"Dubai, UAE",Ivory Coast,,"Dubai, UAE",,2,,Unknown,,,Nile Crocodiles
+211,2012,1-May-12,Reptiles,Dubai Airport,"Dubai, UAE",Sudan,,"Dubai, UAE",,1,,Unknown,,,Nile Crocodiles
+212,2012,7-May-12,Reptiles,Bengaluru Airport,"Bangalore, India","Bangalore, India",,"Bangkok, Thailand",,483,Thai Airways,Luggage,,,Indian Star Tortoises
+213,2012,9-May-12,Reptiles,Munich Airport,"Munich, Germany",Oman,,,,49,,Luggage,,,Lizards
+214,2012,28-Jun-12,Reptiles,Tiruchirappalli Airport,"Chennai, India","Chennai, India","Colombo, Sri Lanka","Kuala Lumpur, Malaysia",,295,Sri Lankan Airlines,Luggage,Airline security,Six cloth bags of 50 tortoises each within a stroller bag,Indian Star Tortoises
+215,2012,1-Jul-12,Reptiles,Dubai Airport,"Dubai, UAE",Egypt,,"Dubai, UAE",,303,,Unknown,,,Chameleons
+216,2012,1-Jul-12,Reptiles,Dubai Airport,"Dubai, UAE",Morocco,,"Abu Dhabi, UAE",,1,,Unknown,,,Spur-Thighed Tortoise
+217,2012,1-Jul-12,Reptiles,Dubai Airport,"Dubai, UAE",Sudan,,"Abu Dhabi, UAE",,1,,Unknown,,,Nile Crocodiles
+218,2012,1-Jul-12,Reptiles,Dubai Airport,"Dubai, UAE",Sudan,,"Abu Dhabi, UAE",,2,,Unknown,,,Nile Crocodiles
+219,2012,8-Jul-12,Reptiles,Seymour Airport,"Galapagos, Ecuador",,,,,4,,Luggage,X-ray ; Detector Dog,,Galapagos Land Iguanas
+220,2012,11-Jul-12,Reptiles,Suvarnabhumi Airport,"Bangkok, Thailand",,,Kuwait ,,11,,Luggage,,,Pythons 
+221,2012,1-Aug-12,Reptiles,Dubai Airport,"Dubai, UAE",Russia,,"Dubai, UAE",,1,,Unknown,,,Nile Crocodiles
+222,2012,1-Aug-12,Reptiles,Dubai Airport,"Dubai, UAE",Senegal,,"Dubai, UAE",,15,,Unknown,,,Nile Crocodiles
+223,2012,7-Aug-12,Reptiles,Shahjalal Airport,"Dhaka, Bangladesh","Dhaka, Bangladesh",,"Bangkok, Thailand",,108,Bangkok Airways,Luggage,Tip off,Wrapped in scotch tape,Tricarinate Hill Turtles
+224,2012,19-Aug-12,Reptiles,Orlando Airport,"Orlando, USA","Orlando, USA",,Brazil,,27,,Luggage,,,Ball Pythons; Color Morph Corn Snakes; Boa Constrictors
+225,2012,27-Aug-12,Reptiles,Suvarnabhumi Airport,"Bangkok, Thailand","Kolkata, India",,"Bangkok, Thailand",,890,Thai Airways,Luggage,Tip off,Hidden in pillow cases and a suitcase,Indian Star Tortoises
+226,2012,29-Aug-12,Reptiles,Chhatrapati Shivaji Airport,"Mumbai, India","Bangkok, Thailand",,"Mumbai, India",,10,Thai Airways,Passenger - Clothing/Items,Airport security,Concealed in underwear,Indian Star Tortoises; tortoises
+227,2012,1-Oct-12,Reptiles,Dubai Airport,"Dubai, UAE",Sudan,,"Dubai, UAE",,1,,Unknown,,,Nile Crocodiles
+228,2012,9-Oct-12,Reptiles,Indira Gandhi Airport,"New Delhi, India","Bangkok, Thailand","New Delhi, India","Dubai, UAE",,12,,Passenger - Clothing/Items,suspect was a stowaway,Concealed in underwear,Turtles
+229,2012,10-Oct-12,Reptiles,Ivato Airport,"Antananarivo, Madagascar","Antananarivo, Madagascar","Bangkok, Thailand","Guangzhou, China",,569,Air Madagascar,Luggage,Tip-off,In bags in suitcases,Radiated Tortoises
+230,2012,22-Oct-12,Reptiles,Charles de Gaulle Airport,"Paris, France",,,"Paris, France",100s,,,Luggage,,,Crocodiles
+231,2012,30-Oct-12,Reptiles,Chhatrapati Shivaji Airport,"Mumbai, India","Chennai, India","Mumbai, India","Bangkok, Thailand",,57,Thai Airways,Luggage,"Security stopped them due to ""suspicious behavior""",Wrapped in clothes,Three-Keeled Pond Turtles; Indian Pond Tortoises
+232,2012,1-Nov-12,Reptiles,Dubai Airport,"Dubai, UAE",Sudan,,"Dubai, UAE",,1,,Unknown,,,Nile Crocodiles
+233,2012,1-Nov-12,Reptiles,Dubai Airport,"Dubai, UAE",Sudan,,"Dubai, UAE",,1,,Unknown,,,African Spurred Tortoise
+234,2012,1-Nov-12,Reptiles,Dubai Airport,"Dubai, UAE",Sudan,,"Dubai, UAE",,1,,Unknown,,,Spur-Thighed Tortoises
+235,2012,19-Nov-12,Reptiles,Val de Cans Airport,"Belem, Brazil",,,"Belem, Brazil",,10,TAM Airlines,Luggage,,Hidden under beef pieces,Turtles
+236,2012,5-Nov-12,Reptiles,Shahjalal Airport,"Dhaka, Bangladesh","Dhaka, Bangladesh",,,,73,,Luggage,Scanner,Four cloth sacks,Shila Turtles; Kali Turtles; Star Turtles
+237,2012,1-Dec-12,Reptiles,Dubai Airport,"Dubai, UAE",Sudan,,"Dubai, UAE",,1,,Unknown,,,Nile Crocodiles
+238,2012,1-Dec-12,Reptiles,Dubai Airport,"Dubai, UAE",Sudan,,"Dubai, UAE",,1,,Unknown,,,Nile Crocodiles
+239,2012,1-Dec-12,Reptiles,Dubai Airport,"Dubai, UAE",Sudan,,"Dubai, UAE",,1,,Unknown,,,African Rock Pythons
+240,2012,11-Dec-12,Reptiles,Entebbe Airport,"Entebbe, Uganda",,,,,199,,Unknown,,,Snakes; chameleons
+241,2013,7-Feb-13,Reptiles,Suvarnabhumi Airport,"Bangkok, Thailand","Bangkok, Thailand","Hong Kong, China",China,,2000,,Airfreight,,,Snakes
+242,2013,7-Feb-13,Reptiles,Suvarnabhumi Airport,"Bangkok, Thailand",,,,,163,BFS Cargo,Airfreight,,,Oriental Rattlesnakes; monocled cobras
+243,2013,10-Feb-13,Reptiles,Chennai Airport,"Chennai, India","Chennai, India",,"Bangkok, Thailand",,27,,Luggage,,,Fresh Water Tortoises
+244,2013,1-Mar-13,Reptiles,,Netherlands,Indonesia,,Netherlands,,379,,Unknown,,,Pythons; monitor lizards
+245,2013,1-Mar-13,Reptiles,Changi Airport,Singapore,,,Singapore,60,,,Luggage,,,Hawksbill Turtle Scutes
+246,2013,1-Mar-13,Reptiles,,Spain,Argentina,,Spain,,2900,,Unknown,,,Argentine Tegus
+247,2013,9-Mar-13,Reptiles,Chhatrapati Shivaji Airport,"Mumbai, India","Mumbai, India",,"Bangkok, Thailand",,97,Thai Airways,Luggage,Scanner,Wrapped in cloth and stuffed in a bag,Three-Keeled Turtles; Indian Spotted Turtles; Tortoises
+248,2013,15-Mar-13,Reptiles,Suvarnabhumi Airport,"Bangkok, Thailand",Madagascar,"Nairobi, Kenya","Bangkok, Thailand",,75,,Luggage,,,Ploughshare Tortoises; Radiated Tortoises
+249,2013,15-Mar-13,Reptiles,Suvarnabhumi Airport,"Bangkok, Thailand",,,"Bangkok, Thailand",,310,,Luggage,,,Indian Star Tortoises; Black Pond Turtles
+250,2013,15-Mar-13,Reptiles,Soekarno-Hatta Airport,"Jakarta, Indonesia","Papua, Indonesia","Jakarta, Indonesia",,,687,,Airfreight,,,Pig-Nosed Turtles
+251,2013,26-Mar-13,Reptiles,Chennai Airport,"Chennai, India",China,"Kuala Lumpur, Malaysia","Chennai, India",,9000,,Luggage,,,Red-Eared Slider Turtles
+252,2013,17-Apr-13,Reptiles,Chennai Airport,"Chennai, India","Bangkok, Thailand",,"Chennai, India",,6,,Luggage,,,Snakes
+253,2013,23-Apr-13,Reptiles,Islamabad Benazir Bhutto Airport,"Islamabad, Pakistan","Islamabad, Pakistan",,"Bangkok, Thailand",,320,,Luggage,,,Black Pond Turtles
+254,2013,27-Apr-13,Reptiles,Chhatrapati Shivaji Airport,"Mumbai, India","Mumbai, India",,"Hong Kong, China",,385,Cathay Pacific,Luggage,Scanner,,Tortoises
+255,2013,30-Apr-13,Reptiles,Netaji Subhas Chandra Bose Airport,"Kolkata, India","Kolkata, India",,"Chennai, India",,21,Spice Jet,Airfreight,Airport police approached the suspects as a result of their suspicious behavior,Inside white packets in a sack,Indian Star Tortoises
+256,2013,17-May-13,Reptiles,Ivato Airport,"Antananarivo, Madagascar","Antananarivo, Madagascar",,"Bangkok, Thailand",,79,,Luggage,Routine check,,Turtles; Frogs; Chameleons
+257,2013,23-May-13,Reptiles,Mexico City Airport,"Mexico City, Mexico","Mexico City, Mexico",,Japan,,103,,Luggage,,,Utila Spiny-Tailed Iguanas; Horned Lizards; Desert Tortoises; Spotted Box Turtles
+258,2013,18-Jul-13,Reptiles,Netaji Subhas Chandra Bose Airport,"Kolkata, India","Guangzhou, China",Singapore,"Kolkata, India",,10043,,Luggage,Passenger suspected the bags,,Red-Eared Slider Turtles
+259,2013,19-Aug-13,Reptiles,Brussels Airport,"Brussels, Belgium",Togo,,"Brussels, Belgium",,174,,Unknown,,,Reptiles
+260,2013,1-Aug-13,Reptiles,Manuel Crescencio Rejon Airport,"Merida, Mexico","Villahermosa, Mexico",,"Merida, Mexico",,28,,Unknown,,,Morelet'S Crocodiles
+261,2013,1-Sep-13,Reptiles,,Netherlands,Nicaragua,,Netherlands,,600,,Airfreight,,,Red-Eyed Leaf Frogs
+262,2013,1-Sep-13,Reptiles,Goteborg Landvetter Airport,"Gothenberg, Sweden",,,,,1,,Unknown,,,Nile Crocodiles
+263,2013,22-Sep-13,Reptiles,Suvarnabhumi Airport,"Bangkok, Thailand",,,"Bangkok, Thailand",,220,,Luggage,,,Black Pond Turtles
+264,2013,1-Oct-13,Reptiles,Hong Kong Airport,"Hong Kong, China",Thailand,,"Hong Kong, China",,335,,Luggage,,,Black Pond Turtles
+265,2013,3-Nov-13,Reptiles,Suvarnabhumi Airport,"Bangkok, Thailand",,Bangladesh,"Bangkok, Thailand",,80,,Luggage,,,Black Pond Turtles; Crowned River Turtles; Three-keeled Land Tortoises; Indian Eyed Turtles
+266,2013,5-Nov-13,Reptiles,Suvarnabhumi Airport,"Bangkok, Thailand","Dhaka, Bangladesh",,"Bangkok, Thailand",,475,,Luggage,,,Indian Star Tortoises; Black Pond Turtles
+267,2013,6-Nov-13,Reptiles,Shanghai Pudong Airport,"Shanghai, China","Hong Kong, China",,"Shanghai, China",,121,,Luggage,X-ray,,Ball Pythons
+268,2013,8-Nov-13,Reptiles,Suvarnabhumi Airport,"Bangkok, Thailand","Lahore, Pakistan",,"Bangkok, Thailand",,470,Thai Airways,Luggage,,,Indian Star Tortoises; Black Pond Turtles
+269,2013,1-Nov-13,Reptiles,,United Kingdom,Indonesia,,United Kingdom,,60,,Airfreight,Risk assessment targeting,,Pythons
+270,2013,1-Nov-13,Reptiles,Amsterdam Airport Schiphol,"Amsterdam, Netherlands",Guyana,"Canada, Turkey","Amsterdam, Netherlands",,318,,Luggage,,,Caimans
+271,2013,1-Dec-13,Reptiles,Amsterdam Airport Schiphol,"Amsterdam, Netherlands",Guyana,"Amsterdam, Netherlands",Ukraine,,203,,Luggage,,,Caimans; snakes
+272,2013,4-Dec-13,Reptiles,Arrachart Airport,"Antsiranana, Madagascar","Antsiranana, Madagascar",,,,89,,Luggage,,,Lizards; Chameleons
+273,2013,10-Dec-13,Reptiles,Suvarnabhumi Airport,"Bangkok, Thailand",Madagascar,,"Bangkok, Thailand",,62,Air Madagascar,Luggage,,,Radiated Tortoises
+274,2013,1-Dec-13,Reptiles,Xiamen Gaoqi Airport,"Xiamen, China",,,"Xiamen, China",,185,,Unknown,,,Box Turtles
+275,2014,1-Jan-14,Reptiles,Hong Kong Airport,"Hong Kong, China",Qatar,,"Hong Kong, China",,128,,Luggage,,,Turtles
+276,2014,1-Jan-14,Reptiles,,Belgium,Cameroon,Belgium,Austria,,500,,Airfreight,,,Reptiles; snakes
+277,2014,7-Jan-14,Reptiles,,"West Papua, Indonesia","West Papua, Indonesia",,,,5400,,Airfreight,,,Pig-Nosed Turtles
+278,2014,22-Jan-14,Reptiles,Ben Gurion Airport,"Tel Aviv, Israel",South America,"New York, USA","Tel Aviv, Israel",,18,,Luggage,suspect didn't declare 3 smartphones so Customs did a more thorough baggage inspection,Plastic Boxes,Frogs
+279,2014,31-Jan-14,Reptiles,Don Mueang Airport,"Bangkok, Thailand","Chennai, India",,"Bangkok, Thailand",,521,,Luggage,,,Indian Star Tortoises; Black Pond Turtles
+280,2014,3-Feb-14,Reptiles,Heathrow Airport,"London, United Kingdom",Bahamas,"London, United Kingdom","Dusseldorf, Germany",,13,,Luggage,,Wrapped in individual socks,San Salvador Rock Iguanas
+281,2014,5-Feb-14,Reptiles,Chhatrapati Shivaji Airport,"Mumbai, India","Mumbai, India",,"Bangkok, Thailand",,200,,Unknown,,,Turtles
+282,2014,11-Feb-14,Reptiles,Hong Kong Airport,"Hong Kong, China",Madagascar,"Bangkok, Thailand","Hong Kong, China",,233,,Luggage,,,Radiated Tortoises; Chameleons; ploughshare tortoises
+283,2014,12-Feb-14,Reptiles,Chennai Airport,"Chennai, India","Chennai, India",,"Bangkok, Thailand",,420,Air Asia,Luggage,X-ray (suitcase scan?),Packed inside sealed packages in luggage and covered by carbon/graphite papers,Indian Star Tortoises
+284,2014,1-Mar-14,Reptiles,Chennai Airport,"Chennai, India","Kuala Lumpur, Malaysia ",,"Chennai, India",,9000,,Airfreight,,,Turtle Hatchlings
+285,2014,4-Mar-14,Reptiles,Ivato Airport,"Antananarivo, Madagascar","Antananarivo, Madagascar","Johannesburg, South Africa; Abu Dhabi, UAE","Moscow, Russia",,50,,Luggage,,Wrapped in paper inside a brown bag containing Malagasy handcrafts,Turtles
+286,2014,11-Mar-14,Reptiles,Ivato Airport,"Antananarivo, Madagascar","Antananarivo, Madagascar",,Russia,,127,,Luggage,Luggage exceeded the 30kg weight limit,,Turtles
+287,2014,12-Mar-14,Reptiles,Don Mueang Airport,"Bangkok, Thailand",India,"Bangkok, Thailand","Hong Kong, China",,272,,Luggage,,,Indian Narrow-Headed Soft-Shelled Turtles; Black Pond Turtles
+288,2014,1-Apr-14,Reptiles,,United Kingdom,Ghana,,United Kingdom,,100,,Airfreight,,,African-Spurred Tortoises
+289,2014,11-Apr-11,Reptiles,Abu Dhabi Airport,"Abu Dhabi, UAE",,,"Abu Dhabi, UAE",,1,,Unknown,,,Spur-Thighed Tortoise
+290,2014,28-Apr-14,Reptiles,Trivandrum Airport,"Kerala, India","Kerala, India","Colombo, Sri Lanka","Bangkok, Thailand",,460,,Luggage,Customs officials detained passenger due to his suspicious behavior,,Indian Star Tortoises
+291,2014,1-May-14,Reptiles,Manuel Crescencio Rejon Airport,"Merida, Mexico",,,,,6,,Unknown,,,Morelets Crocodiles; Green iguanas
+292,2014,10-May-14,Reptiles,Ivato Airport,"Antananarivo, Madagascar","Antananarivo, Madagascar",,,,521,Kenya Airways,Luggage,,,Angonokas; Radiated Tortoises
+293,2014,14-May-14,Reptiles,Suvarnabhumi Airport,"Bangkok, Thailand","Kolkata, India",,"Bangkok, Thailand",,230,IndiGo Airlines,Luggage,,,Black Pond Turtles
+294,2014,16-May-14,Reptiles,Frankfurt Airport,"Frankfurt, Germany",Mexico,"Frankfurt, Germany","Barcelona, Spain",,90,,Luggage,X-ray,,Turtles; Arboreal Alligator; Lizards Horned Vipers; Five-Keeled Spiny-Tailed Iguana
+295,2014,31-May-14,Reptiles,Prince Said Ibrahim Airport,"Grande Comore, Comoros","Grande Comore, Comoros",Tanzania,,,1014,,Luggage,,,Radiated Tortoises
+296,2014,1-Jun-14,Reptiles,,Netherlands,Guyana,,Netherlands,,163,,Airfreight,,,Spectacled Caimans
+297,2014,1-Jun-14,Reptiles,Weeze Airport,"Weeze, Germany",,,"Weeze, Germany",,4,,Luggage,,,Greek Tortoises
+298,2014,1-Jun-14,Reptiles,Pulkovo Airport,"St. Petersburg, Russia",Germany,,"St. Petersburg, Russia",,180,,Luggage,,,Snakes; Lizards; Frogs; Turtles
+299,2014,1-Jun-14,Reptiles,Gran Canaria Airport,"Gran Canaria, Spain","Gran Canaria, Spain",,"Madrid, Spain",,,,Luggage,,,Pythons; Boa Constrictors; Leopard Geckos
+300,2014,6-Jun-14,Reptiles,Vaclav Havel Airport Prague,"Prague, Czech Republic",,,"Prague, Czech Republic",,49,,Luggage,,,Black-Breasted Leaf Turtles; eggs
+301,2014,1-Jul-14,Reptiles,Hamad Airport,"Doha, Qatar",,,"Doha, Qatar",,52,,Luggage,,,Reptiles; snakes
+302,2014,8-Jul-14,Reptiles,Soekarno-Hatta Airport,"Jakarta, Indonesia","Jakarta, Indonesia",,"Paris, France",,144,,Luggage,,,Pythons
+303,2014,14-Jul-14,Reptiles,Chennai Airport,"Chennai, India","Chennai, India",,"Bangkok, Thailand",,58,Air Asia,Luggage,Scanner,,Spotted Pond Turtles
+304,2014,23-Jul-14,Reptiles,San Luis Potosi Airport,"San Luis Potosi, Mexico","Mexico City, Mexico","San Luis Potosi, Mexico","Guanajuato, Mexico; Guadalajara, Mexico; Mexicali, Mexico",,8,,Airfreight,,,Boa Constrictors; Geckos; Lizards; Royal Pythons
+305,2014,1-Aug-14,Reptiles,Guadalajara Airport,"Guadalajara, Mexico","Guadalajara, Mexico",,China,,1,,Airfreight,,,Box Turtles
+306,2014,1-Aug-14,Reptiles,Chennai Airport,"Chennai, India","Chennai, India",,"Bangkok, Thailand",,88,,Luggage,CISF personnel noticed something moving in a bag and stopped its owner,Under clothing in a bag,Black Pond Turtles
+307,2014,10-Aug-14,Reptiles,Chennai Airport,"Chennai, India","Chennai, India",,"Bangkok, Thailand",,60,Air Asia,Luggage,,,Indian Star Tortoises
+308,2014,11-Aug-14,Reptiles,Frankfurt Airport,"Frankfurt, Germany",Lebanon,,"Frankfurt, Germany",,1,,Passenger - Clothing/Items,,,Turtles
+309,2014,25-Aug-14,Reptiles,Munich Airport,"Munich, Germany",China,,"Munich, Germany",,2,,Luggage,,,Red-Eared Slider Turtles
+310,2014,26-Aug-14,Reptiles,Hong Kong Airport,"Hong Kong, China",,,"Hong Kong, China",,624,,Luggage,,,Black Pond Turtles; Indian Roof Turtles
+311,2014,26-Aug-14,Reptiles,Guadalajara Airport,"Guadalajara, Mexico","Guadalajara, Mexico",,"Hong Kong, China",,1,,Unknown,,"Inside a diaper, wrapped with tape, and inside a videogame console",Carolina Terrapins
+312,2014,9-Sep-14,Reptiles,Juan Santamaria Airport,"San Jose, Costa Rica","San Jose, Costa Rica",Panama,"Dusseldorf, Germany",,438,,Luggage,,,Frogs; Snakes; Lizards; Tadpoles
+313,2014,11-Sep-14,Reptiles,Suvarnabhumi Airport,"Bangkok, Thailand",,,,,100,,Unknown,,,Black Pond Turtles
+314,2014,20-Sep-14,Reptiles,Jinnah Airport,"Karachi, Pakistan","Lahore, Pakistan","Karachi, Pakistan","Bangkok, Thailand",,218,,Luggage,,"In cloth bags, cushioned with ""wet foam"", inside two suitcases",Black Pond Turtles
+315,2014,24-Sep-14,Reptiles,Detroit Airport,"Detroit, USA","Detroit, USA",,China,,1007,,Luggage,,,Diamondback Terrapins; Albino Florida Turtles; Chinese Red-Necked Turtles; Blandings Turtles; Wood Turtles
+316,2014,24-Sep-14,Reptiles,Juan Santamaria Airport,"San Jose, Costa Rica","San Jose, Costa Rica",Panama,Germany,,496,,Luggage,,,Reptiles; Amphibians; Tadpoles; Boa Constrictor; Glass Frogs
+317,2014,27-Sep-14,Reptiles,Guangzhou Baiyun Airport,"Guangzhou, China",Madagascar,"Bangkok, Thailand","Guangzhou, China",,195,,Luggage,,,Radiated Tortoises
+318,2014,5-Nov-14,Reptiles,Suvarnabhumi Airport,"Bangkok, Thailand","Dhaka, Bangladesh",,"Bangkok, Thailand",,669,,Luggage,,,Black Pond Turtles
+319,2014,14-Dec-14,Reptiles,Charles de Gaulle Airport,"Paris, France",Madagascar,"Paris, France",Laos,,170,,Airfreight,,False bottom of crates filled with sea cucumbers,Radiated Tortoises
+320,2014,15-Dec-14,Reptiles,Shahjalal Airport,"Dhaka, Bangladesh","Dhaka, Bangladesh",,Malaysia,,510,,Luggage,Tip-off,,Indian Narrow-Headed Soft-Shelled Turtles
+321,2014,19-Dec-14,Reptiles,Shanghai Pudong Airport,"Shanghai, China",,,"Shanghai, China",,3,,Luggage,,,Common Water Monitors
+322,2015,1-Jan-15,Reptiles,Soekarno-Hatta Airport,"Jakarta, Indonesia",,,"Jakarta, Indonesia",,5284,,Airfreight,,,Pig-Nosed Turtles
+323,2015,1-Jan-15,Reptiles,Ngurah Rai Airport,"Denpasar, Indonesia","Timika, Indonesia",,"Denpasar, Indonesia",,2350,,Unknown,,,Pig-Nosed Turtles
+324,2015,7-Jan-15,Reptiles,Changi Airport,Singapore,"Dhaka, Bangladesh",Singapore,"Surabaya, Indonesia",,190,,Luggage,,,Black Pond Turtles
+325,2015,8-Jan-15,Reptiles,Julius Nyerere Airport,"Dar es Salaam, Tanzania","Dar es Salaam, Tanzania",,,,149,,Luggage,,,Monitor Lizards
+326,2015,17-Jan-15,Reptiles,Soekarno-Hatta Airport,"Jakarta, Indonesia","Jakarta, Indonesia",Singapore,"Shanghai, China",,2350,Singapore Airlines,Airfreight,,,Pig-Nosed Turtles
+327,2015,22-Jan-15,Reptiles,Ngurah Rai Airport,"Denpasar, Indonesia","Timika, Indonesia","Denpasar, Indonesia",,,5284,,Luggage,,,Pig-Nosed Turtles
+328,2015,1-Feb-15,Reptiles,Heathrow Airport,"London, United Kingdom",,,"London, United Kingdom",,165,,Unknown,,,Turqouise Dwarf Geckos
+329,2015,6-Feb-15,Reptiles,Perth Airport,"Perth, Australia","Perth, Australia",,,,157,,Luggage,,,Reptiles
+330,2015,11-Feb-15,Reptiles,Brussels Airport,"Brussels, Belgium",,,,,18,,Unknown,,,Geckos
+331,2015,20-Feb-15,Reptiles,Suvarnabhumi Airport,"Bangkok, Thailand","Bangkok, Thailand",,Japan,,144,,Luggage,,,Pig-Nosed Turtles; snakes; geckos
+332,2015,1-Mar-15,Reptiles,Kuwait Airport,"Kuwait City, Kuwait",,,,,,,Luggage,,,Snakes ; beetles; lizards; frogs
+333,2015,24-Mar-15,Reptiles,Tiruchirappalli Airport,"Tiruchirappalli, India","Tiruchirappalli, India","Kuala Lumpur, Malaysia","Bangkok, Thailand",,492,Malindo Air,Luggage,Scanner,Concealed in Various pieces of cloth and kept in five stroller bags,Black Pond Turtles
+334,2015,24-Mar-15,Reptiles,Shahjalal Airport,"Dhaka, Bangladesh",,,India,,113,,Unknown,Tip-off,Four bags,Black Pond Turtles
+335,2015,25-Mar-15,Reptiles,Heathrow Airport,"London, United Kingdom",Tanzania,,"London, United Kingdom",,671,,Airfreight,,,Turquoise Dwarf Geckos; Bearded Pygmy Chameleons; Peacock Tree Frogs; Whip Scorpions; Yellow Headed Geckos
+336,2015,1-Apr-15,Reptiles,Chubu Centrair Airport,"Nagoya, Japan","Nagoya, Japan",,,,500,,Luggage,,,Asian Brown Pond Turtles; Japanese Pond Turtles
+337,2015,1-Apr-15,Reptiles,Yantai Penglai Airport,"Yantai, China",,,,,86,,Unknown,,,Crocodiles
+338,2015,1-Apr-15,Reptiles,Dusseldorf Airport,"Dusseldorf, Germany",Mauritius,"St. Petersburg, Russia","Dusseldorf, Germany",,1,,Luggage,,,Nile Crocodiles
+339,2015,1-Apr-15,Reptiles,Domodedovo Airport,"Moscow, Russia","Jakarta, Indonesia",Qatar,"Moscow, Russia",,108,,Luggage,,,Reptiles
+340,2015,4-Apr-15,Reptiles,Ivato Airport,"Antananarivo, Madagascar","Antananarivo, Madagascar",,Taiwan,,11,,Luggage,,,Radiated Tortoises; spider tortoises
+341,2015,10-Apr-15,Reptiles,Chhatrapati Shivaji Airport,"Mumbai, India","Mumbai, India",,"Kuala Lumpur, Malaysia",,183,,Luggage,,,Black Pond Turtles
+342,2015,21-Apr-15,Reptiles,Allama Iqbal Airport,"Lahore, Pakistan","Lahore, Pakistan",,"Bangkok, Thailand",,504,,Luggage,,,Black Pond Turtles
+343,2015,24-Apr-15,Reptiles,Cochin Airport,"Kerala, India","Kerala, India",,"Kuala Lumpur, Malaysia",,29,,Luggage,,,Black Pond Turtles
+344,2015,26-Apr-15,Reptiles,Chhatrapati Shivaji Airport,"Mumbai, India","Mumbai, India",,"Kuala Lumpur, Malaysia",,161,,Luggage,,Cardboard boxes,Black Pond Turtles
+345,2015,25-Apr-15,Reptiles,,,,,Bangladesh,,21,,Unknown,,,Indian Star Tortoises
+346,2015,25-May-15,Reptiles,Chubu Centrair Airport,"Nagoya, Japan","Nagoya, Japan",,,,400,,Luggage,,,Asian Brown Pond Turtles; Japanese Pond Turtles
+347,2015,29-May-15,Reptiles,Shahjalal Airport,"Dhaka, Bangladesh",,,"Kuala Lumpur, Malaysia",,130,Malaysia Airlines,Luggage,Tip-off,Wrapped in cloth and plastic in a suitcase(s),Black Pond Turtles
+348,2015,1-Jun-15,Reptiles,Ivato Airport,"Antananarivo, Madagascar","Antananarivo, Madagascar","Nairobi, Kenya; Khartoum, Sudan",China,,453,Kenya Airways,Luggage,,,Radiated Tortoises
+349,2015,1-Jun-15,Reptiles,Cochin Airport,"Kerala, India","Kerala, India",,,,,,Unknown,,,Russell's Vipers; Chochin Forest Cane Turtles; Chameleons
+350,2015,20-Jun-15,Reptiles,Ivato Airport,"Antananarivo, Madagascar","Antananarivo, Madagascar","Nairobi, Kenya","Khartoum, Sudan",,403,,Luggage,,Wrapped in cloth bags placed in 8 suitcases,Turtles
+351,2015,28-Jun-15,Reptiles,Bengaluru Airport,"Bangalore, India","Bangalore, India","Kuala Lumpur, Malaysia","Phuket, Thailand",,72,Malaysia Airlines,Luggage,Scanner,Covered in cardboard and pillow covers in two suitcases,Black Pond Turtles
+352,2015,28-Jun-15,Reptiles,Chennai Airport,"Chennai, India","Chennai, India",,"Kuala Lumpur, Malaysia",,54,Malaysia Airlines,Luggage,Scanner,,Black Pond Turtles
+353,2015,1-Jul-15,Reptiles,Francisco Bangoy Airport,"Davao, Philippines","Davao, Philippines",,"Caloocan, Philippines",,2,,Airfreight,,,Mangrove Monitor Lizards
+354,2015,2-Jul-15,Reptiles,Chennai Airport,"Chennai, India","Chennai, India",,"Kuala Lumpur, Malaysia",,64,Malaysia Airlines,Luggage,,,Indian Star Tortoises
+355,2015,3-Jul-15,Reptiles,Bandaranaike Airport,"Colombo, Sri Lanka","Colombo, Sri Lanka",,Malaysia,,125,,Unknown,,,Sea Turtles
+356,2015,5-Jul-15,Reptiles,Shahjalal Airport,"Dhaka, Bangladesh","Dhaka, Bangladesh",,,,400,,Airfreight,,,Black Pond Turtles
+357,2015,8-Jul-15,Reptiles,Chennai Airport,"Chennai, India","Chennai, India",,"Kuala Lumpur, Malaysia",,41,Malaysia Airlines,Luggage,Scanner,,Indian Star Tortoises
+358,2015,9-Jul-15,Reptiles,Changi Airport,Singapore,Bangladesh,Singapore,"Surabaya, Indonesia",,206,,Luggage,,,Black Pond Turtles
+359,2015,9-Jul-15,Reptiles,Chennai Airport,"Chennai, India",,,"Kuala Lumpur, Malaysia",,100,,Luggage,Scanner,,Indian Star Tortoises
+360,2015,12-Jul-15,Reptiles,Shahjalal Airport,"Dhaka, Bangladesh","Dhaka, Bangladesh",,Vietnam,,557,,Luggage,,,Black Pond Turtles
+361,2015,25-Jul-15,Reptiles,Chennai Airport,"Chennai, India","Chennai, India",,Malaysia,,50,,Luggage,,,Indian Star Tortoises
+362,2015,1-Aug-15,Reptiles,Chennai Airport,"Chennai, India","Chennai, India",,"Kuala Lumpur, Malaysia",,138,,Unknown,,,Black Pond Turtles
+363,2015,1-Aug-15,Reptiles,Cochin Airport,"Kerala, India","Kerala, India",,Malaysia,,199,,Unknown,,,Indian Star Tortoises
+364,2015,1-Aug-15,Reptiles,Bengaluru Airport,"Bangalore, India","Bangalore, India",,Malaysia,,79,Malaysian Airlines,Unknown,,,Indian Star Tortoises; Black Pond Turtles
+365,2015,4-Aug-15,Reptiles,Guangzhou Baiyun Airport,"Guangzhou, China",Madagascar,,"Guangzhou, China",,298,,Luggage,,,Radiated Tortoises
+366,2015,9-Aug-15,Reptiles,Bengaluru Airport,"Bangalore, India","Bangalore, India",India,Malaysia,,79,Malaysian Airlines,Luggage,,,Indian Star Tortoises; spotted black terrapins
+367,2015,10-Aug-15,Reptiles,Cochin Airport,"Kerala, India","Kerala, India",,,,199,,Unknown,,,Indian Star Tortoises
+368,2015,14-Aug-15,Reptiles,Xiamen Gaoqi Airport,"Xiamen, China","Xiamen, China",,,,182,,Luggage,X-ray,,Reticulated Python Gall Bladders
+369,2015,25-Aug-15,Reptiles,Qingdao Liuting Airport,"Qingdao, China",,,"Qingdao, China",,1,,Unknown,,,Stuffed Crocodile
+370,2015,1-Sep-15,Reptiles,Chennai Airport,"Chennai, India",,,,,276,,Unknown,,,Indian Star Tortoises
+371,2015,8-Sep-15,Reptiles,Allama Iqbal Airport,"Lahore, Pakistan","Lahore, Pakistan",,"Thailand, Bangkok",,120,,Unknown,,Hidden in baby diapers,Black Spotted Turtles
+372,2015,28-Sep-15,Reptiles,Ivato Airport,"Antananarivo, Madagascar","Antananarivo, Madagascar",Mauritius,"Kuala Lumpur, Malaysia",,771,,Airfreight,,Hidden in socks/stockings in diapers in two wood crates,Ploughshare Tortoises; Radiated Tortoises
+373,2015,29-Sep-15,Reptiles,Madurai Airport,"Madurai, India","Madurai, India",Sri Lanka,Malaysia,,247,,Luggage,,,Indian Star Tortoises
+374,2015,8-Oct-15,Reptiles,Hong Kong Airport,"Hong Kong, China","New Delhi, India",,"Hong Kong, China",,23,,Unknown,,,Black Pond Turtles
+375,2015,8-Oct-15,Reptiles,Chennai Airport,"Chennai, India","Chennai, India","Kuala Lumpur, Malaysia","Jakarta, Indonesia",,200,,Luggage,,,Indian Star Tortoises
+376,2015,8-Oct-15,Reptiles,Chennai Airport,"Chennai, India","Chennai, India",,"Kuala Lumpur, Malaysia",,119,Malaysian Airlines,Passenger - Clothing/Items,,,Indian Star Tortoises
+377,2015,11-Oct-15,Reptiles,Soekarno-Hatta Airport,"Jakarta, Indonesia",,,,,8,,Unknown,,,Earless Monitor Lizards
+378,2015,15-Oct-15,Reptiles,Tijuana Airport,"Tijuana, Mexico","Guadalajara, Mexico",,"Tijuana, Mexico",,53,,Airfreight,,,Green Iguanas
+379,2015,23-Oct-15,Reptiles,Ivato Airport,"Antananarivo, Madagascar","Antananarivo, Madagascar",,"Guangzhou, China",,419,,Luggage,,socks; sanitary napkins,Radiated Tortoises
+380,2015,16-Nov-15,Reptiles,Julius Nyerere Airport,"Dar es Salaam, Tanzania","Dar es Salaam, Tanzania","Dubai, UAE",Malaysia,,201,,Luggage,,,Radiated Tortoises
+381,2015,19-Nov-15,Reptiles,Shanghai Pudong Airport,"Shanghai, China",Indonesia,,"Shanghai, China",,2535,,Airfreight,,,Black Pond Turtles; South Asian Box Turtles; pig-nosed Turtles; Asian Leaf Turtles; Red-Bellied Short-Necked Turtle
+382,2015,25-Dec-15,Reptiles,Ivato Airport,"Antananarivo, Madagascar","Antananarivo, Madagascar",,"Bangkok, Thailand",,547,,Luggage,,,Radiated Tortoises
+383,2016,1-Feb-16,Reptiles,Allama Iqbal Airport,"Lahore, Pakistan",,,,,144,,Airfreight,,,Black Spotted Turtles
+384,2016,19-Jan-16,Reptiles,Suvarnabhumi Airport,"Bangkok, Thailand","Guangzhou, China","Bangkok, Thailand","Chennai, India",,2800,,Luggage,,,Red-Eared Slider Turtles
+385,2016,28-Jan-16,Reptiles,O.R. Tambo Airport,"Johannesburg, South Africa","Johannesburg, South Africa",Vietnam,China,,230,,Unknown,Lack of paperwork,Plastic Boxes,African Bullfrogs; rain frogs
+386,2016,29-Jan-16,Reptiles,Ninoy Aquino Airport,"Manila, Philippines","Manila, Philippines",,Japan,,30,,Airfreight,intelligence,Labeled as aquatic plants,Monitor Lizards; sailfin lizards; rat snakes; water snakes
+387,2016,31-Jan-16,Reptiles,Shanghai Pudong Airport,"Shanghai, China",Indonesia,,,,2000,,Airfreight,,In a box that was supposed to contain crab from Indonesia,Turtles
+388,2016,3-Feb-16,Reptiles,Soekarno-Hatta Airport,"Jakarta, Indonesia","Jakarta, Indonesia",,"Hong Kong, China",,15,Cathay Pacific,Luggage,,,Green Tree Pythons; Argentine Red Tegus; Indian Star Tortoises
+389,2016,6-Feb-16,Reptiles,Allama Iqbal Airport,"Lahore, Pakistan","Lahore, Pakistan",,"Colombo, Sri Lanka",,22,,Luggage,,,Tortoises
+390,2016,12-Feb-16,Reptiles,Shahjalal Airport,"Dhaka, Bangladesh",,,,,30,Malaysian Airlines,Luggage,Movement deteted in luggage,,Black Pond Turtles
+391,2016,15-Feb-16,Reptiles,Mozes Kilangin Airport,"Timika, Indonesia","Timika, Indonesia","Jayapura, Indonesia","Jakarta, Indonesia",,3230,Sriwijaya Air,Luggage,X-ray,Boxes in Luggage,Pig-Nosed Turtles
+392,2016,21-Feb-16,Reptiles,Soekarno-Hatta Airport,"Jakarta, Indonesia","Jakarta, Indonesia",,"Hong Kong, China",,4620,,Airfreight,,,Pig-Nosed Turtles; snake neck turtles
+393,2016,23-Feb-16,Reptiles,Bologna Guglielmo Marconi Airport,"Bologna, Italy",Guinea,Morocco,"Bologna, Italy",,21,,Luggage,,,Crocodiles; pythons
+394,2016,25-Feb-16,Reptiles,Alfredo Vasquez Cobo Airport,"Leticia, Colombia","Leticia, Colombia",,USA,,551,,Airfreight,,,Mata Mata Turtles
+395,2016,8-Mar-16,Reptiles,Ivato Airport,"Antananarivo, Madagascar","Antananarivo, Madagascar",Turkey,Russia,,140,Turkish Airlines,Luggage,,,Chameleons; Geckos
+396,2016,9-Mar-16,Reptiles,Soekarno-Hatta Airport,"Jakarta, Indonesia","Jakarta, Indonesia",,"Kuala Lumpur, Malaysia",,3,Cathay Pacific,Luggage,,,Green Tree Pythons
+397,2016,11-Mar-16,Reptiles,Faisalabad Airport,"Faisalabad, Pakistan","Faisalabad, Pakistan","Doha, Qatar",Malaysia,,45,,Luggage,,,Black Spotted Turtles
+398,2016,18-Mar-16,Reptiles,Lyon – Saint-Exupery Airport,"Lyon, France",Ivory Coast,Tunisia,"Lyon, France",,2,,Luggage,,,Pythons; Crocodiles
+399,2016,20-Mar-16,Reptiles,Chhatrapati Shivaji Airport,"Mumbai, India",Madagascar,"Mumbai, India","Kathmandu, Nepal",,146,,Luggage,,,Radiated Tortoises; ploughshare tortoises
+400,2016,1-Apr-16,Reptiles,Cairo Airport,"Cairo, Egypt","Cairo, Egypt",,,,60,,Airfreight,X-ray,,Cobras
+401,2016,27-Apr-16,Reptiles,Quetzalcoatl Airport,"Nuevo Laredo, Mexico","Mexico City, Mexico",,"Nuevo Laredo, Mexico",,32,,Airfreight,,,Abronia Arboreal Alligator Lizards; milk snakes
+402,2016,9-May-16,Reptiles,Sir Seewoosagur Ramgoolam Airport,"Port Louis, Mauritius",Madagascar,"Port Louis, Mauritius",Singapore,,130,Air Mauritius,Luggage,,,Pyxis Tortoises; Ploughshare Tortoises; Radiated Tortoises
+403,2016,4-Jul-16,Reptiles,Ivato Airport,"Antananarivo, Madagascar","Antananarivo, Madagascar",Singapore,"Shanghai, China",,119,Air Mauritius,Luggage,X-ray,,Angonoka Turtles; Radiated Tortoises; Turtles
+404,2016,18-Jul-16,Reptiles,Ivato Airport,"Antananarivo, Madagascar","Antananarivo, Madagascar","Nairobi, Kenya","Bangkok, Thailand; Hong Kong, China",,260,Kenya Airways,Luggage,x-ray,,Turtles
+405,2016,29-Aug-16,Reptiles,Chennai Airport,"Chennai, India",China,"Kuala Lumpur, Malaysia","Chennai, India",,4000,,Luggage,,,Turtles
+406,2009,30-Jun-09,Rhino Horn,Manchester Airport,"Manchester, United Kingdom","Manchester, United Kingdom","Amsterdam, Netherlands",China,9,2,,Luggage,,Hidden in the base of a sculpture,
+407,2009,14-Jul-09,Rhino Horn,Jomo Kenyatta Airport,"Nairobi, Kenya",Mozambique,"Nairobi, Kenya",Laos,18,,,Unknown,,,
+408,2009,14-Jul-09,Rhino Horn,Jomo Kenyatta Airport,"Nairobi, Kenya",Mozambique,"Nairobi, Kenya; Thailand",Laos,,2,,Unknown,,Coffins,
+409,2009,1-Nov-09,Rhino Horn,O.R. Tambo Airport,"Johannesburg, South Africa",,,,8.34,3,,Unknown,,,
+410,2009,18-Nov-09,Rhino Horn,Guangzhou Baiyun Airport,"Guangzhou, China",,,,,,,Luggage,,,
+411,2009,19-Dec-09,Rhino Horn,Taiwan Taoyuan Airport,"Taipei, Taiwan",,Myanmar,"Taipei, Taiwan",,1,,Luggage,,,
+412,2010,13-Jan-10,Rhino Horn,Shannon Airport,"Shannon, Ireland","Faro, Portugal",,Ireland,24.6,8,,Luggage,Customs stopped them,,
+413,2010,9-Jan-10,Rhino Horn,Beijing Capital Airport,"Beijing, China","Paris, France",,"Beijing, China",0.35,,,Luggage,,,
+414,2010,27-Jan-10,Rhino Horn,Beijing Capital Airport,"Beijing, China",Nigeria,,"Beijing, China",0.16,,,Unknown,,,
+415,2010,28-Apr-10,Rhino Horn,Beijing Capital Airport,"Beijing, China","Dubai, UAE",,"Beijing, China",0.55,,,Unknown,,,
+416,2010,17-May-10,Rhino Horn,Brussels Airport,"Brussels, Belgium",,,,27.8,10,,Unknown,,,
+417,2010,20-May-10,Rhino Horn,Beijing Capital Airport,"Beijing, China","Addis Ababa, Ethiopia",,"Beijing, China",0.86,,,Unknown,,,
+418,2010,1-Jun-10,Rhino Horn,O.R. Tambo Airport,"Johannesburg, South Africa",,,,,12,,Unknown,,,
+419,2010,1-Jun-10,Rhino Horn,O.R. Tambo Airport,"Johannesburg, South Africa",,,,,6,,Unknown,,,
+420,2010,1-Jun-10,Rhino Horn,O.R. Tambo Airport,"Johannesburg, South Africa",,,,5.56,2,,Unknown,,,
+421,2010,9-Jun-10,Rhino Horn,O.R. Tambo Airport,"Johannesburg, South Africa",,,,19.46,7,,Luggage,,,
+422,2010,11-Jun-10,Rhino Horn,O.R. Tambo Airport,"Johannesburg, South Africa",,,,50.04,18,,Luggage,,,
+423,2010,30-Jun-10,Rhino Horn,O.R. Tambo Airport,"Johannesburg, South Africa","Johannesburg, South Africa",,Vietnam,16,7,,Unknown,,,
+424,2010,22-Aug-10,Rhino Horn,Jomo Kenyatta Airport,"Nairobi, Kenya","Nairobi, Kenya","Dubai, UAE",Malaysia,,5,,Air Freight,Canines,Wrapped In Black Polythene Papers And Banana Leaves And Avocados In Wooden Boxes,
+425,2010,24-Aug-10,Rhino Horn,Jomo Kenyatta Airport,"Nairobi, Kenya",,,,,5,,Air Freight,,,
+426,2011,23-Feb-11,Rhino Horn,Suvarnabhumi Airport,"Bangkok, Thailand","Lagos, Nigeria","Doha, Qatar; Kuala Lumpur, Malaysia","Bangkok, Thailand",2.7,3,,Air Freight,,"""craft Work""",
+427,2011,10-Dec-11,Rhino Horn,O.R. Tambo Airport,"Johannesburg, South Africa","Johannesburg, South Africa",,,,2,,Luggage,,,
+428,2012,1-Mar-12,Rhino Horn,Vaclav Havel Airport Prague,"Prague, Czech Republic",,,,,10,,Unknown,,,
+429,2012,1-May-12,Rhino Horn,Maputo Airport,"Maputo, Mozambique","Maputo, Mozambique",,,,7,,Luggage,,,
+430,2012,17-Jun-12,Rhino Horn,Beijing Capital Airport,"Beijing, China",,"Doha, Qatar","Beijing, China",0.31,,,Unknown,,,
+431,2012,16-Sep-12,Rhino Horn,Brussels Airport,"Brussels, Belgium",,"Brussels, Belgium","Urumqi,China",0.55,1,,Air Freight,Outgoing mail control,,
+432,2013,1-Jan-13,Rhino Horn,Shanghai Pudong Airport,"Shanghai, China","Paris, France",,"Shanghai, China",12.98,11,,Luggage,,,
+433,2013,6-Jan-13,Rhino Horn,Tan Son Nhat Airport,"Ho Chi Minh City, Vietnam","Maputo, Mozambique","Doha, Qatar","Ho Chi Minh City, Vietnam",16.5,6,,Unknown,,,
+434,2013,6-Jan-13,Rhino Horn,Suvarnabhumi Airport,"Bangkok, Thailand",Mozambique,"Bangkok, Thailand","Hanoi, Vietnam",10.6,,Ethiopian,Unknown,,,
+435,2013,8-Jan-13,Rhino Horn,Tan Son Nhat Airport,"Ho Chi Minh City, Vietnam",Mozambique,"Doha, Qatar; Bangkok, Thailand","Ho Chi Minh City, Vietnam",16.26,9,Qatar Airways,Unknown,,Wrapped In Tin Foil And Stuffed In Suitcase,
+436,2013,23-Jan-13,Rhino Horn,Shanghai Pudong Airport,"Shanghai, China",,"Paris, France","Shanghai, China",8.1,7,,Luggage,"Customs officials noticed him carrying three heavy bags through the ""green channel"" in customs",,
+437,2013,11-Feb-13,Rhino Horn,Lilongwe Airport,"Lilongwe, Malawi",,,,,7,,Unknown,,,
+438,2013,24-Feb-13,Rhino Horn,Maputo Airport,"Maputo, Mozambique","Maputo, Mozambique",,,17,6,,Luggage,,Wrapped in tin foil and clothing and placed in a suitcase surrounded by garlic,
+439,2013,20-Mar-13,Rhino Horn,Shanghai Pudong Airport,"Shanghai, China","Paris, France",,"Shanghai, China",12.98,,,Unknown,,,
+440,2013,1-Apr-13,Rhino Horn,Maputo Airport,"Maputo, Mozambique","Maputo, Mozambique",,Cambodia,16,,,Unknown,,,
+441,2013,19-Apr-13,Rhino Horn,Shanghai Pudong Airport,"Shanghai, China",,"Dubai, UAE","Shanghai, China",,11,,Unknown,,,
+442,2013,4-May-13,Rhino Horn,Tan Son Nhat Airport,"Ho Chi Minh City, Vietnam",,"Doha, Qatar","Ho Chi Minh City, Vietnam",7.28,,,Unknown,,Packed In Silver Wrapping And Hidden In Suitcase,
+443,2013,6-May-13,Rhino Horn,Noi Bai Airport,"Hanoi, Vietnam",,,,,19,,Unknown,,,
+444,2013,13-May-13,Rhino Horn,Lilongwe Airport,"Lilongwe, Malawi",,"Lilongwe, Malawi",China,,1,,Unknown,,Personal Effects,
+445,2013,15-May-13,Rhino Horn,Beijing Capital Airport,"Beijing, China",,,,4.45,6,,Unknown,,,
+446,2013,20-May-13,Rhino Horn,Tan Son Nhat Airport,"Ho Chi Minh City, Vietnam",,,,5,6,Vietnamese Airlines,Unknown,,,
+447,2013,30-May-13,Rhino Horn,Noi Bai Airport,"Hanoi, Vietnam",,,,,3,,Unknown,,coat,
+448,2013,24-Jun-13,Rhino Horn,Suvarnabhumi Airport,"Bangkok, Thailand",,,,9.6,8,,Unknown,,,
+449,2013,15-Jul-13,Rhino Horn,Beijing Capital Airport,"Beijing, China","Cairo, Egypt",,"Beijing, China",4.45,6,,Luggage,,,
+450,2013,17-Sep-13,Rhino Horn,Jomo Kenyatta Airport,"Nairobi, Kenya","Maputo, Mozambique","Nairobi, Kenya; Doha, Qatar","Hong Kong, China",,5,,Unknown,,,
+451,2013,1-Dec-13,Rhino Horn,Maputo Airport,"Maputo, Mozambique","Maputo, Mozambique",,Vietnam,,7,,Luggage,,,
+452,2013,1-Dec-13,Rhino Horn,Entebbe Airport,"Entebbe, Uganda",,,,,15,,Unknown,,,
+453,2013,20-Dec-13,Rhino Horn,Entebbe Airport,"Entebbe, Uganda","Entebbe, Uganda","Lagos, Nigeria",Malaysia,,15,,Unknown,,,
+454,2014,10-Jan-14,Rhino Horn,Changi Airport,"Singapore, Singapore","Maputo, Mozambique","Uganda; Dubai, UAE; Singapore, Singapore; Laos",Vietnam,21.5,8,,Luggage,,,
+455,2014,19-Jan-14,Rhino Horn,Suvarnabhumi Airport,"Bangkok, Thailand",,"Nairobi, Kenya; Bangkok, Thailand","Hanoi, Vietnam",21.8,9,,Unknown,,,
+456,2014,1-Feb-14,Rhino Horn,Shanghai Pudong Airport,"Shanghai, China",South Africa,,"Shanghai, China",3.19,,,Air Freight,,,
+457,2014,10-Mar-14,Rhino Horn,Tan Son Nhat Airport,"Ho Chi Minh City, Vietnam",,,,13.1,5,,Luggage,,,
+458,2014,23-Mar-14,Rhino Horn,Hosea Kutako Airport,"Windhoek, Namibia","Windhoek, Namibia","Johannesburg, South Africa","Hong Kong, China",,14,,Unknown,,"Plastic, Foil, And Clothes",
+459,2014,1-May-14,Rhino Horn,Hamad Airport,"Doha, Qatar",Mozambique,"Doha, Qatar",Vietnam,,6,,Luggage,,,
+460,2014,1-May-14,Rhino Horn,Guangzhou Baiyun Airport,"Guangzhou, China","Lagos, Nigeria","Doha, Qatar","Guangzhou, China",30.95,,,Unknown,,,
+461,2014,27-Oct-14,Rhino Horn,Noi Bai Airport,"Hanoi, Vietnam","Bangkok, Thailand",,"Hanoi, Vietnam",6,,Qatar Airways,Luggage,scanner,,
+462,2014,31-Oct-14,Rhino Horn,O.R. Tambo Airport,"Johannesburg, South Africa","Maputo, Mozambique","Johannesburg, South Africa; Doha, Qatar","Hanoi, Vietnam",41,18,Qatar Airways,Luggage,Canine,,
+463,2014,1-Nov-14,Rhino Horn,Noi Bai Airport,"Hanoi, Vietnam","Bangkok, Thailand",,"Hanoi, Vietnam",7,,,Unknown,,,
+464,2015,26-Jan-15,Rhino Horn,Cape Town Airport,"Cape Town, South Africa","Cape Town, South Africa",,China,,2,,Unknown,,,
+465,2015,10-Mar-15,Rhino Horn,Milan-Malpensa Airport,"Milan, Italy","Milan, Italy",,China,,3,,Unknown,,,
+466,2015,17-Mar-15,Rhino Horn,Tan Son Nhat Airport,"Ho Chi Minh City, Vietnam",,,,1.39,,,Unknown,,Hidden in frozen lobsters,
+467,2015,24-Mar-15,Rhino Horn,Cape Town Airport,"Cape Town, South Africa",,,,5,,,Unknown,,,
+468,2015,30-Mar-15,Rhino Horn,Milan-Malpensa Airport,"Milan, Italy","Milan, Italy",,"Shanghai, China",,2,,Unknown,,Inside wooden buddha statutes,
+469,2015,1-Apr-15,Rhino Horn,Maputo Airport,"Maputo, Mozambique",,"Maputo, Mozambique",,5.4,,,Unknown,,,
+470,2015,16-Apr-15,Rhino Horn,Noi Bai Airport,"Hanoi, Vietnam",France,,"Hanoi, Vietnam",4.86,3,Vietnam Airlines,Air Freight,,,
+471,2015,28-Apr-15,Rhino Horn,Maputo Airport,"Maputo, Mozambique",,,Qatar,,1,,Luggage,,,
+472,2015,1-May-15,Rhino Horn,Maputo Airport,"Maputo, Mozambique",,,,3.6,,,Unknown,,,
+473,2015,15-May-15,Rhino Horn,Jomo Kenyatta Airport,"Nairobi, Kenya","Maputo, Mozambique","Nairobi, Kenya","Hanoi, Vietnam",12,7,KQ,Luggage,,Nylon Papers,
+474,2015,8-Jun-15,Rhino Horn,Juba Airport,"Juba, South Sudan",,,,,,,Unknown,,,
+475,2015,25-Jul-15,Rhino Horn,Suvarnabhumi Airport,"Bangkok, Thailand","Entebbe, Uganda","Addis Ababa, Ethiopia","Bangkok, Thailand",9.8,8,,Luggage,,Wrapped in tin foil,
+476,2015,25-Jul-15,Rhino Horn,Suvarnabhumi Airport,"Bangkok, Thailand",Ethiopia,,"Bangkok, Thailand",10.6,4,,Luggage,Tip-off and x-ray,Clay hippopotamus,
+477,2015,25-Jul-15,Rhino Horn,Hong Kong Airport,"Hong Kong, China","Pemba, Mozambique","Johannesburg, South Africa","Hong Kong, China",,10,,Air Freight,,,
+478,2015,12-Aug-15,Rhino Horn,Noi Bai Airport,"Hanoi, Vietnam",Africa,South Korea,"Hanoi, Vietnam",4.76,1,,Air Freight,,,
+479,2015,21-Sep-15,Rhino Horn,Hong Kong Airport,"Hong Kong, China","Johannesburg, South Africa",,"Hong Kong, China",10,,,Luggage,,,
+480,2015,18-Oct-15,Rhino Horn,N'djili Airport,"Kinshasa, DR Congo","Kinshasa, DR Congo","Paris, France","Hanoi, Vietnam",5,2,Air Frannce,Unknown,,,
+481,2015,10-Nov-15,Rhino Horn,Maputo Airport,"Maputo, Mozambique","Maputo, Mozambique",,,,14,,Unknown,,,
+482,2015,30-Nov-15,Rhino Horn,Entebbe Airport,"Entebbe, Uganda","Entebbe, Uganda",,Vietnam,3,,,Air Freight,,Hidden in alleged timber samples,
+483,2015,23-Dec-15,Rhino Horn,O.R. Tambo Airport,"Johannesburg, South Africa","Johannesburg, South Africa",,,10,2,,Unknown,,Taxidermy,
+484,2016,25-Jan-16,Rhino Horn,Jomo Kenyatta Airport,"Nairobi, Kenya",DR Congo,"Nairobi, Kenya",China,,,,Unknown,,,
+485,2016,16-Feb-16,Rhino Horn,Soekarno-Hatta Airport,"Jakarta, Indonesia",Zambia,"Abu Dhabi, UAE","Jakarta, Indonesia",,2,,Unknown,,,
+486,2016,11-Mar-16,Rhino Horn,Maputo Airport,"Maputo, Mozambique","Maputo, Mozambique",Kenya,,76.6,,,Luggage,,,
+487,2016,2-May-16,Rhino Horn,Maputo Airport,"Maputo, Mozambique","Maputo, Mozambique","Nairobi, Kenya",,22.4,11,,Luggage,,,
+488,2016,16-May-16,Rhino Horn,Hong Kong Airport,"Hong Kong, China",South Africa,,"Hong Kong, China",10,5,,Air Freight,,Wrapped In Plastic And Paper And Covered In Toys,
+489,2016,31-Jul-16,Rhino Horn,Tan Son Nhat Airport,"Ho Chi Minh City, Vietnam",,,"Ho Chi Minh City, Vietnam",,,,Luggage,,Hid in formula milk tubs,
+490,2016,18-Aug-16,Rhino Horn,O.R. Tambo Airport,"Johannesburg, South Africa","Johannesburg, South Africa",,"Hong Kong, China",,10,,Luggage,,,
+491,2016,23-Sep-16,Rhino Horn,O.R. Tambo Airport,"Johannesburg, South Africa",,,,9.4,3,,Luggage,X-ray,Wrapped In Plastic,
+492,2009,24-Mar-09,Ivory,Suvarnabhumi Airport,"Bangkok, Thailand","Entebbe, Uganda",,"Bangkok, Thailand",1000,,,Airfreight,,,
+493,2009,1-May-09,Ivory,,Belgium,Guinea,Belgium,China,250,,,,,,
+494,2009,1-Jun-09,Ivory,Beijing Capital Airport,"Beijing, China",Zimbabwe,,"Beijing, China",500,,,Unknown,,,
+495,2009,11-Jun-09,Ivory,Chengdu Shuangliu Airport,"Chengdu, China",USA,"Hong Kong, China","Chengdu, China",,,,Luggage,Several bags with complex packing caused customs inspection,Woodcarvings And Porcelain,
+496,2009,21-Aug-09,Ivory,Suvarnabhumi Airport,"Bangkok, Thailand",Uganda; Kenya,Qatar,"Bangkok, Thailand",812,,,Airfreight,Result of Investigation,,
+497,2009,27-Sep-09,Ivory,Addis Ababa Bole Airport,"Addis Ababa, Ethiopia","Addis Ababa, Ethiopia","Nairobi, Kenya","Bangkok, Thailand",637,,,Airfreight,,"Labeled as ""Dye polishing bench""",
+498,2009,29-Sep-09,Ivory,Jomo Kenyatta Airport,"Nairobi, Kenya","Addis Ababa, Ethiopia","Nairobi, Kenya","Bangkok, Thailand",532,,,Arifreight,,"Air-Freighted Unaccompanied Luggage; Kenya Airways warehouse; Shipment Declared As ""Polishing Bench""",
+499,2010,24-Feb-10,Ivory,Suvarnabhumi Airport,"Bangkok, Thailand","Nairobi, Kenya","Dubai, UAE; Bangkok, Thailand",Laos,2075,,,Airfreight,Tip-off,Hidden In Pallets Labeled As Mobile Phone Parts,
+500,2010,16-Apr-10,Ivory,Wenzhou Longwan Airport,"Wenzhou, China",,Portugal,"Wenzhou, China",1.3,,,,,,
+501,2010,17-Apr-10,Ivory,Suvarnabhumi Airport,"Bangkok, Thailand",Kenya,"Doha, Qatar; Bangkok, Thailand",Laos ,1390,,,Airfreight,Tip-off,Hidden In Crates Labeled As Computer Printers,
+502,2010,14-Jul-10,Ivory,Suvarnabhumi Airport,"Bangkok, Thailand",Kenya,,"Bangkok, Thailand",765,,,Airfreight,Tip-off,Labelled as furniture and plastic folders,
+503,2010,23-Aug-10,Ivory,Jomo Kenyatta Airport,"Nairobi, Kenya","Kampala, Uganda","Nairobi, Kenya","Hong Kong, China",3.3,,,Airfreight,,,
+504,2010,26-Aug-10,Ivory,Jomo Kenyatta Airport,"Nairobi, Kenya",,,,5,,,Luggage,,,
+505,2010,28-Aug-10,Ivory,Suvarnabhumi Airport,"Bangkok, Thailand","Addis Ababa, Ethiopia",,"Bangkok, Thailand",90,,,Luggage,Result of Investigation,Packed in luggage,
+506,2010,11-Dec-10,Ivory,Jomo Kenyatta Airport,"Nairobi, Kenya",Malawi,"Nairobi, Kenya","Bangkok, Thailand",92,,Kenya Airways,Airfreight,Dogs,,
+507,2010,25-Dec-10,Ivory,Jomo Kenyatta Airport,"Nairobi, Kenya","Maputo, Mozambique","Nairobi, Kenya","Bangkok, Thailand",19.5,,Kenya Airways,Luggage,Dogs,Hidden in luggage,
+508,2011,17-Jan-11,Ivory,Jomo Kenyatta Airport,"Nairobi, Kenya","Kinshasa, DR Congo","Nairobi, Kenya","Guangzhou, China",65,,,Unknown,,,
+509,2011,9-Jan-11,Ivory,Lilongwe Airport,"Lilongwe, Malawi","Lilongwe, Malawi",,China,3.5,,,Unknown,,Concealed Among Other Curios,
+510,2011,22-Jan-11,Ivory,Maya-Maya Airport,"Brazzaville, ROC","Brazzaville, ROC",,"Beijing, China",10,,,Unknown,,,
+511,2011,1-Feb-11,Ivory,Lilongwe Airport,"Lilongwe, Malawi","Lilongwe, Malawi",,China,1.5,,,Unknown,,,
+512,2011,17-Mar-11,Ivory,Lilongwe Airport,"Lilongwe, Malawi","Lilongwe, Malawi",,China,0.22,,,Luggage,,,
+513,2011,11-Apr-11,Ivory,Lilongwe Airport,"Lilongwe, Malawi",,,China,0.2,,,Unknown,,,
+514,2011,14-Apr-11,Ivory,Lilongwe Airport,"Lilongwe, Malawi",,,,2.8,,,Unknown,,,
+515,2011,15-Apr-11,Ivory,Lilongwe Airport,"Lilongwe, Malawi",,,,0.6,,,Unknown,,,
+516,2011,28-Apr-11,Ivory,Jomo Kenyatta Airport,"Nairobi, Kenya",DR Congo,"Nairobi, Kenya",China,96.5,,,Luggage,,,
+517,2011,2-May-11,Ivory,Lilongwe Airport,"Lilongwe, Malawi","Lilongwe, Malawi",,China,,,,Luggage,,,
+518,2011,5-May-11,Ivory,Jomo Kenyatta Airport,"Nairobi, Kenya",Tanzania; Mozambique,"Nairobi, Kenya","Lagos, Nigeria",1304,,,Airfeight,,Concealed in metal boxes and smeared in pepper,
+519,2011,21-May-11,Ivory,Lilongwe Airport,"Lilongwe, Malawi","Lilongwe, Malawi",,China,,,,Luggage,,As Personal Effects,
+520,2011,1-Jun-11,Ivory,Lilongwe Airport,"Lilongwe, Malawi",,,,1,,,Unknown,,,
+521,2011,18-Jun-11,Ivory,Lilongwe Airport,"Lilongwe, Malawi",,,,,,,Unknown,,,
+522,2011,12-Aug-11,Ivory,Lilongwe Airport,"Lilongwe, Malawi",,,,1,,,Unknown,,,
+523,2011,29-Aug-11,Ivory,Murtala Mohammed Airport,"Lagos, Nigeria",,,,234.4,,,Unknown,,,
+524,2011,18-Sep-11,Ivory,Dubai Airport,"Dubai, UAE",,"Dubai, UAE",,,,,Unknown,,,
+525,2011,4-Oct-11,Ivory,Lilongwe Airport,"Lilongwe, Malawi",,,,0.35,,,Unknown,,,
+526,2011,15-Nov-11,Ivory,Hong Kong Airport,"Hong Kong, China","Cape Town, South Africa",,,,,,Airfeight,X-ray,Plastic and Aluminum Foil,
+527,2011,26-Nov-11,Ivory,Jomo Kenyatta Airport,"Nairobi, Kenya","Nairobi, Kenya",,"Hong Kong, China",600,,,Airfreight,Routine Search,"Soapstone Products, Tiles, Wooden Carvings",
+528,2011,19-Dec-11,Ivory,Lilongwe Airport,"Lilongwe, Malawi",,,,0.2,,,Unknown,,,
+529,2012,6-Jan-12,Ivory,Lilongwe Airport,"Lilongwe, Malawi",,,,,,,Unknown,,,
+530,2012,9-Jan-12,Ivory,Jomo Kenyatta Airport,"Nairobi, Kenya","Nairobi, Kenya","Lubumbashi, DR Congo",China,2.5,,,Luggage,,,
+531,2012,12-Jan-12,Ivory,Jomo Kenyatta Airport,"Nairobi, Kenya",,"Juba, Sudan",,2.1,,,Unknown,,,
+532,2012,14-Jan-12,Ivory,Cardiff Airport,"Cardiff, United Kingdom",Zambia,"Amsterdam, Netherlands","Cardiff, United Kingdom",15,,,Luggage,,,
+533,2012,1-Feb-12,Ivory,Entebbe Airport,"Entebbe, Uganda",,,,,,,Unknown,,,
+534,2012,29-Feb-12,Ivory,Cape Town Airport,"Cape Town, South Africa","Johannesburg, South Africa",,"Cape Town, South Africa",54,,,Airfreight,Routine Search,,
+535,2012,4-Mar-12,Ivory,Murtala Mohammed Airport,"Lagos, Nigeria","Lagos, Nigeria",Qatar,China,2,,Qatar Airways,Passanger item,,Concealed in Teddy Bear,
+536,2012,1-Apr-12,Ivory,Entebbe Airport,"Entebbe, Uganda",,,,6,,,Unknown,,,
+537,2012,25-Apr-12,Ivory,Suvarnabhumi Airport,"Bangkok, Thailand",Nigeria,,"Bangkok, Thailand",58.54,,,Airfreight,,Falsely declared as gemstones,
+538,2012,20-May-12,Ivory,Lilongwe Airport,"Lilongwe, Malawi",,"Lilongwe, Malawi",China,,,,Luggage,,As Personal Effects,
+539,2012,1-Jun-12,Ivory,Entebbe Airport,"Entebbe, Uganda",,,,473,,,Unknown,,,
+540,2012,1-Jun-12,Ivory,Entebbe Airport,"Entebbe, Uganda",DR Congo,"Entebbe, Uganda",,180,,,Airfreight,,Marked as household goods,
+541,2012,6-Jun-12,Ivory,Maputo Airport,"Maputo, Mozambique","Nairobi, Kenya","Maputo, Mozambique",,25,,Kenyan Airlines,Luggage,,,
+542,2012,22-Jun-12,Ivory,Jomo Kenyatta Airport,"Nairobi, Kenya","Nairobi, Kenya",,"Lagos, Nigeria",601,,,Airfreight,,6 wooden boxes -- sprayed with pepper and covered with aluminum foil --- declared as motor vehicle spare parts,
+543,2012,5-Jul-12,Ivory,Cairo Airport,"Cairo, Egypt","Cairo, Egypt",France,,24,,France Airways,,,,
+544,2012,8-Jul-12,Ivory,Entebbe Airport,"Entebbe, Uganda","Entebbe, Uganda",,Malaysia,426,,,Airfrieght,,,
+545,2012,10-Jul-12,Ivory,Cape Town Airport,"Cape Town, South Africa","Cape Town, South Africa",,"Hong Kong, China",762,,,,Routine Search,Boxes Of Wine,
+546,2012,11-Jul-12,Ivory,Cape Town Airport,"Cape Town, South Africa","Johannesburg, South Africa","Cape Town, South Africa","Hong Kong, China",230,,,Airfrieght,,,
+547,2012,13-Jul-12,Ivory,Suvarnabhumi Airport,"Bangkok, Thailand",,"Nairobi, Kenya","Bangkok, Thailand",456,,,airfrieght,,,
+548,2012,14-Jul-12,Ivory,Lilongwe Airport,"Lilongwe, Malawi",,"Lilongwe, Malawi",China,,,,,,In A Plastic Bag,
+549,2012,18-Jul-12,Ivory,Tan Son Nhat Airport,"Ho Chi Minh City, Vietnam",Thailand,,"Ho Chi Minh City, Vietnam",137,,,Luggage,,,
+550,2012,1-Aug-12,Ivory,Entebbe Airport,"Entebbe, Uganda",,,,15,,,,,,
+551,2012,1-Aug-12,Ivory,Entebbe Airport,"Entebbe, Uganda",,,,5,,,,,,
+552,2012,1-Sep-12,Ivory,Entebbe Airport,"Entebbe, Uganda",,,,30,,,,,,
+553,2012,1-Sep-12,Ivory,Entebbe Airport,"Entebbe, Uganda",,,,465,,,,,,
+554,2012,14-Sep-12,Ivory,Jomo Kenyatta Airport,"Nairobi, Kenya","Nairobi, Kenya","Doha, Qatar","Kuala Lumpur, Malaysia",255,,,Airfrieght,,,
+555,2012,17-Sep-12,Ivory,Lilongwe Airport,"Lilongwe, Malawi",,"Lilongwe, Malawi",China,,,,,,As Personal Effects In Baggage,
+556,2012,19-Sep-12,Ivory,Noi Bai Airport,"Hanoi, Vietnam",Angola,,"Hanoi, Vietnam",19,,,,,,
+557,2012,22-Sep-12,Ivory,Jomo Kenyatta Airport,"Nairobi, Kenya","Luanda, Angola","Nairobi, Kenya","Bangkok, Thailand",27,,,Luggage,,,
+558,2012,24-Sep-12,Ivory,Lilongwe Airport,"Lilongwe, Malawi","Lilongwe, Malawi",South Africa,"Hong Kong, China",10.4,,,,,,
+559,2012,22-Oct-12,Ivory,Lilongwe Airport,"Lilongwe, Malawi",,,,6,,,,,,
+560,2012,23-Oct-12,Ivory,Jomo Kenyatta Airport,"Nairobi, Kenya","Nairobi, Kenya","DR Congo; Bangkok, Thailand",China,1.6,,,,,,
+561,2012,26-Oct-12,Ivory,Beijing Capital Airport,"Beijing, China",,,"Beijing, China",3,,,,,,
+562,2012,1-Nov-12,Ivory,Entebbe Airport,"Entebbe, Uganda",,,,62,,,,,,
+563,2012,1-Nov-12,Ivory,Jomo Kenyatta Airport,"Nairobi, Kenya","Nairobi, Kenya",Cameroon,"Hong Kong, China",2.4,,,Luggage,,,
+564,2012,12-Nov-12,Ivory,Entebbe Airport,"Entebbe, Uganda","Entebbe, Uganda",,"Lome, Togo",62,,,,,,
+565,2012,20-Nov-12,Ivory,Jomo Kenyatta Airport,"Nairobi, Kenya","Luanda, Angola","Nairobi, Kenya",Thailand,37.2,,,,,,
+566,2012,24-Nov-12,Ivory,Cairo Airport,"Cairo, Egypt",South Sudan,,,20,,,,,,
+567,2012,28-Nov-12,Ivory,Murtala Mohammed Airport,"Lagos, Nigeria",,,,2.5,,,,,,
+568,2012,1-Dec-12,Ivory,Cairo Airport,"Cairo, Egypt",Sudan,,,10,,,,,,
+569,2012,3-Dec-12,Ivory,Da Nang Airport,"Da Nang, Vietnam",Singapore,,"Da Nang, Vietnam",61.6,,,,,,
+570,2012,15-Dec-12,Ivory,Suvarnabhumi Airport,"Bangkok, Thailand",Ethiopia,"Bangkok, Thailand","Phnom Penh, Cambodia",55,,,,,,
+571,2012,21-Dec-12,Ivory,Lilongwe Airport,"Lilongwe, Malawi",,,,1,,,,,,
+572,2013,1-Jan-13,Ivory,Shanghai Pudong Airport,"Shanghai, China","Paris, France",,"Shanghai, China",41.99,,,,,13,
+573,2013,7-Jan-13,Ivory,Lilongwe Airport,"Lilongwe, Malawi",,,,1.34,,,,,,
+574,2013,9-Jan-13,Ivory,Lilongwe Airport,"Lilongwe, Malawi","Lilongwe, Malawi","Addis Ababa, Ethiopia",China,2,,,,,,
+575,2013,17-Jan-13,Ivory,Jomo Kenyatta Airport,"Nairobi, Kenya","Bujumbura, Burundi","Nairobi, Kenya",Thailand,1.5,,,,,,
+576,2013,21-Jan-13,Ivory,Lilongwe Airport,"Lilongwe, Malawi",,"Lilongwe, Malawi",Pakistan,,,,,,,
+577,2013,22-Jan-13,Ivory,Jomo Kenyatta Airport,"Nairobi, Kenya","Nairobi, Kenya","Luanda, Angola; Bangkok, Thailand",Vietnam,3,,,,,,
+578,2013,26-Jan-13,Ivory,Lilongwe Airport,"Lilongwe, Malawi",,,,0.3,,,,,,
+579,2013,27-Jan-13,Ivory,Jomo Kenyatta Airport,"Nairobi, Kenya","Nairobi, Kenya","Lubumbashi, DR Congo","Guangzhou, China",9.6,,,,,,
+580,2013,30-Jan-13,Ivory,Jomo Kenyatta Airport,"Nairobi, Kenya","Nairobi, Kenya","Yaounde, Cameroon","Guangzhou, China",13.33,,,,,,
+581,2013,11-Feb-13,Ivory,Lilongwe Airport,"Lilongwe, Malawi",,,,2,,,,,,
+582,2013,17-Feb-13,Ivory,Jomo Kenyatta Airport,"Nairobi, Kenya","Nairobi, Kenya",,"Guangzhou, China",58,,,Luggage,,,
+583,2013,18-Feb-13,Ivory,Jomo Kenyatta Airport,"Nairobi, Kenya","Nairobi, Kenya","Maputo, Mozambique","Guangzhou, China",1.5,,,,,,
+584,2013,20-Feb-13,Ivory,Kuala Lumpur Airport,"Kuala Lumpur, Malaysia","Entebbe, Uganda",,"Kuala Lumpur, Malaysia",422,,,,,,
+585,2013,27-Feb-13,Ivory,Lilongwe Airport,"Lilongwe, Malawi",,,,1.5,,,,,,
+586,2013,28-Feb-13,Ivory,Cairo Airport,"Cairo, Egypt",South Sudan,"Cairo, Egypt",,42,,Egypt Airlines,,,,
+587,2013,1-Mar-13,Ivory,Entebbe Airport,"Entebbe, Uganda",,,,,,,,,,
+588,2013,2-Mar-13,Ivory,Shanghai Pudong Airport,"Shanghai, China",South Africa,"Dubai, UAE","Shanghai, China",6.5,,,,,,
+589,2013,10-Mar-13,Ivory,Jomo Kenyatta Airport,"Nairobi, Kenya","Nairobi, Kenya",Benin,"Guangzhou, China",1,,,,,,
+590,2013,19-Mar-13,Ivory,Jomo Kenyatta Airport,"Nairobi, Kenya","Kinshasa, DR Congo ","Nairobi, Kenya","Hong Kong, China",731.66,,,,,,
+591,2013,1-Apr-13,Ivory,Dalian Zhoushuizi Airport,"Dalian, China","Nagoya, Japan",,"Dalian, China",611.66,,"Flight CZ620 from Nagoya, Japan to Dalian, China, Intercepted largest wildlife seizure for Dalian to date - assorted wildlife products including finished ivory products, narwhal tusks, polar bear skins, red coral, and more, Internal flight from Nagoya to Dalian, Ivory packed in 11 suitcases, Suspect Zhao confessed that some of the ivory pieces were purchased in Japanese markets and some were given by his friend as gifts",,,,
+592,2013,2-Apr-13,Ivory,Lilongwe Airport,"Lilongwe, Malawi",,,,,,,,,,
+593,2013,4-Apr-13,Ivory,Jomo Kenyatta Airport,"Nairobi, Kenya",Mozambique; South Africa; DR Congo,"Nairobi, Kenya","Hong Kong, China",1.4,,,,,,
+594,2013,7-Apr-13,Ivory,Jomo Kenyatta Airport,"Nairobi, Kenya","Nairobi, Kenya",,"Bangkok, Thailand",34,,,,,Disguised as soapstone,
+595,2013,17-Apr-13,Ivory,Fuzhou Changle Airport,"Fuzhou, China",,,"Fuzhou, China",2.58,,,,,,
+596,2013,8-May-13,Ivory,Murtala Mohammed Airport,"Lagos, Nigeria",,,,1.01,,,,,,
+597,2013,13-May-13,Ivory,Lilongwe Airport,"Lilongwe, Malawi",,"Lilongwe, Malawi",China,1.1,,,Luggage,,,
+598,2013,17-May-13,Ivory,Lilongwe Airport,"Lilongwe, Malawi",,"Lilongwe, Malawi",China,1.36,,,,Covered in Blanket,,
+599,2013,29-May-13,Ivory,Cairo Airport,"Cairo, Egypt",Nigeria,"Cairo, Egypt",,17,,,,,,
+600,2013,29-May-13,Ivory,Kenneth Kaunda Airport,"Lusaka, Zambia","Lusaka, Zambia",,China,27,,,,"Intercepted at airport, follow up arrests yielded two AK-47s with 32 rounds, six tusks, three elephant tails, 915kg bush meat and 2 bikes",,
+601,2013,29-May-13,Ivory,Cairo Airport,"Cairo, Egypt",Nigeria,"Cairo, Egypt",,11,,Egypt Airlines,,,,
+602,2013,10-Jun-13,Ivory,Murtala Mohammed Airport,"Lagos, Nigeria","Lagos, Nigeria",,,4.55,,,,,,
+603,2013,10-Jun-13,Ivory,Murtala Mohammed Airport,"Lagos, Nigeria","Lagos, Nigeria",,,3.85,,,,,,
+604,2013,20-Jun-13,Ivory,Murtala Mohammed Airport,"Lagos, Nigeria","Lagos, Nigeria",,,,,,,,,
+605,2013,26-Jun-13,Ivory,Cairo Airport,"Cairo, Egypt",Uganda,"Cairo, Egypt",,22,,Egypt Airlines,,,,
+606,2013,28-Jun-13,Ivory,Murtala Mohammed Airport,"Lagos, Nigeria","Lagos, Nigeria",,,96,,,,,,
+607,2013,28-Jun-13,Ivory,Murtala Mohammed Airport,"Lagos, Nigeria","Lagos, Nigeria",,,120,,,,,,
+608,2013,28-Jun-13,Ivory,Lilongwe Airport,"Lilongwe, Malawi","Lilongwe, Malawi",,China,,,,,,,
+609,2013,30-Jun-13,Ivory,Jomo Kenyatta Airport,"Nairobi, Kenya","Nairobi, Kenya",,"Juba, South Sudan",0.2,,,,,,
+610,2013,30-Jun-13,Ivory,Tan Son Nhat Airport,"Ho Chi Minh City, Vietnam",Africa,France,"Ho Chi Minh City, Vietnam",21,,,,,,
+611,2013,1-Jul-13,Ivory,Entebbe Airport,"Entebbe, Uganda",,,,,,,,,,
+612,2013,29-Jun-13,Ivory,Jomo Kenyatta Airport,"Nairobi, Kenya","Nairobi, Kenya","Amsterdam, Netherlands",USA,0.9,,,,,,
+613,2013,22-Jul-13,Ivory,Jinan Yaoqiang Airport,"Jinan, China",Kenya,,"Jinan, China",0.98,,,,,,
+614,2013,1-Aug-13,Ivory,Entebbe Airport,"Entebbe, Uganda",,,,,,,,,,
+615,2013,1-Aug-13,Ivory,Entebbe Airport,"Entebbe, Uganda",,,,,,,,,,
+616,2013,3-Aug-13,Ivory,Murtala Mohammed Airport,"Lagos, Nigeria",,,,53.55,,,,,,
+617,2013,12-Aug-13,Ivory,Hangzhou Xiaoshan Airport,"Hangzhou, China",,Ethiopia,"Hangzhou, China",,,,,,,
+618,2013,14-Aug-13,Ivory,Jomo Kenyatta Airport,"Nairobi, Kenya","Nairobi, Kenya",,"Hong Kong, China",6.9,,,,,,
+619,2013,16-Aug-13,Ivory,Julius Nyerere Airport,"Dar es Salaam, Tanzania","Dar es Salaam, Tanzania",,,19,,,,,,
+620,2013,29-Aug-13,Ivory,Suvarnabhumi Airport,"Bangkok, Thailand",Angola,"Bangkok, Thailand","Siem Reap, Cambodia",105,,,,,,
+621,2013,1-Sep-13,Ivory,Entebbe Airport,"Entebbe, Uganda",,,,,,,,,,
+622,2013,1-Sep-13,Ivory,Entebbe Airport,"Entebbe, Uganda",,,,,,,,,,
+623,2013,29-Aug-13,Ivory,Suvarnabhumi Airport,"Bangkok, Thailand",Angola,"Bangkok, Thailand","Siem Reap, Cambodia",105,,,,,,
+624,2013,1-Sep-13,Ivory,Entebbe Airport,"Entebbe, Uganda",,,,,,,,,,
+625,2013,1-Sep-13,Ivory,Entebbe Airport,"Entebbe, Uganda",,,,,,,,,,
+626,2013,6-Sep-13,Ivory,Dubai Airport,"Dubai, UAE","Harare, Zimbabwe","Dubai, UAE","Kuala Lumpur, Malaysia",447,,,Airfreight,Custom Clearance,,
+627,2013,7-Sep-13,Ivory,Lilongwe Airport,"Lilongwe, Malawi",,,China,118,,,Luggage,,Concealed in Duvets placed in luggage,
+628,2013,1-Oct-13,Ivory,Entebbe Airport,"Entebbe, Uganda",,,,5,,,Unknown,,,
+629,2013,1-Oct-13,Ivory,Changsha Huanghua Airport,"Changsha, China",South Africa,,"Changsha, China",5.83,,,Unknown,,,
+630,2013,1-Oct-13,Ivory,Entebbe Airport,"Entebbe, Uganda",,,,,,,Unknown,,,
+631,2013,1-Oct-13,Ivory,Entebbe Airport,"Entebbe, Uganda",,,,5,,,Unknown,,,
+632,2013,1-Oct-13,Ivory,Entebbe Airport,"Entebbe, Uganda",,,,116,,,Unknown,,,
+633,2013,21-Oct-13,Ivory,Harare Airport,"Harare, Zimbabwe","Harare, Zimbabwe",,China,113.9,,,Luggage,Inspected at Screening Point,,
+634,2013,23-Oct-13,Ivory,Entebbe Airport,"Entebbe, Uganda","Entebbe, Uganda",,China; Malaysia,116,,,Airfreight,,"Labeled Incorrect (as ""beauty accessories"")",
+635,2013,1-Nov-13,Ivory,Harare Airport,"Harare, Zimbabwe",,,,1.5,,,Unknown,,,
+636,2013,8-Nov-13,Ivory,Lilongwe Airport,"Lilongwe, Malawi","Lilongwe, Malawi",,China,,,,Unknown,,,
+637,2013,20-Nov-13,Ivory,Fuzhou Changle Airport,"Fuzhou, China",Botswana,"Hong Kong, China","Fuzhou, China",4.7,,,Unknown,,,
+638,2013,27-Nov-13,Ivory,Shenyang Taoxian Airport,"Shenyang, China",Kenya,"Seoul, South Korea","Shenyang, China",8.77,,,Unknown,,,
+639,2013,1-Dec-13,Ivory,Entebbe Airport,"Entebbe, Uganda",,,,,,,Unknown,,,
+640,2013,1-Dec-13,Ivory,Beijing Capital Airport,"Beijing, China",Ivory Coast,UAE,"Beijing, China",14.54,,,Luggage,Custom Clearance,Placed in Luggage,
+641,2013,16-Dec-13,Ivory,Chingozi Airport,"Tete, Mozambique","Tete, Mozambique","Johannesburg, South Africa","Bangkok, Thailand",,,,Unknown,,,
+642,2013,17-Dec-13,Ivory,Addis Ababa Bole Airport,"Addis Ababa, Ethiopia",Angola,"Addis Ababa, Ethopia",China,,,,Unknown,,,
+643,2013,20-Dec-13,Ivory,Entebbe Airport,"Entebbe, Uganda","Entebbe, Uganda","Lagos, Nigeria",Malaysia,1424,,,Airfreight,,Container,
+644,2014,1-Jan-14,Ivory,Addis Ababa Bole Airport,"Addis Ababa, Ethiopia","Miami, USA","Addis Ababa, Ethiopia; Zambia","Beijing, China",,,,Unknown,,,
+645,2014,4-Jan-14,Ivory,Addis Ababa Bole Airport,"Addis Ababa, Ethiopia",,,,,,,Unknown,,,
+646,2014,5-Jan-14,Ivory,Addis Ababa Bole Airport,"Addis Ababa, Ethiopia",,,,,,,Unknown,,,
+647,2014,7-Jan-14,Ivory,Lilongwe Airport,"Lilongwe, Malawi","Lilongwe, Malawi",Ethiopia,China,120,,,Unknown,,,
+648,2014,8-Jan-14,Ivory,Maputo Airport,"Maputo, Mozambique",,,,,,,Unknown,,,
+649,2014,9-Jan-14,Ivory,Lilongwe Airport,"Lilongwe, Malawi","Lilongwe, Malawi",,Singapore,20,,,Luggage,,Ivory Hidden In 4 Suitcases,
+650,2014,9-Jan-14,Ivory,Addis Ababa Bole Airport,"Addis Ababa, Ethiopia",,,,,,,Unknown,,,
+651,2014,13-Jan-14,Ivory,Hangzhou Xiaoshan Airport,"Hangzhou, China",,,,,,,Passenger Belonging,,Bracelet,
+652,2014,14-Jan-14,Ivory,Changi Airport,Singapore,Angola,"Dubai, UAE; Singapore",Laos,45,,,Unknown,,,
+653,2014,19-Jan-14,Ivory,Addis Ababa Bole Airport,"Addis Ababa, Ethiopia",,,,,,,Unknown,,,
+654,2014,28-Jan-14,Ivory,Jomo Kenyatta Airport,"Nairobi, Kenya","Lubumbashi, DR Congo","Nairobi, Kenya","Guangzhou, China",3.4,,KQ 584 from Lubumbashi and was scheduled to depart on KQ882 ,Lugage,,Placed in Luggage,
+655,2014,28-Jan-14,Ivory,Shanghai Pudong Airport,"Shanghai, China",,,"Shanghai, China",374,,,Luggage,Custom Clearance,Placed in Luggage,
+656,2014,16-Feb-14,Ivory,Siem Reap Airport,"Siem Reap, Cambodia",Angola,"South Korea; Siem Reap, Cambodia","Hanoi, Vietnam",79,,,Luggage,Custom Clearance,Placed in Luggage,
+657,2014,21-Mar-14,Ivory,Jinan Yaoqiang Airport,"Jinan, China",Indonesia,"Hong Kong, China","Jinan, China",,,,Luggage,,,
+658,2014,23-Mar-14,Ivory,Lilongwe Airport,"Lilongwe, Malawi","Lilongwe, Malawi",Ethiopia,Nigeria,30,,,Passenger Clothing and Luggage,,Placed in Luggage,
+659,2014,4-Apr-14,Ivory,M'Vengue El Hadj Omar Bongo Ondimba Airport,"Franceville, Gabon",,,,50.8,,,Luggage,,Placed in Luggage,
+660,2014,7-Apr-14,Ivory,Lilongwe Airport,"Lilongwe, Malawi","Lilongwe, Malawi",,China,80,,,Luggage,,,
+661,2014,15-Apr-14,Ivory,Suvarnabhumi Airport,"Bangkok, Thailand",,"Bangkok, Thailand","Hanoi, Vietnam",22,,,Luggage,,Placed in Luggage,
+662,2014,20-Apr-14,Ivory,Beijing Capital Airport,"Beijing, China",Guinea,,"Beijing, China",1.61,,,Unknown,,,
+663,2014,1-May-14,Ivory,Guangzhou Baiyun Airport,"Guangzhou, China","Lagos, Nigeria","Doha, Qatar","Guangzhou, China",39.5,,,Unknown,,30.95,
+664,2014,9-May-14,Ivory,Heathrow Airport,"London, United Kingdom",,,,10,,,Unknown,,,
+665,2014,12-May-14,Ivory,Kigali Airport,"Kigali, Rwanda",DR Congo,"Kigali, Rwanda",China,2.5,,,Unknown,Intercepted at Check Point,,
+666,2014,13-May-14,Ivory,Lilongwe Airport,"Lilongwe, Malawi",,,,1.1,,,Unknown,,,
+667,2014,14-May-14,Ivory,Jomo Kenyatta Airport,"Nairobi, Kenya",,,,1,,,Unknown,,,
+668,2014,1-Jun-14,Ivory,Chileka Airport,"Blantyre, Malawi",,,,487,,,Unknown,,,
+669,2014,4-Jun-14,Ivory,Qingdao Liuting Airport,"Qingdao, China","Nagoya, Japan",,"Qingdao, China",24.31,,"Flight MU744 (China Eastern Airlines, Nagoya->Qingdao)",Luggage,,,
+670,2014,10-Jun-14,Ivory,Hong Kong Airport,"Hong Kong, China",Angola,"Ethiopia; Hong Kong, China; South Korea",Cambodia,790,,,Unknown,,,
+671,2014,10-Jun-14,Ivory,Tan Son Nhat Airport,"Ho Chi Minh City, Vietnam",Nigeria,"Doha, Qatar","Ho Chi Minh City, Vietnam",110,,,Airfreight,Custom Clearance,,
+672,2014,10-Jun-14,Ivory,Murtala Mohammed Airport,"Lagos, Nigeria",,,,190.05,,,Passenger Belonging & Luggage,,,
+673,2014,22-Jun-14,Ivory,Tan Son Nhat Airport,"Ho Chi Minh City, Vietnam",Nigeria,"Doha, Qatar","Ho Chi Minh City, Vietnam",90,,,Airfrieght,,,
+674,2014,3-Jul-14,Ivory,Urumqi Diwopu Airport,"Urumqi, China",,,,,,,Unknown,,,
+675,2014,9-Jul-14,Ivory,Shanghai Pudong Airport,"Shanghai, China","Addis Ababa, Ethiopia",,"Shanghai, China",4.3,,ET682,Luggage,,,
+676,2014,28-Jul-14,Ivory,Suvarnabhumi Airport,"Bangkok, Thailand","Abidjan, Ivory Coast","Addis Ababa, Ethiopia; Bangkok, Thailand","Siem Reap, Cambodia",60,,,Unknown,,,
+677,2014,2-Sep-14,Ivory,Yaounde-Nsimalen Airport,"Yaounde, Cameroon",,,,,,,Unknown,,,
+678,2014,6-Sep-14,Ivory,Murtala Mohammed Airport,"Lagos, Nigeria",,,,239.35,,,Unknown,,,
+679,2014,16-Sep-14,Ivory,Lilongwe Airport,"Lilongwe, Malawi","Lilongwe, Malawi",Ethiopia,China,50,,,Unknown,,,
+680,2014,28-Sep-14,Ivory,Tan Son Nhat Airport,"Ho Chi Minh City, Vietnam",,,"Ho Chi Minh City, Vietnam",40,,,Unknown,,,
+681,2014,8-Oct-14,Ivory,Dubai Airport,"Dubai, UAE",,,"Dubai, UAE",,,,Luggage,,,
+682,2014,18-Oct-14,Ivory,Lilongwe Airport,"Lilongwe, Malawi",,,,40,,,Unknown,,,
+683,2014,18-Oct-14,Ivory,King Khalid Airport,"Riyadh, Saudi Arabia",Ethiopia,"Riyadh, Saudi Arabia",,490,,,Unknown,,,
+684,2014,19-Oct-14,Ivory,Lilongwe Airport,"Lilongwe, Malawi",,,,18,,,Unknown,,,
+685,2014,20-Oct-14,Ivory,Lilongwe Airport,"Lilongwe, Malawi",,,,49,,,Airfreight,,,
+686,2014,26-Oct-14,Ivory,Bujumbura Airport,"Bujumbura, Burundi",,,,9,,,Unknown,,,
+687,2014,11-Nov-14,Ivory,Moi Airport,"Mombasa, Kenya","Mombasa, Kenya","Dubai, UAE","Bangkok, Thailand",7.3,,,Luggage,Intercepted at Screening Point,,
+688,2014,20-Nov-14,Ivory,Shenyang Taoxian Airport,"Shenyang, China",,,,14.47,,,Unknown,,,
+689,2014,8-Dec-14,Ivory,Maputo Airport,"Maputo, Mozambique","Maputo, Mozambique","Johannesburg, South Africa",Thailand,43,,,Unknown,,,
+690,2014,13-Dec-14,Ivory,Maputo Airport,"Maputo, Mozambique",,,,,,,Unknown,,,
+691,2014,17-Dec-14,Ivory,King Shaka Airport,"Durban, South Africa",,,,,,,Personal Belonging & Luggage,Interepted at Screening Point,Plcaed in Luggage and Bangle ,
+692,2015,25-Jan-15,Ivory,Entebbe Airport,"Entebbe, Uganda","Entebbe, Uganda",,"Amsterdam, Netherlands",700,,,Airfreight,Custom Clearance,Placed in boxes,
+693,2015,8-Feb-15,Ivory,Jomo Kenyatta Airport,"Nairobi, Kenya","Nairobi, Kenya","Dubai, UAE","Hong Kong, China",9.12,,,Unknown,,,
+694,2015,11-Feb-15,Ivory,Jomo Kenyatta Airport,"Nairobi, Kenya","Nairobi, Kenya","Dubai, UAE","Hong Kong, China",12,,,Luggage,,,
+695,2015,14-Feb-15,Ivory,Jomo Kenyatta Airport,"Nairobi, Kenya",DR Congo,"Nairobi, Kenya","Mogadishu, Somalia",,,,Passenger Belonging,,,
+696,2015,19-Feb-15,Ivory,Hong Kong Airport,"Hong Kong, China",Nigeria,,"Hong Kong, China",60,,,Airfreight,Dog,,
+697,2015,13-Mar-15,Ivory,Tan Son Nhat Airport,"Ho Chi Minh City, Vietnam","Dubai, UAE",,"Ho Chi Minh City, Vietnam",43.5,,,Luggage,Suspicious Activity,Placed in Luggage,
+698,2015,16-Mar-15,Ivory,Jomo Kenyatta Airport,"Nairobi, Kenya","Bujumbura, Burundi","Nairobi, Kenya","Bangkok, Thailand",0.07,,,Unknown,,,
+699,2015,16-Mar-15,Ivory,Xiamen Gaoqi Airport,"Xiamen, China","Hong Kong, China",,"Xiamen, China",2.67,,MF8016 Xiamen Airlines,Unknown,,Powdered Milk Cans ,
+700,2015,16-Mar-15,Ivory,Dubai Airport,"Dubai, UAE",,"Dubai, UAE",,200,,,Unknown,,,
+701,2015,17-Mar-15,Ivory,Entebbe Airport,"Entebbe, Uganda","Entebbe, Uganda",,Singapore,500,, Etihad Airways,Airfreight,,In metallic drums covered in Shea Butter and Cassava Flour,
+702,2015,25-Mar-15,Ivory,Hangzhou Xiaoshan Airport,"Hangzhou, China",,"Doha, Qatar","Hangzhou, China",1.28,,,Luggage,,,
+703,2015,5-Apr-15,Ivory,Perth Airport,"Perth, Australia","Lilongwe, Malawi","Johannesburg, South Africa; Perth, Australia","Kuala Lumpur, Malaysia",110,,,Airfreight,,,
+704,2015,14-Apr-15,Ivory,Suvarnabhumi Airport,"Bangkok, Thailand","Luanda, Angola","Bangkok, Thailand",Cambodia,29.5,,,Luggage,,Placed in Luggage,
+705,2015,15-Apr-15,Ivory,Hohhot Baita Airport,"Hohhot, China",Belgium,,"Hohhot, China",0.65,,,Airfrieght,,"Labeled Incorrect (as ""Chocolate"")",
+706,2015,16-Apr-15,Ivory,Noi Bai Airport,"Hanoi, Vietnam",France,,"Hanoi, Vietnam",60.56,,VN 18 ,Airfreight,Custom Clearance,,
+707,2015,22-Apr-15,Ivory,Dubai Airport,"Dubai, UAE",Ivory Coast,"Dubai, UAE",Vietnam,300,,,Airfreight,,,
+708,2015,8-May-15,Ivory,Borg El Arab Airport,"Alexandria, Egypt","Tobruk, Libia",,"Alexandria, Egypt",,,Afriqiyah Airways,Luggage,,Placed in Luggage,
+709,2015,12-May-15,Ivory,Shanghai Pudong Airport,"Shanghai, China",,,,9.1,,,Passenger Clothing  ,Custom Clearance,Taillored Clothes,
+710,2015,31-May-15,Ivory,Entebbe Airport,"Entebbe, Uganda","Entebbe, Uganda","London, United Kingdom; Istanbul, Turkey",Singapore,608,,,Airfreight,Custom Clearance,Labeled Incorrect (as 'videography Equipment' And 'aircraft Parts'),
+711,2015,11-Jun-15,Ivory,Charles de Gaulle Airport,"Paris, France",DR Congo,"Paris, France",Vietnam,136,,,Airfreight,Custom Clearance,,
+712,2015,24-Jun-15,Ivory,Maputo Airport,"Maputo, Mozambique","Maputo, Mozambique","Addis Ababa, Ethiopia",China,3,,,Unknown,,,
+713,2015,25-Jun-15,Ivory,Taiwan Taoyuan Airport,"Taipei, Taiwan","Tokyo, Japan",,"Taipei, Taiwan",3,,,Unknown,,3 Sculptures,
+714,2015,30-Jun-15,Ivory,Tan Son Nhat Airport,"Ho Chi Minh City, Vietnam",France,,"Ho Chi Minh City, Vietnam",2.31,,,Airfreight,Custom Clearance,"Labeled Incorrect (as ""decorative statues"")",
+715,2015,2-Jul-15,Ivory,O.R. Tambo Airport,"Johannesburg, South Africa",Zimbabwe,"Johannesburg, South Africa",Vietnam,267,,,Airfreight,,"Labeled Incorrect (as ""handicrafts"")",
+716,2015,3-Jul-15,Ivory,Suvarnabhumi Airport,"Bangkok, Thailand","Brazzaville, Republic of Congo","Addis Ababa, Ethiopia; Bangkok, Thailand","Vientiane, Laos",250,,,Unknown,,,
+717,2015,4-Jul-15,Ivory,Juba Airport,"Juba, South Sudan","Juba, South Sudan",,Thailand,,,,Unknown,,,
+718,2015,4-Jul-15,Ivory,Entebbe Airport,"Entebbe, Uganda","Entebbe, Uganda",,Singapore,912,,,Unknown,,,
+719,2015,6-Jul-15,Ivory,Zurich Airport,"Zurich, Switzerland","Dar es Salaam, Tanzania","Zurich, Switzerland","Beijing, China",262,,,Luggage,Interepted at Screening Point,Paper and Foil in Lugagges,
+720,2015,13-Jul-15,Ivory,Taiwan Taoyuan Airport,"Taipei, Taiwan","Hong Kong, China",,"Taipei, Taiwan",5.6,,Cathay Pacific flight,Luggage,,hidden inside peanut candy packages in checked luggage,
+721,2015,12-Aug-15,Ivory,Noi Bai Airport,"Hanoi, Vietnam",,South Korea,"Hanoi, Vietnam",95.54,,,Airfreight,, packages show two Vietnamese names: Pham Van Luat and Vu Thanh Hung.,
+722,2015,12-Aug-15,Ivory,Jomo Kenyatta Airport,"Nairobi, Kenya","Maputo, Mozambique","Nairobi, Kenya","London, United Kingdom",,,,Luggage,,,
+723,2015,24-Aug-15,Ivory,Hong Kong Airport,"Hong Kong, China","Abuja, Nigeria","Dubai, UAE","Hong Kong, China",15,,,Luggage,Custom Clearance,tailor-made vest ,
+724,2015,29-Aug-15,Ivory,Lilongwe Airport,"Lilongwe, Malawi","Lilongwe, Malawi","Addis Ababa, Ethiopia","Beijing, China",0.5,,,Passenger Clothing,X-ray,Counterfoil Papers ,
+725,2015,2-Sep-15,Ivory,Hong Kong Airport,"Hong Kong, China",Zimbabwe,"Amsterdam, The Netherlands","Hong Kong, China",24,,,Airfreight,,"Labeled Incorrect (as ""decorative tiles"")",
+726,2015,6-Sep-15,Ivory,Hong Kong Airport,"Hong Kong, China",Zimbabwe,"Amsterdam, The Netherlands","Hong Kong, China",51,,,Airfreight,Sawdust,"Labeled Incorrect (as ""decorative tiles"")",
+727,2015,25-Sep-15,Ivory,Hong Kong Airport,"Hong Kong, China","Harare, Zimbabwe","Dubai, UAE","Hong Kong, China",13,,,luggage,Custom Clearance,tailor-made vest in check-in luggage,
+728,2015,29-Sep-15,Ivory,Hong Kong Airport,"Hong Kong, China","Abuja, Nigeria","Dubai, UAE","Hong Kong, China",16,,,Passenger Clothing & Luggage,Custom Clearance,Tailor-made vest and underpants,
+729,2015,4-Oct-15,Ivory,Siem Reap Airport,"Siem Reap, Cambodia",Angola,,"Siem Reap, Cambodia",46.1,,,Luggage,,placed inside luggage,
+730,2015,6-Oct-15,Ivory,Harare Airport,"Harare, Zimbabwe",,,,,,,Airfreight,X-ray,,
+731,2015,14-Oct-15,Ivory,Heathrow Airport,"London, United Kingdom",Angola,"London, United Kingdom","Hannover, Germany",110,,,Luggage,,,
+732,2015,18-Oct-15,Ivory,N'djili Airport,"Kinshasa, DR Congo","Kinshasa, DR Congo","Paris, France","Hanoi, Vietnam",108,,,Unknown,,,
+733,2015,24-Oct-15,Ivory,Harare Airport,"Harare, Zimbabwe","Harare, Zimbabwe",,Singapore,215.5,,,Luggage,,,
+734,2015,2-Nov-15,Ivory,N'djili Airport,"Kinshasa, DR Congo","Kinshasa, DR Congo","Addis Ababa, Ethiopia","Beijing, China",,,,Luggage,,,
+735,2015,2-Nov-15,Ivory,Hong Kong Airport,"Hong Kong, China","Harare, Zimbabwe","Dubai, UAE","Hong Kong, China",36,,,Luggage,Custom Clearance,Concealed in tailor-made vest; placed inside luggage,
+736,2015,2-Nov-15,Ivory,Hong Kong Airport,"Hong Kong, China",Malaysia,,"Hong Kong, China",38.6,,,Airfreight,Custom Clearance,Dry Pet Food,
+737,2015,6-Nov-15,Ivory,Hong Kong Airport,"Hong Kong, China","Abuja, Nigeria","Dubai, UAE","Hong Kong, China",16,,,Luggage,Custom Clearance,Concealed in tailor-made vest,
+738,2015,7-Dec-15,Ivory,Charles de Gaulle Airport,"Paris, France",Ethiopia,"Paris, France","Hanoi, Vietnam",95.1,,,Luggage,Interepted at Screening Point,,
+739,2015,19-Dec-15,Ivory,Hong Kong Airport,"Hong Kong, China",Namibia,"South Africa; Hong Kong, China",Malaysia,296,,,Airfreight,X-Ray Inspection,Labeled Incorrect,
+740,2015,30-Dec-15,Ivory,Wuhan Tianhe Airport,"Wuhan, China",,,,1.45,,,Unknown,,,
+741,2016,3-Jan-16,Ivory,Hong Kong Airport,"Hong Kong, China","Harare, Zimbabwe","Dubai, UAE","Hong Kong, China",18,,,Passenger Clothing,Suspicious Acitivity ,,
+742,2016,9-Jan-16,Ivory,Jomo Kenyatta Airport,"Nairobi, Kenya",,,,,,,Unknown,,,
+743,2016,11-Jan-16,Ivory,Jomo Kenyatta Airport,"Nairobi, Kenya",,,,,,,Unknown,,,
+744,2016,11-Jan-16,Ivory,Jomo Kenyatta Airport,"Nairobi, Kenya",,,,,,,Unknown,,,
+745,2016,12-Jan-16,Ivory,Murtala Mohammed Airport,"Lagos, Nigeria",,,,,,,Unknown,,,
+746,2016,15-Jan-16,Ivory,Jomo Kenyatta Airport,"Nairobi, Kenya",,,,,,,Unknown,,,
+747,2016,16-Jan-16,Ivory,Jomo Kenyatta Airport,"Nairobi, Kenya","Nampula, Mozambique","Nairobi, Kenya","Guangzhou, China",3.4,,,Luggage,,Placed inside luggage,
+748,2016,23-Jan-16,Ivory,Chileka Airport,"Blantyre, Malawi","Blantyre, Malawi",,China,6,,,Unknown,,,
+749,2016,25-Jan-16,Ivory,Dubai Airport,"Dubai, UAE",,,,173,,,Unknown,,,
+750,2016,25-Jan-16,Ivory,Dalian Zhoushuizi Airport,"Dalian, China",,,,4.1,,,Luggage,X-Ray,Placed Inside Luggage,
+751,2016,30-Jan-16,Ivory,Noi Bai Airport,"Hanoi, Vietnam",Angola,Malaysia,"Hanoi, Vietnam",180,,Vitenam Airlines,Luggage,,,
+752,2016,16-Feb-16,Ivory,Soekarno-Hatta Airport,"Jakarta, Indonesia",Zambia,"Abu Dhabi, UAE","Jakarta, Indonesia",109.15,,,Luggage,,Placed Inside Luggage,
+753,2016,26-Feb-16,Ivory,Kuala Lumpur Airport,"Kuala Lumpur, Malaysia",Angola,"Kuala Lumpur, Malaysia",,101,,,Luggage,,Placed Inside Luggage,
+754,2016,26-Feb-16,Ivory,Kuala Lumpur Airport,"Kuala Lumpur, Malaysia",,"Kuala Lumpur, Malaysia","Hanoi, Vietnam",58,,,Luggage,Interepted at Screening Point,Placed Inside Luggage,
+755,2016,12-Mar-16,Ivory,Guangzhou Baiyun Airport,"Guangzhou, China",,,,0.85,,,Unknown,Interepted at Screening Point,,
+756,2016,14-Mar-16,Ivory,Hong Kong Airport,"Hong Kong, China","Abidjan, Ivory Coast","Dubai, UAE","Hong Kong, China",10.1,,,Luggage,Interepted at Screening Point,Placed Inside Check-In Baggage,
+757,2016,15-Mar-16,Ivory,Guangzhou Baiyun Airport,"Guangzhou, China",,,,0.19,,,Luggage,"X-ray, Dogs",Placed Inside Luggage,
+758,2016,18-Mar-16,Ivory,Guangzhou Baiyun Airport,"Guangzhou, China",,,,0.43,,,Luggage,"X-ray, Dogs",Placed Inside Luggage,
+759,2016,27-Mar-16,Ivory,Suvarnabhumi Airport,"Bangkok, Thailand","Maputo, Mozambique","Nairobi, Kenya","Bangkok, Thailand",315.2,,,,,,
+760,2016,27-Mar-16,Ivory,Jomo Kenyatta Airport,"Nairobi, Kenya","Maputo, Mozambique","Nairobi, Kenya","Bangkok, Thailand",561,,,,,,
+761,2016,29-Mar-16,Ivory,Jomo Kenyatta Airport,"Nairobi, Kenya","Maputo, Mozambique","Nairobi, Kenya","Bangkok, Thailand",,,,Airfreight,Interepted at Screening Point,Placed Inside Luggage,
+762,2016,1-Apr-16,Ivory,Jomo Kenyatta Airport,"Nairobi, Kenya",DR Congo,"Nairobi, Kenya",China,,,,Luggage,Interepted at Screening Point,Placed Inside Luggage,
+763,2016,4-Apr-16,Ivory,Jomo Kenyatta Airport,"Nairobi, Kenya","Lagos, Nigeria","Nairobi, Kenya","Guangzhou, China",2,,,Unknown,,,
+764,2016,11-Apr-16,Ivory,Jomo Kenyatta Airport,"Nairobi, Kenya",Cameroon,"Nairobi, Kenya","Guangzhou, China",,,,Unknown,,,
+765,2016,18-Apr-16,Ivory,Jomo Kenyatta Airport,"Nairobi, Kenya",DR Congo,"Nairobi, Kenya",China,,,,Unknown,,,
+766,2016,22-Apr-16,Ivory,Noi Bai Airport,"Hanoi, Vietnam",,"Tehran, Iran","Hanoi, Vietnam",98,,Turkish Airline ,Airfrieght,Suspicious Cargo,,
+767,2016,27-May-16,Ivory,Juba Airport,"Juba, South Sudan",,,,,,,Unknown,,,
+768,2016,1-Jun-16,Ivory,Charles de Gaulle Airport,"Paris, France",Angola,"Paris, France",Vietnam,142,,,,,,
+769,2016,14-Jul-16,Ivory,Hong Kong Airport,"Hong Kong, China","Harare, Zimbabwe","Dubai, UAE","Hong Kong, China",39,,,Luggage,,Packed in tea bags,
+770,2016,21-Jul-16,Ivory,Kuala Lumpur Airport,"Kuala Lumpur, Malaysia","Kinshasa, DR Congo","Istanbul, Turkey","Kuala Lumpur, Malaysia",1001,,Turkish Airlines,Airfrieght,Suspicious Activity,Labeled Incorrect; Fictitious Address,
+771,2016,27-Jul-16,Ivory,Hong Kong Airport,"Hong Kong, China","Lagos, Nigeria","Addis Ababa, Ethiopia","Hong Kong, China",8,,,Luggage,,Wrapped in newspaper and adhesive tape,
+772,2016,4-Aug-16,Ivory,Kuala Lumpur Airport,"Kuala Lumpur, Malaysia","Entebbe, Uganda","Istanbul, Turkey","Kuala Lumpur, Malaysia",111,,Turkish Airlines,Airfrieght,Result of Investigation,Labeled Incorrect,
+773,2016,1-May-16,Ivory,Berlin Schonefeld Airport,"Berlin, Germany",,,,625,,,Airfrieght,Suspicious Cargo,Labeled Incorrect,
